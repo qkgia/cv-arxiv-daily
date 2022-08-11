@@ -188,7 +188,7 @@ if __name__ == "__main__":
     keywords = dict()
     keywords["MOT"]                = "MOT"+"OR"+"\"Multiple Object Tracking\""
     keywords["Object Tracking"]    = "Tracking"+"OR"+"\"Object Tracking\""+"OR"+"Motion Tracking"
-    keywords["Multi-camera"] = "\"Multiple camera\"+"OR"+"\"Multi-camera\""
+    keywords["Multi-camera"] = "\"Multiple camera\""+"OR"+"\"Multi-camera\""
 
     for topic,keyword in keywords.items():
  
