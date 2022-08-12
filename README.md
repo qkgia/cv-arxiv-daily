@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-11**|**Using Infant Limb Movement Data to Control Small Aerial Robots**|Georgia Kouvoutsakis et.al.|[2208.05698v1](http://arxiv.org/abs/2208.05698v1)|null|
+|**2022-08-11**|**Visual Haptic Reasoning: Estimating Contact Forces by Observing Deformable Object Interactions**|Yufei Wang et.al.|[2208.05632v1](http://arxiv.org/abs/2208.05632v1)|null|
 |**2022-08-11**|**Construction of a Large Diameter Reflective Half-Wave Plate Modulator for Millimeter Wave Applications**|Joseph R. Eimer et.al.|[2208.05005v2](http://arxiv.org/abs/2208.05005v2)|null|
 |**2022-08-09**|**From Scratch to Sketch: Deep Decoupled Hierarchical Reinforcement Learning for Robotic Sketching Agent**|Ganghun Lee et.al.|[2208.04833v1](http://arxiv.org/abs/2208.04833v1)|null|
 |**2022-08-08**|**Denoising Induction Motor Sounds Using an Autoencoder**|Thanh Tran et.al.|[2208.04462v1](http://arxiv.org/abs/2208.04462v1)|null|
@@ -19,6 +21,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-11**|**Domain-Specific Text Generation for Machine Translation**|Yasmin Moslem et.al.|[2208.05909v1](http://arxiv.org/abs/2208.05909v1)|**[link](https://github.com/ymoslem/mt-lm)**|
+|**2022-08-11**|**GEM-2: Next Generation Molecular Property Prediction Network with Many-body and Full-range Interaction Modeling**|Lihang Liu et.al.|[2208.05863v1](http://arxiv.org/abs/2208.05863v1)|null|
+|**2022-08-11**|**A Deformation-based Edit Distance for Merge Trees**|Florian Wetzels et.al.|[2208.05850v1](http://arxiv.org/abs/2208.05850v1)|null|
+|**2022-08-11**|**Assessments in Education**|Hans Henrik Sievertsen et.al.|[2208.05826v1](http://arxiv.org/abs/2208.05826v1)|null|
+|**2022-08-11**|**Towards Sequence-Level Training for Visual Tracking**|Minji Kim et.al.|[2208.05810v1](http://arxiv.org/abs/2208.05810v1)|**[link](https://github.com/byminji/SLTtrack)**|
+|**2022-08-11**|**Using Infant Limb Movement Data to Control Small Aerial Robots**|Georgia Kouvoutsakis et.al.|[2208.05698v1](http://arxiv.org/abs/2208.05698v1)|null|
+|**2022-08-11**|**Burgers' equation in the complex plane**|Daniel J. VandenHeuvel et.al.|[2208.05652v1](http://arxiv.org/abs/2208.05652v1)|null|
+|**2022-08-11**|**Towards Automated Key-Point Detection in Images with Partial Pool View**|T. J. Woinoski et.al.|[2208.05641v1](http://arxiv.org/abs/2208.05641v1)|null|
+|**2022-08-10**|**Stable Homology-Based Cycle Centrality Measures for Weighted Graphs**|John Rick D. Manzanares et.al.|[2208.05565v1](http://arxiv.org/abs/2208.05565v1)|null|
+|**2022-08-10**|**Cell Polarity and Movement with Reaction-Diffusion and Moving Boundary: Rigorous Modeling and Robust Simulations**|Shuang Liu et.al.|[2208.05536v1](http://arxiv.org/abs/2208.05536v1)|null|
 |**2022-08-10**|**Current and perspective sensing methods for monkeypox virus: a reemerging zoonosis in its infancy**|Ijaz Gul et.al.|[2208.05228v1](http://arxiv.org/abs/2208.05228v1)|null|
 |**2022-08-10**|**Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer**|Zhipeng Luo et.al.|[2208.05216v1](http://arxiv.org/abs/2208.05216v1)|**[link](https://github.com/jasonkks/pttr)**|
 |**2022-08-10**|**Quadrotor Autonomous Landing on Moving Platform**|Pengyu Wang et.al.|[2208.05201v1](http://arxiv.org/abs/2208.05201v1)|null|
@@ -34,6 +46,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
 |**2022-08-10**|**Automatic Camera Control and Directing with an Ultra-High-Definition Collaborative Recording System**|Bram Vanherle et.al.|[2208.05213v1](http://arxiv.org/abs/2208.05213v1)|null|
 |**2022-07-29**|**Deep Learning-based Occluded Person Re-identification: A Survey**|Yunjie Peng et.al.|[2207.14452v1](http://arxiv.org/abs/2207.14452v1)|null|
 |**2022-07-13**|**Multiview Contrastive Learning for Completely Blind Video Quality Assessment of User Generated Content**|Shankhanil Mitra et.al.|[2207.06148v1](http://arxiv.org/abs/2207.06148v1)|**[link](https://github.com/shankhanil006/vision)**|
