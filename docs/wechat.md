@@ -1,4 +1,4 @@
-> Updated on 2022.08.11
+> Updated on 2022.08.12
 
 ## SLAM
 
@@ -464,7 +464,7 @@
 
 ## MOT
 
-- 2022-08-09, **Construction of a Large Diameter Reflective Half-Wave Plate Modulator for Millimeter Wave Applications**, Joseph R. Eimer et.al., Paper: [http://arxiv.org/abs/2208.05005v1](http://arxiv.org/abs/2208.05005v1)
+- 2022-08-11, **Construction of a Large Diameter Reflective Half-Wave Plate Modulator for Millimeter Wave Applications**, Joseph R. Eimer et.al., Paper: [http://arxiv.org/abs/2208.05005v2](http://arxiv.org/abs/2208.05005v2)
 - 2022-08-09, **From Scratch to Sketch: Deep Decoupled Hierarchical Reinforcement Learning for Robotic Sketching Agent**, Ganghun Lee et.al., Paper: [http://arxiv.org/abs/2208.04833v1](http://arxiv.org/abs/2208.04833v1)
 - 2022-08-08, **Denoising Induction Motor Sounds Using an Autoencoder**, Thanh Tran et.al., Paper: [http://arxiv.org/abs/2208.04462v1](http://arxiv.org/abs/2208.04462v1)
 - 2022-08-08, **Accelerated Lifetime Test of The SRF Dressed Cavity/Tuner System for LCLS II HE Project**, Y. Pischalnikov et.al., Paper: [http://arxiv.org/abs/2208.04432v1](http://arxiv.org/abs/2208.04432v1)
