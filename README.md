@@ -1,4 +1,4 @@
-## Updated on 2022.08.13
+## Updated on 2022.08.14
 
 ## MOT
 
@@ -27,7 +27,7 @@
 |**2022-08-11**|**Assessments in Education**|Hans Henrik Sievertsen et.al.|[2208.05826v1](http://arxiv.org/abs/2208.05826v1)|null|
 |**2022-08-11**|**Towards Sequence-Level Training for Visual Tracking**|Minji Kim et.al.|[2208.05810v1](http://arxiv.org/abs/2208.05810v1)|**[link](https://github.com/byminji/SLTtrack)**|
 |**2022-08-11**|**Using Infant Limb Movement Data to Control Small Aerial Robots**|Georgia Kouvoutsakis et.al.|[2208.05698v1](http://arxiv.org/abs/2208.05698v1)|null|
-|**2022-08-11**|**Burgers' equation in the complex plane**|Daniel J. VandenHeuvel et.al.|[2208.05652v1](http://arxiv.org/abs/2208.05652v1)|null|
+|**2022-08-11**|**Burgers' equation in the complex plane**|Daniel J. VandenHeuvel et.al.|[2208.05652v1](http://arxiv.org/abs/2208.05652v1)|**[link](https://github.com/danielvandh/burgersequation.jl)**|
 |**2022-08-11**|**Towards Automated Key-Point Detection in Images with Partial Pool View**|T. J. Woinoski et.al.|[2208.05641v1](http://arxiv.org/abs/2208.05641v1)|null|
 |**2022-08-10**|**Stable Homology-Based Cycle Centrality Measures for Weighted Graphs**|John Rick D. Manzanares et.al.|[2208.05565v1](http://arxiv.org/abs/2208.05565v1)|null|
 |**2022-08-10**|**Cell Polarity and Movement with Reaction-Diffusion and Moving Boundary: Rigorous Modeling and Robust Simulations**|Shuang Liu et.al.|[2208.05536v1](http://arxiv.org/abs/2208.05536v1)|null|
