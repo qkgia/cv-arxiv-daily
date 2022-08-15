@@ -464,6 +464,7 @@
 
 ## MOT
 
+- 2022-08-11, **A Hybrid Method for Condition Monitoring and Fault Diagnosis of Rolling Bearings With Low System Delay**, Sulaiman Aburakhia et.al., Paper: [http://arxiv.org/abs/2208.06051v1](http://arxiv.org/abs/2208.06051v1)
 - 2022-08-11, **Using Infant Limb Movement Data to Control Small Aerial Robots**, Georgia Kouvoutsakis et.al., Paper: [http://arxiv.org/abs/2208.05698v1](http://arxiv.org/abs/2208.05698v1)
 - 2022-08-11, **Visual Haptic Reasoning: Estimating Contact Forces by Observing Deformable Object Interactions**, Yufei Wang et.al., Paper: [http://arxiv.org/abs/2208.05632v1](http://arxiv.org/abs/2208.05632v1)
 - 2022-08-11, **Construction of a Large Diameter Reflective Half-Wave Plate Modulator for Millimeter Wave Applications**, Joseph R. Eimer et.al., Paper: [http://arxiv.org/abs/2208.05005v2](http://arxiv.org/abs/2208.05005v2)
@@ -479,6 +480,11 @@
 
 ## Object Tracking
 
+- 2022-08-12, **Markov Observation Models**, Michael A. Kouritzin et.al., Paper: [http://arxiv.org/abs/2208.06368v1](http://arxiv.org/abs/2208.06368v1)
+- 2022-08-12, **Multi-Model Probabilistic Programming**, Ryan Bernstein et.al., Paper: [http://arxiv.org/abs/2208.06329v1](http://arxiv.org/abs/2208.06329v1)
+- 2022-08-12, **Tests Of The Extended Range SRF Cavity Tuners For The LCLS-II-HE Project***, C. Contreras-Martinez et.al., Paper: [http://arxiv.org/abs/2208.06320v1](http://arxiv.org/abs/2208.06320v1)
+- 2022-08-12, **Online Discovery of Evolving Groups over Massive-Scale Trajectory Streams**, Yanwei Yu et.al., Paper: [http://arxiv.org/abs/2208.06128v1](http://arxiv.org/abs/2208.06128v1)
+- 2022-08-11, **Optimizing Anchor-based Detectors for Autonomous Driving Scenes**, Xianzhi Du et.al., Paper: [http://arxiv.org/abs/2208.06062v1](http://arxiv.org/abs/2208.06062v1)
 - 2022-08-11, **Domain-Specific Text Generation for Machine Translation**, Yasmin Moslem et.al., Paper: [http://arxiv.org/abs/2208.05909v1](http://arxiv.org/abs/2208.05909v1), Code: **[https://github.com/ymoslem/mt-lm](https://github.com/ymoslem/mt-lm)**
 - 2022-08-11, **GEM-2: Next Generation Molecular Property Prediction Network with Many-body and Full-range Interaction Modeling**, Lihang Liu et.al., Paper: [http://arxiv.org/abs/2208.05863v1](http://arxiv.org/abs/2208.05863v1)
 - 2022-08-11, **A Deformation-based Edit Distance for Merge Trees**, Florian Wetzels et.al., Paper: [http://arxiv.org/abs/2208.05850v1](http://arxiv.org/abs/2208.05850v1)
