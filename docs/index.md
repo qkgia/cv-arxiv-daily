@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.08.16
+## Updated on 2022.08.17
 
 ## SLAM
 
@@ -580,7 +580,7 @@ layout: default
 |**2022-08-14**|**Single-channel EOG-based human-machine interface with exploratory assessments using harmonic source separation**|Çağatay Demirel et.al.|[2208.06920v1](http://arxiv.org/abs/2208.06920v1)|null|
 |**2022-08-13**|**The Effects of the Interplay Between Motor and Brownian Forces on the Rheology of Active Gels**|Andrés Córdoba et.al.|[2208.06737v1](http://arxiv.org/abs/2208.06737v1)|null|
 |**2022-08-13**|**Virtual Reality Platform to Develop and Test Applications on Human-Robot Social Interaction**|Jair A. Bottega et.al.|[2208.06711v1](http://arxiv.org/abs/2208.06711v1)|null|
-|**2022-08-11**|**A Hybrid Method for Condition Monitoring and Fault Diagnosis of Rolling Bearings With Low System Delay**|Sulaiman Aburakhia et.al.|[2208.06051v1](http://arxiv.org/abs/2208.06051v1)|null|
+|**2022-08-11**|**A Hybrid Method for Condition Monitoring and Fault Diagnosis of Rolling Bearings With Low System Delay**|Sulaiman Aburakhia et.al.|[2208.06051v1](http://arxiv.org/abs/2208.06051v1)|**[link](https://github.com/western-oc2-lab/vibration-based-fault-diagnosis-with-low-delay)**|
 |**2022-08-11**|**Using Infant Limb Movement Data to Control Small Aerial Robots**|Georgia Kouvoutsakis et.al.|[2208.05698v1](http://arxiv.org/abs/2208.05698v1)|null|
 |**2022-08-11**|**Visual Haptic Reasoning: Estimating Contact Forces by Observing Deformable Object Interactions**|Yufei Wang et.al.|[2208.05632v1](http://arxiv.org/abs/2208.05632v1)|null|
 |**2022-08-11**|**Construction of a Large Diameter Reflective Half-Wave Plate Modulator for Millimeter Wave Applications**|Joseph R. Eimer et.al.|[2208.05005v2](http://arxiv.org/abs/2208.05005v2)|null|
@@ -601,7 +601,7 @@ layout: default
 |**2022-08-15**|**MoCapAct: A Multi-Task Dataset for Simulated Humanoid Control**|Nolan Wagener et.al.|[2208.07363v1](http://arxiv.org/abs/2208.07363v1)|null|
 |**2022-08-15**|**ROLAND: Graph Learning Framework for Dynamic Graphs**|Jiaxuan You et.al.|[2208.07239v1](http://arxiv.org/abs/2208.07239v1)|**[link](https://github.com/snap-stanford/roland)**|
 |**2022-08-15**|**Compressing Pre-trained Models of Code into 3 MB**|Jieke Shi et.al.|[2208.07120v1](http://arxiv.org/abs/2208.07120v1)|**[link](https://github.com/soarsmu/Compressor)**|
-|**2022-08-15**|**Xscope: Hunting for Cross-Chain Bridge Attacks**|Jiashuo Zhang et.al.|[2208.07119v1](http://arxiv.org/abs/2208.07119v1)|null|
+|**2022-08-15**|**Xscope: Hunting for Cross-Chain Bridge Attacks**|Jiashuo Zhang et.al.|[2208.07119v1](http://arxiv.org/abs/2208.07119v1)|**[link](https://github.com/xscope-tool/results)**|
 |**2022-08-15**|**Band-ESS: Streaming Enumerative Coding with Applications to Probabilistic Shaping**|Yunus Can Gültekin et.al.|[2208.07111v1](http://arxiv.org/abs/2208.07111v1)|null|
 |**2022-08-15**|**Fabry-Pérot fiber cavity refractive index sensing via linewidth tracking in the broken PT-symmetric region**|Faiza Iftikhar et.al.|[2208.07090v1](http://arxiv.org/abs/2208.07090v1)|null|
 |**2022-08-15**|**Self-Assembled Ligand-Capped Plasmonic Au Nanoparticle Films in the Kretschmann Configuration for Sensing of Volatile Organic Compounds**|Rituraj Borah et.al.|[2208.07034v1](http://arxiv.org/abs/2208.07034v1)|null|
