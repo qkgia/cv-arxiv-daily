@@ -466,7 +466,7 @@
 
 - 2022-08-14, **Single-channel EOG-based human-machine interface with exploratory assessments using harmonic source separation**, Çağatay Demirel et.al., Paper: [http://arxiv.org/abs/2208.06920v1](http://arxiv.org/abs/2208.06920v1)
 - 2022-08-13, **The Effects of the Interplay Between Motor and Brownian Forces on the Rheology of Active Gels**, Andrés Córdoba et.al., Paper: [http://arxiv.org/abs/2208.06737v1](http://arxiv.org/abs/2208.06737v1)
-- 2022-08-13, **Virtual Reality Platform to Develop and Test Applications on Human-Robot Social Interaction**, Jair A. Bottega et.al., Paper: [http://arxiv.org/abs/2208.06711v1](http://arxiv.org/abs/2208.06711v1)
+- 2022-08-13, **Virtual Reality Platform to Develop and Test Applications on Human-Robot Social Interaction**, Jair A. Bottega et.al., Paper: [http://arxiv.org/abs/2208.06711v1](http://arxiv.org/abs/2208.06711v1), Code: **[https://github.com/jajaguto/jubileo](https://github.com/jajaguto/jubileo)**
 - 2022-08-11, **A Hybrid Method for Condition Monitoring and Fault Diagnosis of Rolling Bearings With Low System Delay**, Sulaiman Aburakhia et.al., Paper: [http://arxiv.org/abs/2208.06051v1](http://arxiv.org/abs/2208.06051v1), Code: **[https://github.com/western-oc2-lab/vibration-based-fault-diagnosis-with-low-delay](https://github.com/western-oc2-lab/vibration-based-fault-diagnosis-with-low-delay)**
 - 2022-08-11, **Using Infant Limb Movement Data to Control Small Aerial Robots**, Georgia Kouvoutsakis et.al., Paper: [http://arxiv.org/abs/2208.05698v1](http://arxiv.org/abs/2208.05698v1)
 - 2022-08-11, **Visual Haptic Reasoning: Estimating Contact Forces by Observing Deformable Object Interactions**, Yufei Wang et.al., Paper: [http://arxiv.org/abs/2208.05632v1](http://arxiv.org/abs/2208.05632v1)
@@ -483,6 +483,15 @@
 
 ## Object Tracking
 
+- 2022-08-16, **Compton Telescopes for Gamma-ray Astrophysics**, Carolyn Kierans et.al., Paper: [http://arxiv.org/abs/2208.07819v1](http://arxiv.org/abs/2208.07819v1)
+- 2022-08-16, **Phase-resolved spectroscopic analysis of the eclipsing black hole X-ray binary M33 X-7: System properties, accretion, and evolution**, V. Ramachandran et.al., Paper: [http://arxiv.org/abs/2208.07773v1](http://arxiv.org/abs/2208.07773v1)
+- 2022-08-16, **Ensure A/B Test Quality at Scale with Automated Randomization Validation and Sample Ratio Mismatch Detection**, Keyu Nie et.al., Paper: [http://arxiv.org/abs/2208.07766v1](http://arxiv.org/abs/2208.07766v1)
+- 2022-08-16, **Approximated Doubly Robust Search Relevance Estimation**, Lixin Zou et.al., Paper: [http://arxiv.org/abs/2208.07671v1](http://arxiv.org/abs/2208.07671v1)
+- 2022-08-16, **Canopy elastic turbulence: spontaneous formation of waves in beds of slender microposts**, Charlotte de Blois et.al., Paper: [http://arxiv.org/abs/2208.07651v1](http://arxiv.org/abs/2208.07651v1)
+- 2022-08-16, **Direct Measurement of Topological Number by Quench Dynamics**, Pei-Ling Huang et.al., Paper: [http://arxiv.org/abs/2208.07555v1](http://arxiv.org/abs/2208.07555v1)
+- 2022-08-16, **Single Round-trip Hierarchical ORAM via Succinct Indices**, William Holland et.al., Paper: [http://arxiv.org/abs/2208.07489v1](http://arxiv.org/abs/2208.07489v1)
+- 2022-08-16, **Context-Aware Streaming Perception in Dynamic Environments**, Gur-Eyal Sela et.al., Paper: [http://arxiv.org/abs/2208.07479v1](http://arxiv.org/abs/2208.07479v1), Code: **[https://github.com/eyalsel/contextual-streaming-perception](https://github.com/eyalsel/contextual-streaming-perception)**
+- 2022-08-15, **Chemical evolution in ices on drifting, planet-forming pebbles**, Christian Eistrup et.al., Paper: [http://arxiv.org/abs/2208.07390v1](http://arxiv.org/abs/2208.07390v1)
 - 2022-08-15, **MoCapAct: A Multi-Task Dataset for Simulated Humanoid Control**, Nolan Wagener et.al., Paper: [http://arxiv.org/abs/2208.07363v1](http://arxiv.org/abs/2208.07363v1)
 - 2022-08-15, **ROLAND: Graph Learning Framework for Dynamic Graphs**, Jiaxuan You et.al., Paper: [http://arxiv.org/abs/2208.07239v1](http://arxiv.org/abs/2208.07239v1), Code: **[https://github.com/snap-stanford/roland](https://github.com/snap-stanford/roland)**
 - 2022-08-15, **Compressing Pre-trained Models of Code into 3 MB**, Jieke Shi et.al., Paper: [http://arxiv.org/abs/2208.07120v1](http://arxiv.org/abs/2208.07120v1), Code: **[https://github.com/soarsmu/Compressor](https://github.com/soarsmu/Compressor)**
