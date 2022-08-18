@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-17**|**Magnetic domain scanning imaging using phase-sensitive THz-pulse detection**|Finn-Frederik Stiewe et.al.|[2208.08219v1](http://arxiv.org/abs/2208.08219v1)|null|
 |**2022-08-14**|**Single-channel EOG-based human-machine interface with exploratory assessments using harmonic source separation**|Çağatay Demirel et.al.|[2208.06920v1](http://arxiv.org/abs/2208.06920v1)|null|
 |**2022-08-13**|**The Effects of the Interplay Between Motor and Brownian Forces on the Rheology of Active Gels**|Andrés Córdoba et.al.|[2208.06737v1](http://arxiv.org/abs/2208.06737v1)|null|
 |**2022-08-13**|**Virtual Reality Platform to Develop and Test Applications on Human-Robot Social Interaction**|Jair A. Bottega et.al.|[2208.06711v1](http://arxiv.org/abs/2208.06711v1)|**[link](https://github.com/jajaguto/jubileo)**|
@@ -25,6 +26,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-17**|**Computationally Efficient Robust Model Predictive Control for Uncertain System Using Causal State-Feedback Parameterization**|Anastasis Georgiou et.al.|[2208.08431v1](http://arxiv.org/abs/2208.08431v1)|null|
+|**2022-08-17**|**New primitives for bounded degradation in network service**|Simon Kassing et.al.|[2208.08429v1](http://arxiv.org/abs/2208.08429v1)|null|
+|**2022-08-17**|**Galactic contribution to the high-energy neutrino flux found in track-like IceCube events**|Yu. Kovalev et.al.|[2208.08423v1](http://arxiv.org/abs/2208.08423v1)|null|
+|**2022-08-17**|**Single Mesoscopic Phononic Mode Thermodynamics**|Ilya Golokolenov et.al.|[2208.08395v1](http://arxiv.org/abs/2208.08395v1)|null|
+|**2022-08-17**|**Video-TransUNet: Temporally Blended Vision Transformer for CT VFSS Instance Segmentation**|Chengxi Zeng et.al.|[2208.08315v1](http://arxiv.org/abs/2208.08315v1)|**[link](https://github.com/simonzeng7108/video-transunet)**|
+|**2022-08-17**|**Last-iterate Convergence to Trembling-hand Perfect Equilibria**|Martino Bernasconi et.al.|[2208.08238v1](http://arxiv.org/abs/2208.08238v1)|null|
+|**2022-08-17**|**A regularized model for wetting/dewetting problems: asymptotic analysis and $Γ$-convergence**|Wei Jiang et.al.|[2208.08066v1](http://arxiv.org/abs/2208.08066v1)|null|
+|**2022-08-17**|**InterTrack: Interaction Transformer for 3D Multi-Object Tracking**|John Willes et.al.|[2208.08041v1](http://arxiv.org/abs/2208.08041v1)|null|
+|**2022-08-17**|**CCL4Rec: Contrast over Contrastive Learning for Micro-video Recommendation**|Shengyu Zhang et.al.|[2208.08024v1](http://arxiv.org/abs/2208.08024v1)|null|
+|**2022-08-17**|**Deep Learning Enabled Time-Lapse 3D Cell Analysis**|Jiaxiang Jiang et.al.|[2208.07997v1](http://arxiv.org/abs/2208.07997v1)|**[link](https://github.com/ucsb-vrl/time-lapse3dcellanalysis)**|
 |**2022-08-16**|**Compton Telescopes for Gamma-ray Astrophysics**|Carolyn Kierans et.al.|[2208.07819v1](http://arxiv.org/abs/2208.07819v1)|null|
 |**2022-08-16**|**Phase-resolved spectroscopic analysis of the eclipsing black hole X-ray binary M33 X-7: System properties, accretion, and evolution**|V. Ramachandran et.al.|[2208.07773v1](http://arxiv.org/abs/2208.07773v1)|null|
 |**2022-08-16**|**Ensure A/B Test Quality at Scale with Automated Randomization Validation and Sample Ratio Mismatch Detection**|Keyu Nie et.al.|[2208.07766v1](http://arxiv.org/abs/2208.07766v1)|null|
