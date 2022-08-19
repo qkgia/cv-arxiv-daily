@@ -1,4 +1,4 @@
-> Updated on 2022.08.18
+> Updated on 2022.08.19
 
 ## SLAM
 
@@ -488,7 +488,7 @@
 - 2022-08-17, **New primitives for bounded degradation in network service**, Simon Kassing et.al., Paper: [http://arxiv.org/abs/2208.08429v1](http://arxiv.org/abs/2208.08429v1)
 - 2022-08-17, **Galactic contribution to the high-energy neutrino flux found in track-like IceCube events**, Yu. Kovalev et.al., Paper: [http://arxiv.org/abs/2208.08423v1](http://arxiv.org/abs/2208.08423v1)
 - 2022-08-17, **Single Mesoscopic Phononic Mode Thermodynamics**, Ilya Golokolenov et.al., Paper: [http://arxiv.org/abs/2208.08395v1](http://arxiv.org/abs/2208.08395v1)
-- 2022-08-17, **Video-TransUNet: Temporally Blended Vision Transformer for CT VFSS Instance Segmentation**, Chengxi Zeng et.al., Paper: [http://arxiv.org/abs/2208.08315v1](http://arxiv.org/abs/2208.08315v1), Code: **[https://github.com/simonzeng7108/video-transunet](https://github.com/simonzeng7108/video-transunet)**
+- 2022-08-18, **Video-TransUNet: Temporally Blended Vision Transformer for CT VFSS Instance Segmentation**, Chengxi Zeng et.al., Paper: [http://arxiv.org/abs/2208.08315v2](http://arxiv.org/abs/2208.08315v2), Code: **[https://github.com/simonzeng7108/video-transunet](https://github.com/simonzeng7108/video-transunet)**
 - 2022-08-17, **Last-iterate Convergence to Trembling-hand Perfect Equilibria**, Martino Bernasconi et.al., Paper: [http://arxiv.org/abs/2208.08238v1](http://arxiv.org/abs/2208.08238v1)
 - 2022-08-17, **A regularized model for wetting/dewetting problems: asymptotic analysis and $Γ$-convergence**, Wei Jiang et.al., Paper: [http://arxiv.org/abs/2208.08066v1](http://arxiv.org/abs/2208.08066v1)
 - 2022-08-17, **InterTrack: Interaction Transformer for 3D Multi-Object Tracking**, John Willes et.al., Paper: [http://arxiv.org/abs/2208.08041v1](http://arxiv.org/abs/2208.08041v1)
@@ -550,6 +550,6 @@
 - 2022-06-30, **LiDAR-as-Camera for End-to-End Driving**, Ardi Tampuu et.al., Paper: [http://arxiv.org/abs/2206.15170v1](http://arxiv.org/abs/2206.15170v1)
 - 2022-06-27, **LaRa: Latents and Rays for Multi-Camera Bird's-Eye-View Semantic Segmentation**, Florent Bartoccioni et.al., Paper: [http://arxiv.org/abs/2206.13294v1](http://arxiv.org/abs/2206.13294v1)
 - 2022-06-15, **Waymo Open Dataset: Panoramic Video Panoptic Segmentation**, Jieru Mei et.al., Paper: [http://arxiv.org/abs/2206.07704v1](http://arxiv.org/abs/2206.07704v1)
-- 2022-07-12, **Learning Ego 3D Representation as Ray Tracing**, Jiachen Lu et.al., Paper: [http://arxiv.org/abs/2206.04042v2](http://arxiv.org/abs/2206.04042v2), Code: **[https://github.com/fudan-zvg/ego3rt](https://github.com/fudan-zvg/ego3rt)**
+- 2022-08-17, **Learning Ego 3D Representation as Ray Tracing**, Jiachen Lu et.al., Paper: [http://arxiv.org/abs/2206.04042v3](http://arxiv.org/abs/2206.04042v3), Code: **[https://github.com/fudan-zvg/ego3rt](https://github.com/fudan-zvg/ego3rt)**
 - 2022-06-01, **Towards view-invariant vehicle speed detection from driving simulator images**, Antonio Hernández Martínez et.al., Paper: [http://arxiv.org/abs/2206.00343v1](http://arxiv.org/abs/2206.00343v1)
 
