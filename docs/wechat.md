@@ -464,6 +464,8 @@
 
 ## MOT
 
+- 2022-08-18, **To charge in-flight or not: an inquiry into parallel-hybrid electric aircraft configurations via optimal control**, Mengyuan Wang et.al., Paper: [http://arxiv.org/abs/2208.08969v1](http://arxiv.org/abs/2208.08969v1)
+- 2022-08-18, **Dynamic State Estimation-Based Protection for Induction Motor Loads**, Arthur K. Barnes et.al., Paper: [http://arxiv.org/abs/2208.08825v1](http://arxiv.org/abs/2208.08825v1)
 - 2022-08-17, **Magnetic domain scanning imaging using phase-sensitive THz-pulse detection**, Finn-Frederik Stiewe et.al., Paper: [http://arxiv.org/abs/2208.08219v1](http://arxiv.org/abs/2208.08219v1)
 - 2022-08-14, **Single-channel EOG-based human-machine interface with exploratory assessments using harmonic source separation**, Çağatay Demirel et.al., Paper: [http://arxiv.org/abs/2208.06920v1](http://arxiv.org/abs/2208.06920v1)
 - 2022-08-13, **The Effects of the Interplay Between Motor and Brownian Forces on the Rheology of Active Gels**, Andrés Córdoba et.al., Paper: [http://arxiv.org/abs/2208.06737v1](http://arxiv.org/abs/2208.06737v1)
@@ -484,6 +486,16 @@
 
 ## Object Tracking
 
+- 2022-08-18, **The long stare at Hercules X-1 -- I. Emission lines from the outer disk, the magnetosphere boundary and the accretion curtain**, P. Kosec et.al., Paper: [http://arxiv.org/abs/2208.08930v1](http://arxiv.org/abs/2208.08930v1)
+- 2022-08-18, **Safe Perception-Based Control with Minimal Worst-Case Dynamic Regret**, Hongyu Zhou et.al., Paper: [http://arxiv.org/abs/2208.08929v1](http://arxiv.org/abs/2208.08929v1)
+- 2022-08-18, **Robust Artificial Delay based Impedance Control of Robotic Manipulators with Uncertain Dynamics**, Udayan Banerjee et.al., Paper: [http://arxiv.org/abs/2208.08873v1](http://arxiv.org/abs/2208.08873v1)
+- 2022-08-18, **Time-dependent, long-term hydrodynamic simulations of the inner protoplanetary disk II: The importance of stellar rotation**, Lukas Gehrig et.al., Paper: [http://arxiv.org/abs/2208.08852v1](http://arxiv.org/abs/2208.08852v1)
+- 2022-08-18, **Learning Spatial-Frequency Transformer for Visual Object Tracking**, Chuanming Tang et.al., Paper: [http://arxiv.org/abs/2208.08829v1](http://arxiv.org/abs/2208.08829v1), Code: **[https://github.com/tchuanm/sftranst](https://github.com/tchuanm/sftranst)**
+- 2022-08-18, **Blockchain based digital vaccine passport**, Ms. Megha Rani R et.al., Paper: [http://arxiv.org/abs/2208.08760v1](http://arxiv.org/abs/2208.08760v1)
+- 2022-08-18, **Unifying Visual Perception by Dispersible Points Learning**, Jianming Liang et.al., Paper: [http://arxiv.org/abs/2208.08630v1](http://arxiv.org/abs/2208.08630v1), Code: **[https://github.com/sense-x/unihead](https://github.com/sense-x/unihead)**
+- 2022-08-18, **LoRD: Local 4D Implicit Representation for High-Fidelity Dynamic Human Modeling**, Boyan Jiang et.al., Paper: [http://arxiv.org/abs/2208.08622v1](http://arxiv.org/abs/2208.08622v1)
+- 2022-08-18, **Ret3D: Rethinking Object Relations for Efficient 3D Object Detection in Driving Scenes**, Yu-Huan Wu et.al., Paper: [http://arxiv.org/abs/2208.08621v1](http://arxiv.org/abs/2208.08621v1)
+- 2022-08-18, **Event-triggered Finite-time Control Using Inverse-optimal Implicit Lyapunov Function**, Peng Wang et.al., Paper: [http://arxiv.org/abs/2208.08607v1](http://arxiv.org/abs/2208.08607v1)
 - 2022-08-17, **Computationally Efficient Robust Model Predictive Control for Uncertain System Using Causal State-Feedback Parameterization**, Anastasis Georgiou et.al., Paper: [http://arxiv.org/abs/2208.08431v1](http://arxiv.org/abs/2208.08431v1)
 - 2022-08-17, **New primitives for bounded degradation in network service**, Simon Kassing et.al., Paper: [http://arxiv.org/abs/2208.08429v1](http://arxiv.org/abs/2208.08429v1)
 - 2022-08-17, **Galactic contribution to the high-energy neutrino flux found in track-like IceCube events**, Yu. Kovalev et.al., Paper: [http://arxiv.org/abs/2208.08423v1](http://arxiv.org/abs/2208.08423v1)
