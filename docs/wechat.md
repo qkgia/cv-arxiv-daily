@@ -464,6 +464,7 @@
 
 ## MOT
 
+- 2022-08-18, **Evaluation of Postural Muscle Synergies during a Complex Motor Task in a Virtual Reality Environment**, Xupeng Ai et.al., Paper: [http://arxiv.org/abs/2208.09009v1](http://arxiv.org/abs/2208.09009v1)
 - 2022-08-18, **To charge in-flight or not: an inquiry into parallel-hybrid electric aircraft configurations via optimal control**, Mengyuan Wang et.al., Paper: [http://arxiv.org/abs/2208.08969v1](http://arxiv.org/abs/2208.08969v1)
 - 2022-08-18, **Dynamic State Estimation-Based Protection for Induction Motor Loads**, Arthur K. Barnes et.al., Paper: [http://arxiv.org/abs/2208.08825v1](http://arxiv.org/abs/2208.08825v1)
 - 2022-08-17, **Magnetic domain scanning imaging using phase-sensitive THz-pulse detection**, Finn-Frederik Stiewe et.al., Paper: [http://arxiv.org/abs/2208.08219v1](http://arxiv.org/abs/2208.08219v1)
@@ -486,6 +487,13 @@
 
 ## Object Tracking
 
+- 2022-08-19, **ArUco Maker based localization and Node graph approach to mapping**, Abhijith Sampathkrishna et.al., Paper: [http://arxiv.org/abs/2208.09355v1](http://arxiv.org/abs/2208.09355v1)
+- 2022-08-19, **Testing Quantum Programs with Multiple Subroutines**, Peixun Long et.al., Paper: [http://arxiv.org/abs/2208.09206v1](http://arxiv.org/abs/2208.09206v1)
+- 2022-08-19, **Polarization correction towards satellite-based QKD without an active feedback**, Sourav Chatterjee et.al., Paper: [http://arxiv.org/abs/2208.09124v1](http://arxiv.org/abs/2208.09124v1)
+- 2022-08-19, **Fixing Dockerfile Smells: An Empirical Study**, Giovanni Rosa et.al., Paper: [http://arxiv.org/abs/2208.09097v1](http://arxiv.org/abs/2208.09097v1)
+- 2022-08-18, **Towards Situation Awareness and Attention Guidance in a Multiplayer Environment using Augmented Reality and Carcassonne**, David Kadish et.al., Paper: [http://arxiv.org/abs/2208.09094v1](http://arxiv.org/abs/2208.09094v1)
+- 2022-08-18, **Implicit Session Contexts for Next-Item Recommendations**, Sejoon Oh et.al., Paper: [http://arxiv.org/abs/2208.09076v1](http://arxiv.org/abs/2208.09076v1), Code: **[https://github.com/srijankr/iscon](https://github.com/srijankr/iscon)**
+- 2022-08-18, **Challenges in Applying Robotics to Retail Store Management**, Vartika Sengar et.al., Paper: [http://arxiv.org/abs/2208.09020v1](http://arxiv.org/abs/2208.09020v1)
 - 2022-08-18, **The long stare at Hercules X-1 -- I. Emission lines from the outer disk, the magnetosphere boundary and the accretion curtain**, P. Kosec et.al., Paper: [http://arxiv.org/abs/2208.08930v1](http://arxiv.org/abs/2208.08930v1)
 - 2022-08-19, **Safe Perception-Based Control with Minimal Worst-Case Dynamic Regret**, Hongyu Zhou et.al., Paper: [http://arxiv.org/abs/2208.08929v2](http://arxiv.org/abs/2208.08929v2)
 - 2022-08-18, **Robust Artificial Delay based Impedance Control of Robotic Manipulators with Uncertain Dynamics**, Udayan Banerjee et.al., Paper: [http://arxiv.org/abs/2208.08873v1](http://arxiv.org/abs/2208.08873v1)
