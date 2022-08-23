@@ -1,4 +1,4 @@
-> Updated on 2022.08.22
+> Updated on 2022.08.23
 
 ## SLAM
 
@@ -496,7 +496,7 @@
 - 2022-08-18, **Challenges in Applying Robotics to Retail Store Management**, Vartika Sengar et.al., Paper: [http://arxiv.org/abs/2208.09020v1](http://arxiv.org/abs/2208.09020v1)
 - 2022-08-18, **The long stare at Hercules X-1 -- I. Emission lines from the outer disk, the magnetosphere boundary and the accretion curtain**, P. Kosec et.al., Paper: [http://arxiv.org/abs/2208.08930v1](http://arxiv.org/abs/2208.08930v1)
 - 2022-08-19, **Safe Perception-Based Control with Minimal Worst-Case Dynamic Regret**, Hongyu Zhou et.al., Paper: [http://arxiv.org/abs/2208.08929v2](http://arxiv.org/abs/2208.08929v2)
-- 2022-08-18, **Robust Artificial Delay based Impedance Control of Robotic Manipulators with Uncertain Dynamics**, Udayan Banerjee et.al., Paper: [http://arxiv.org/abs/2208.08873v1](http://arxiv.org/abs/2208.08873v1)
+- 2022-08-20, **Robust Artificial Delay based Impedance Control of Robotic Manipulators with Uncertain Dynamics**, Udayan Banerjee et.al., Paper: [http://arxiv.org/abs/2208.08873v2](http://arxiv.org/abs/2208.08873v2)
 - 2022-08-18, **Time-dependent, long-term hydrodynamic simulations of the inner protoplanetary disk II: The importance of stellar rotation**, Lukas Gehrig et.al., Paper: [http://arxiv.org/abs/2208.08852v1](http://arxiv.org/abs/2208.08852v1)
 - 2022-08-18, **Learning Spatial-Frequency Transformer for Visual Object Tracking**, Chuanming Tang et.al., Paper: [http://arxiv.org/abs/2208.08829v1](http://arxiv.org/abs/2208.08829v1), Code: **[https://github.com/tchuanm/sftranst](https://github.com/tchuanm/sftranst)**
 - 2022-08-18, **Blockchain based digital vaccine passport**, Ms. Megha Rani R et.al., Paper: [http://arxiv.org/abs/2208.08760v1](http://arxiv.org/abs/2208.08760v1)
