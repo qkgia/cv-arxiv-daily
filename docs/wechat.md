@@ -487,6 +487,16 @@
 
 ## Object Tracking
 
+- 2022-08-22, **Automated Pruning of Polyculture Plants**, Mark Presten et.al., Paper: [http://arxiv.org/abs/2208.10472v1](http://arxiv.org/abs/2208.10472v1)
+- 2022-08-22, **Towards Clause Learning à la Carte through VarMonads**, Arved Friedemann et.al., Paper: [http://arxiv.org/abs/2208.10460v1](http://arxiv.org/abs/2208.10460v1)
+- 2022-08-22, **Design and Development of Miniature long distance multi-moving robots for 3D Smart Sensing for underground Pipe Inspection**, Alireza Pulles et.al., Paper: [http://arxiv.org/abs/2208.10439v1](http://arxiv.org/abs/2208.10439v1)
+- 2022-08-22, **Nonlinear Control Allocation Using A Piecewise Multi-Linear Representation**, Jahanzeb Rajput et.al., Paper: [http://arxiv.org/abs/2208.10411v1](http://arxiv.org/abs/2208.10411v1)
+- 2022-08-22, **Open and hidden heavy-flavor production in small systems with ALICE**, Sebastien Perrin et.al., Paper: [http://arxiv.org/abs/2208.10254v1](http://arxiv.org/abs/2208.10254v1)
+- 2022-08-22, **Minkowski Tracker: A Sparse Spatio-Temporal R-CNN for Joint Object Detection and Tracking**, JunYoung Gwak et.al., Paper: [http://arxiv.org/abs/2208.10056v1](http://arxiv.org/abs/2208.10056v1)
+- 2022-08-22, **Observer-based Leader-following Consensus for Positive Multi-agent Systems Over Time-varying Graphs**, Ruonan Li et.al., Paper: [http://arxiv.org/abs/2208.10051v1](http://arxiv.org/abs/2208.10051v1)
+- 2022-08-21, **Gas electron tracking detector for beta decay experiments**, D. Rozpedzik et.al., Paper: [http://arxiv.org/abs/2208.09971v1](http://arxiv.org/abs/2208.09971v1)
+- 2022-08-21, **Development of the Scintillating Fiber Timing Detector for the Mu3e Experiment**, A. Bravar et.al., Paper: [http://arxiv.org/abs/2208.09906v1](http://arxiv.org/abs/2208.09906v1)
+- 2022-08-21, **HST: Hierarchical Swin Transformer for Compressed Image Super-resolution**, Bingchen Li et.al., Paper: [http://arxiv.org/abs/2208.09885v1](http://arxiv.org/abs/2208.09885v1)
 - 2022-08-19, **ArUco Maker based localization and Node graph approach to mapping**, Abhijith Sampathkrishna et.al., Paper: [http://arxiv.org/abs/2208.09355v1](http://arxiv.org/abs/2208.09355v1)
 - 2022-08-19, **Testing Quantum Programs with Multiple Subroutines**, Peixun Long et.al., Paper: [http://arxiv.org/abs/2208.09206v1](http://arxiv.org/abs/2208.09206v1)
 - 2022-08-19, **Polarization correction towards satellite-based QKD without an active feedback**, Sourav Chatterjee et.al., Paper: [http://arxiv.org/abs/2208.09124v1](http://arxiv.org/abs/2208.09124v1)
