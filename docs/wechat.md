@@ -464,6 +464,7 @@
 
 ## MOT
 
+- 2022-08-23, **What deep reinforcement learning tells us about human motor learning and vice-versa**, Michele Garibbo et.al., Paper: [http://arxiv.org/abs/2208.10892v1](http://arxiv.org/abs/2208.10892v1)
 - 2022-08-18, **Evaluation of Postural Muscle Synergies during a Complex Motor Task in a Virtual Reality Environment**, Xupeng Ai et.al., Paper: [http://arxiv.org/abs/2208.09009v1](http://arxiv.org/abs/2208.09009v1)
 - 2022-08-18, **To charge in-flight or not: an inquiry into parallel-hybrid electric aircraft configurations via optimal control**, Mengyuan Wang et.al., Paper: [http://arxiv.org/abs/2208.08969v1](http://arxiv.org/abs/2208.08969v1)
 - 2022-08-18, **Dynamic State Estimation-Based Protection for Induction Motor Loads**, Arthur K. Barnes et.al., Paper: [http://arxiv.org/abs/2208.08825v1](http://arxiv.org/abs/2208.08825v1)
@@ -487,6 +488,16 @@
 
 ## Object Tracking
 
+- 2022-08-23, **Prompting as Probing: Using Language Models for Knowledge Base Construction**, Dimitrios Alivanistos et.al., Paper: [http://arxiv.org/abs/2208.11057v1](http://arxiv.org/abs/2208.11057v1), Code: **[https://github.com/hemile/iswc-challenge](https://github.com/hemile/iswc-challenge)**
+- 2022-08-23, **KGxBoard: Explainable and Interactive Leaderboard for Evaluation of Knowledge Graph Completion Models**, Haris Widjaja et.al., Paper: [http://arxiv.org/abs/2208.11024v1](http://arxiv.org/abs/2208.11024v1)
+- 2022-08-23, **Geodesic Tracking via New Data-driven Connections of Cartan Type for Vascular Tree Tracking**, Nicky van den Berg et.al., Paper: [http://arxiv.org/abs/2208.11004v1](http://arxiv.org/abs/2208.11004v1)
+- 2022-08-23, **Quality Matters: Embracing Quality Clues for Robust 3D Multi-Object Tracking**, Jinrong Yang et.al., Paper: [http://arxiv.org/abs/2208.10976v1](http://arxiv.org/abs/2208.10976v1)
+- 2022-08-23, **Robust DNN Watermarking via Fixed Embedding Weights with Optimized Distribution**, Benedetta Tondi et.al., Paper: [http://arxiv.org/abs/2208.10973v1](http://arxiv.org/abs/2208.10973v1)
+- 2022-08-23, **A Case for Tiered School Systems**, Jacopo Bizzotto et.al., Paper: [http://arxiv.org/abs/2208.10894v1](http://arxiv.org/abs/2208.10894v1)
+- 2022-08-23, **Contact-Free Multi-Target Tracking Using Distributed Massive MIMO-OFDM Communication System: Prototype and Analysis**, Chenglong Li et.al., Paper: [http://arxiv.org/abs/2208.10863v1](http://arxiv.org/abs/2208.10863v1)
+- 2022-08-23, **Automatic Calibration of a Six-Degrees-of-Freedom Pose Estimation System**, Wouter Jansen et.al., Paper: [http://arxiv.org/abs/2208.10837v1](http://arxiv.org/abs/2208.10837v1)
+- 2022-08-23, **Upgrading the Beam Telescopes at the DESY II Test Beam Facility**, H. Augustin et.al., Paper: [http://arxiv.org/abs/2208.10827v1](http://arxiv.org/abs/2208.10827v1)
+- 2022-08-23, **A Low-Cost Lane-Following Algorithm for Cyber-Physical Robots**, Archit Gupta et.al., Paper: [http://arxiv.org/abs/2208.10765v1](http://arxiv.org/abs/2208.10765v1)
 - 2022-08-22, **Automated Pruning of Polyculture Plants**, Mark Presten et.al., Paper: [http://arxiv.org/abs/2208.10472v1](http://arxiv.org/abs/2208.10472v1)
 - 2022-08-22, **Towards Clause Learning à la Carte through VarMonads**, Arved Friedemann et.al., Paper: [http://arxiv.org/abs/2208.10460v1](http://arxiv.org/abs/2208.10460v1)
 - 2022-08-22, **Design and Development of Miniature long distance multi-moving robots for 3D Smart Sensing for underground Pipe Inspection**, Alireza Pulles et.al., Paper: [http://arxiv.org/abs/2208.10439v1](http://arxiv.org/abs/2208.10439v1)
