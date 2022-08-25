@@ -488,6 +488,16 @@
 
 ## Object Tracking
 
+- 2022-08-24, **Judging by the Look: The Impact of Robot Gaze Strategies on Human Cooperation**, Di Fu et.al., Paper: [http://arxiv.org/abs/2208.11647v1](http://arxiv.org/abs/2208.11647v1)
+- 2022-08-24, **Influence of the solid fraction on the clogging by bridging of suspensions in constricted channels**, Nathan Vani et.al., Paper: [http://arxiv.org/abs/2208.11643v1](http://arxiv.org/abs/2208.11643v1)
+- 2022-08-24, **A structurally informed model for modulating functional connectivity**, Andrew C. Murphy et.al., Paper: [http://arxiv.org/abs/2208.11631v1](http://arxiv.org/abs/2208.11631v1)
+- 2022-08-24, **Visual Servoing in Orchard Settings**, Nicolai Häni et.al., Paper: [http://arxiv.org/abs/2208.11538v1](http://arxiv.org/abs/2208.11538v1)
+- 2022-08-24, **Tracking by weakly-supervised learning and graph optimization for whole-embryo C. elegans lineages**, Peter Hirsch et.al., Paper: [http://arxiv.org/abs/2208.11467v1](http://arxiv.org/abs/2208.11467v1), Code: **[https://github.com/funkelab/linajea](https://github.com/funkelab/linajea)**
+- 2022-08-24, **Induced Natural Language Rationales and Interleaved Markup Tokens Enable Extrapolation in Large Language Models**, Mirelle Bueno et.al., Paper: [http://arxiv.org/abs/2208.11445v1](http://arxiv.org/abs/2208.11445v1), Code: **[https://github.com/mirelleb/induced-rationales-markup-tokens](https://github.com/mirelleb/induced-rationales-markup-tokens)**
+- 2022-08-24, **Identifying atmospheric fronts based on diabatic processes using the dynamic state index (DSI)**, Laura Mack et.al., Paper: [http://arxiv.org/abs/2208.11438v1](http://arxiv.org/abs/2208.11438v1)
+- 2022-08-24, **Trace and Detect Adversarial Attacks on CNNs using Feature Response Maps**, Mohammadreza Amirian et.al., Paper: [http://arxiv.org/abs/2208.11436v1](http://arxiv.org/abs/2208.11436v1)
+- 2022-08-24, **Evaluation of the Driving Performance and User Acceptance of a Predictive Eco-Driving Assistance System**, Sai Krishna Chadaa et.al., Paper: [http://arxiv.org/abs/2208.11429v1](http://arxiv.org/abs/2208.11429v1)
+- 2022-08-24, **Automatic music mixing with deep learning and out-of-domain data**, Marco A. Martínez-Ramírez et.al., Paper: [http://arxiv.org/abs/2208.11428v1](http://arxiv.org/abs/2208.11428v1)
 - 2022-08-23, **Prompting as Probing: Using Language Models for Knowledge Base Construction**, Dimitrios Alivanistos et.al., Paper: [http://arxiv.org/abs/2208.11057v1](http://arxiv.org/abs/2208.11057v1), Code: **[https://github.com/hemile/iswc-challenge](https://github.com/hemile/iswc-challenge)**
 - 2022-08-23, **KGxBoard: Explainable and Interactive Leaderboard for Evaluation of Knowledge Graph Completion Models**, Haris Widjaja et.al., Paper: [http://arxiv.org/abs/2208.11024v1](http://arxiv.org/abs/2208.11024v1)
 - 2022-08-23, **Geodesic Tracking via New Data-driven Connections of Cartan Type for Vascular Tree Tracking**, Nicky van den Berg et.al., Paper: [http://arxiv.org/abs/2208.11004v1](http://arxiv.org/abs/2208.11004v1)
