@@ -1,4 +1,4 @@
-> Updated on 2022.08.25
+> Updated on 2022.08.26
 
 ## SLAM
 
@@ -488,7 +488,7 @@
 
 ## Object Tracking
 
-- 2022-08-24, **Judging by the Look: The Impact of Robot Gaze Strategies on Human Cooperation**, Di Fu et.al., Paper: [http://arxiv.org/abs/2208.11647v1](http://arxiv.org/abs/2208.11647v1)
+- 2022-08-25, **Judging by the Look: The Impact of Robot Gaze Strategies on Human Cooperation**, Di Fu et.al., Paper: [http://arxiv.org/abs/2208.11647v2](http://arxiv.org/abs/2208.11647v2)
 - 2022-08-24, **Influence of the solid fraction on the clogging by bridging of suspensions in constricted channels**, Nathan Vani et.al., Paper: [http://arxiv.org/abs/2208.11643v1](http://arxiv.org/abs/2208.11643v1)
 - 2022-08-24, **A structurally informed model for modulating functional connectivity**, Andrew C. Murphy et.al., Paper: [http://arxiv.org/abs/2208.11631v1](http://arxiv.org/abs/2208.11631v1)
 - 2022-08-24, **Visual Servoing in Orchard Settings**, Nicolai Häni et.al., Paper: [http://arxiv.org/abs/2208.11538v1](http://arxiv.org/abs/2208.11538v1)
