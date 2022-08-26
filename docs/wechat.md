@@ -464,6 +464,8 @@
 
 ## MOT
 
+- 2022-08-25, **Cycloidal-spiral sampling for three-modal x-ray CT flyscans with two-dimensional phase sensitivity**, G. Lioliou et.al., Paper: [http://arxiv.org/abs/2208.12076v1](http://arxiv.org/abs/2208.12076v1)
+- 2022-08-24, **Population recordings of human motor units often display 'onion skin' discharge patterns -- implications for voluntary motor control**, Gregory EP Pearcey et.al., Paper: [http://arxiv.org/abs/2208.11783v1](http://arxiv.org/abs/2208.11783v1)
 - 2022-08-23, **What deep reinforcement learning tells us about human motor learning and vice-versa**, Michele Garibbo et.al., Paper: [http://arxiv.org/abs/2208.10892v1](http://arxiv.org/abs/2208.10892v1)
 - 2022-08-18, **Evaluation of Postural Muscle Synergies during a Complex Motor Task in a Virtual Reality Environment**, Xupeng Ai et.al., Paper: [http://arxiv.org/abs/2208.09009v1](http://arxiv.org/abs/2208.09009v1)
 - 2022-08-18, **To charge in-flight or not: an inquiry into parallel-hybrid electric aircraft configurations via optimal control**, Mengyuan Wang et.al., Paper: [http://arxiv.org/abs/2208.08969v1](http://arxiv.org/abs/2208.08969v1)
@@ -488,6 +490,12 @@
 
 ## Object Tracking
 
+- 2022-08-25, **Track Reconstruction using Geometric Deep Learning in the Straw Tube Tracker (STT) at the PANDA Experiment**, Adeel Akram et.al., Paper: [http://arxiv.org/abs/2208.12178v1](http://arxiv.org/abs/2208.12178v1)
+- 2022-08-25, **3D Super-Resolution Ultrasound with Adaptive Weight-Based Beamforming**, Jipeng Yan et.al., Paper: [http://arxiv.org/abs/2208.12176v1](http://arxiv.org/abs/2208.12176v1)
+- 2022-08-25, **Cycloidal-spiral sampling for three-modal x-ray CT flyscans with two-dimensional phase sensitivity**, G. Lioliou et.al., Paper: [http://arxiv.org/abs/2208.12076v1](http://arxiv.org/abs/2208.12076v1)
+- 2022-08-25, **Data-driven Predictive Tracking Control based on Koopman Operators**, Ye Wang et.al., Paper: [http://arxiv.org/abs/2208.12000v1](http://arxiv.org/abs/2208.12000v1), Code: **[https://github.com/autosysproj/ktmpc](https://github.com/autosysproj/ktmpc)**
+- 2022-08-25, **Dynamic collaborative filtering Thompson Sampling for cross-domain advertisements recommendation**, Shion Ishikawa et.al., Paper: [http://arxiv.org/abs/2208.11926v1](http://arxiv.org/abs/2208.11926v1)
+- 2022-08-25, **Parallel Path Progression DAG Scheduling**, Niklas Ueter et.al., Paper: [http://arxiv.org/abs/2208.11830v1](http://arxiv.org/abs/2208.11830v1)
 - 2022-08-25, **Judging by the Look: The Impact of Robot Gaze Strategies on Human Cooperation**, Di Fu et.al., Paper: [http://arxiv.org/abs/2208.11647v2](http://arxiv.org/abs/2208.11647v2)
 - 2022-08-24, **Influence of the solid fraction on the clogging by bridging of suspensions in constricted channels**, Nathan Vani et.al., Paper: [http://arxiv.org/abs/2208.11643v1](http://arxiv.org/abs/2208.11643v1)
 - 2022-08-24, **A structurally informed model for modulating functional connectivity**, Andrew C. Murphy et.al., Paper: [http://arxiv.org/abs/2208.11631v1](http://arxiv.org/abs/2208.11631v1)
