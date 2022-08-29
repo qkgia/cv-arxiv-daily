@@ -1,4 +1,4 @@
-## Updated on 2022.08.28
+## Updated on 2022.08.29
 
 ## MOT
 
@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 |**2022-08-25**|**Cycloidal-spiral sampling for three-modal x-ray CT flyscans with two-dimensional phase sensitivity**|G. Lioliou et.al.|[2208.12076v1](http://arxiv.org/abs/2208.12076v1)|null|
 |**2022-08-24**|**Population recordings of human motor units often display 'onion skin' discharge patterns -- implications for voluntary motor control**|Gregory EP Pearcey et.al.|[2208.11783v1](http://arxiv.org/abs/2208.11783v1)|null|
-|**2022-08-23**|**What deep reinforcement learning tells us about human motor learning and vice-versa**|Michele Garibbo et.al.|[2208.10892v1](http://arxiv.org/abs/2208.10892v1)|null|
+|**2022-08-26**|**What deep reinforcement learning tells us about human motor learning and vice-versa**|Michele Garibbo et.al.|[2208.10892v2](http://arxiv.org/abs/2208.10892v2)|null|
 |**2022-08-18**|**Evaluation of Postural Muscle Synergies during a Complex Motor Task in a Virtual Reality Environment**|Xupeng Ai et.al.|[2208.09009v1](http://arxiv.org/abs/2208.09009v1)|null|
 |**2022-08-18**|**To charge in-flight or not: an inquiry into parallel-hybrid electric aircraft configurations via optimal control**|Mengyuan Wang et.al.|[2208.08969v1](http://arxiv.org/abs/2208.08969v1)|null|
 |**2022-08-18**|**Dynamic State Estimation-Based Protection for Induction Motor Loads**|Arthur K. Barnes et.al.|[2208.08825v1](http://arxiv.org/abs/2208.08825v1)|null|
