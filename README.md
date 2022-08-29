@@ -32,6 +32,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-26**|**An Envelope Tracking Approach for Particle in Cell Simulations**|Omkar H. Ramachandran et.al.|[2208.12795v1](http://arxiv.org/abs/2208.12795v1)|null|
+|**2022-08-26**|**Implementing quantum dimensionality reduction for non-Markovian stochastic simulation**|Kang-Da Wu et.al.|[2208.12744v1](http://arxiv.org/abs/2208.12744v1)|null|
+|**2022-08-26**|**Task-specific Pre-training and Prompt Decomposition for Knowledge Graph Population with Language Models**|Tianyi Li et.al.|[2208.12539v1](http://arxiv.org/abs/2208.12539v1)|null|
+|**2022-08-26**|**Swarm Analytics: Designing Information Markers to Characterise Swarm Systems in Shepherding Contexts**|Adam Hepworth et.al.|[2208.12386v1](http://arxiv.org/abs/2208.12386v1)|null|
+|**2022-08-25**|**COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies**|Shaoor Munir et.al.|[2208.12370v1](http://arxiv.org/abs/2208.12370v1)|null|
+|**2022-08-25**|**Multimedia Generative Script Learning for Task Planning**|Qingyun Wang et.al.|[2208.12306v1](http://arxiv.org/abs/2208.12306v1)|null|
 |**2022-08-25**|**Track Reconstruction using Geometric Deep Learning in the Straw Tube Tracker (STT) at the PANDA Experiment**|Adeel Akram et.al.|[2208.12178v1](http://arxiv.org/abs/2208.12178v1)|null|
 |**2022-08-25**|**3D Super-Resolution Ultrasound with Adaptive Weight-Based Beamforming**|Jipeng Yan et.al.|[2208.12176v1](http://arxiv.org/abs/2208.12176v1)|null|
 |**2022-08-25**|**Cycloidal-spiral sampling for three-modal x-ray CT flyscans with two-dimensional phase sensitivity**|G. Lioliou et.al.|[2208.12076v1](http://arxiv.org/abs/2208.12076v1)|null|
