@@ -464,6 +464,8 @@
 
 ## MOT
 
+- 2022-08-27, **Actor-identified Spatiotemporal Action Detection -- Detecting Who Is Doing What in Videos**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2208.12940v1](http://arxiv.org/abs/2208.12940v1), Code: **[https://github.com/fandulu/asad](https://github.com/fandulu/asad)**
+- 2022-08-26, **Dynamic Flow Control Through Active Matter Programming Language**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2208.12839v1](http://arxiv.org/abs/2208.12839v1)
 - 2022-08-25, **Cycloidal-spiral sampling for three-modal x-ray CT flyscans with two-dimensional phase sensitivity**, G. Lioliou et.al., Paper: [http://arxiv.org/abs/2208.12076v1](http://arxiv.org/abs/2208.12076v1)
 - 2022-08-24, **Population recordings of human motor units often display 'onion skin' discharge patterns -- implications for voluntary motor control**, Gregory EP Pearcey et.al., Paper: [http://arxiv.org/abs/2208.11783v1](http://arxiv.org/abs/2208.11783v1)
 - 2022-08-26, **What deep reinforcement learning tells us about human motor learning and vice-versa**, Michele Garibbo et.al., Paper: [http://arxiv.org/abs/2208.10892v2](http://arxiv.org/abs/2208.10892v2)
@@ -490,6 +492,16 @@
 
 ## Object Tracking
 
+- 2022-08-29, **Interferometric imaging, and beam-formed study of a moving Type IV Radio burst with LOFAR**, Hongyu Liu et.al., Paper: [http://arxiv.org/abs/2208.13670v1](http://arxiv.org/abs/2208.13670v1)
+- 2022-08-29, **Jacobian Methods for Dynamic Polarization Control in Optical Applications**, Dawei Wang et.al., Paper: [http://arxiv.org/abs/2208.13660v1](http://arxiv.org/abs/2208.13660v1)
+- 2022-08-29, **A Variance-Reduced Stochastic Gradient Tracking Algorithm for Decentralized Optimization with Orthogonality Constraints**, Lei Wang et.al., Paper: [http://arxiv.org/abs/2208.13643v1](http://arxiv.org/abs/2208.13643v1)
+- 2022-08-29, **Snowmass2021 Topical Group Report from AF07: Targets and Sources**, Charlotte Barbier et.al., Paper: [http://arxiv.org/abs/2208.13641v1](http://arxiv.org/abs/2208.13641v1)
+- 2022-08-29, **Computational protein design with evolutionary-based and physics-inspired modeling: current and future synergies**, Cyril Malbranke et.al., Paper: [http://arxiv.org/abs/2208.13616v1](http://arxiv.org/abs/2208.13616v1)
+- 2022-08-29, **Towards Robust Face Recognition with Comprehensive Search**, Manyuan Zhang et.al., Paper: [http://arxiv.org/abs/2208.13600v1](http://arxiv.org/abs/2208.13600v1)
+- 2022-08-29, **From Fine- to Coarse-Grained Dynamic Information Flow Control and Back, a Tutorial on Dynamic Information Flow**, Marco Vassena et.al., Paper: [http://arxiv.org/abs/2208.13560v1](http://arxiv.org/abs/2208.13560v1)
+- 2022-08-29, **Distributed Dynamic Platoons Control and Junction Crossing Optimization for Mixed Traffic Flow in Smart Cities- Part II. Stability, Optimization, and Performance Analysis**, Bohui Wang et.al., Paper: [http://arxiv.org/abs/2208.13514v1](http://arxiv.org/abs/2208.13514v1)
+- 2022-08-29, **A Missing Value Filling Model Based on Feature Fusion Enhanced Autoencoder**, Xinyao Liu et.al., Paper: [http://arxiv.org/abs/2208.13495v1](http://arxiv.org/abs/2208.13495v1)
+- 2022-08-29, **Field of View and contrast limitations of stellar interferometers. A quick review**, Francois Henault et.al., Paper: [http://arxiv.org/abs/2208.13463v1](http://arxiv.org/abs/2208.13463v1)
 - 2022-08-26, **An Envelope Tracking Approach for Particle in Cell Simulations**, Omkar H. Ramachandran et.al., Paper: [http://arxiv.org/abs/2208.12795v1](http://arxiv.org/abs/2208.12795v1)
 - 2022-08-26, **Implementing quantum dimensionality reduction for non-Markovian stochastic simulation**, Kang-Da Wu et.al., Paper: [http://arxiv.org/abs/2208.12744v1](http://arxiv.org/abs/2208.12744v1)
 - 2022-08-26, **Task-specific Pre-training and Prompt Decomposition for Knowledge Graph Population with Language Models**, Tianyi Li et.al., Paper: [http://arxiv.org/abs/2208.12539v1](http://arxiv.org/abs/2208.12539v1)
