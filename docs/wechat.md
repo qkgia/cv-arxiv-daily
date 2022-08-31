@@ -492,6 +492,16 @@
 
 ## Object Tracking
 
+- 2022-08-30, **Biased Bytes: On the Validity of Estimating Food Consumption from Digital Traces**, Kristina Gligorić et.al., Paper: [http://arxiv.org/abs/2208.14401v1](http://arxiv.org/abs/2208.14401v1)
+- 2022-08-30, **Software Update Practices on Smart Home IoT Devices**, Vijay Prakash et.al., Paper: [http://arxiv.org/abs/2208.14367v1](http://arxiv.org/abs/2208.14367v1)
+- 2022-08-30, **Efficient and Interpretable Neural Models for Entity Tracking**, Shubham Toshniwal et.al., Paper: [http://arxiv.org/abs/2208.14252v1](http://arxiv.org/abs/2208.14252v1)
+- 2022-08-30, **Coloring Mixed and Directional Interval Graphs**, Grzegorz Gutowski et.al., Paper: [http://arxiv.org/abs/2208.14250v1](http://arxiv.org/abs/2208.14250v1)
+- 2022-08-30, **ORACLE: Occlusion-Resilient And self-Calibrating mmWave Radar Network for People Tracking**, Jacopo Pegoraro et.al., Paper: [http://arxiv.org/abs/2208.14199v1](http://arxiv.org/abs/2208.14199v1)
+- 2022-08-30, **Synthehicle: Multi-Vehicle Multi-Camera Tracking in Virtual Cities**, Fabian Herzog et.al., Paper: [http://arxiv.org/abs/2208.14167v1](http://arxiv.org/abs/2208.14167v1)
+- 2022-08-30, **Structure and evolution of ultra-massive white dwarfs in general relativity**, L. G. Althaus et.al., Paper: [http://arxiv.org/abs/2208.14144v1](http://arxiv.org/abs/2208.14144v1)
+- 2022-08-30, **The Role of Feedback in AoI Optimization Under Limited Transmission Opportunities**, Andrea Munari et.al., Paper: [http://arxiv.org/abs/2208.14128v1](http://arxiv.org/abs/2208.14128v1)
+- 2022-08-30, **Searches for QCD instantons with forward proton tagging**, M. Tasevsky et.al., Paper: [http://arxiv.org/abs/2208.14089v1](http://arxiv.org/abs/2208.14089v1)
+- 2022-08-30, **Ageing and Quenching through the ageing diagram: predictions from simulations and observational constraints**, Pablo Corcho-Caballero et.al., Paper: [http://arxiv.org/abs/2208.14084v1](http://arxiv.org/abs/2208.14084v1)
 - 2022-08-29, **Interferometric imaging, and beam-formed study of a moving Type IV Radio burst with LOFAR**, Hongyu Liu et.al., Paper: [http://arxiv.org/abs/2208.13670v1](http://arxiv.org/abs/2208.13670v1)
 - 2022-08-29, **Jacobian Methods for Dynamic Polarization Control in Optical Applications**, Dawei Wang et.al., Paper: [http://arxiv.org/abs/2208.13660v1](http://arxiv.org/abs/2208.13660v1)
 - 2022-08-29, **A Variance-Reduced Stochastic Gradient Tracking Algorithm for Decentralized Optimization with Orthogonality Constraints**, Lei Wang et.al., Paper: [http://arxiv.org/abs/2208.13643v1](http://arxiv.org/abs/2208.13643v1)
@@ -618,6 +628,7 @@
 
 ## Multi-camera
 
+- 2022-08-30, **Synthehicle: Multi-Vehicle Multi-Camera Tracking in Virtual Cities**, Fabian Herzog et.al., Paper: [http://arxiv.org/abs/2208.14167v1](http://arxiv.org/abs/2208.14167v1)
 - 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
 - 2022-08-10, **Automatic Camera Control and Directing with an Ultra-High-Definition Collaborative Recording System**, Bram Vanherle et.al., Paper: [http://arxiv.org/abs/2208.05213v1](http://arxiv.org/abs/2208.05213v1)
 - 2022-07-29, **Deep Learning-based Occluded Person Re-identification: A Survey**, Yunjie Peng et.al., Paper: [http://arxiv.org/abs/2207.14452v1](http://arxiv.org/abs/2207.14452v1)
