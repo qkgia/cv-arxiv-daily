@@ -464,6 +464,7 @@
 
 ## MOT
 
+- 2022-08-30, **Cargo transport by catchbonded motors in optical trapping assays**, Naren Sundararajan et.al., Paper: [http://arxiv.org/abs/2208.14494v1](http://arxiv.org/abs/2208.14494v1)
 - 2022-08-27, **Actor-identified Spatiotemporal Action Detection -- Detecting Who Is Doing What in Videos**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2208.12940v1](http://arxiv.org/abs/2208.12940v1), Code: **[https://github.com/fandulu/asad](https://github.com/fandulu/asad)**
 - 2022-08-26, **Dynamic Flow Control Through Active Matter Programming Language**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2208.12839v1](http://arxiv.org/abs/2208.12839v1)
 - 2022-08-25, **Cycloidal-spiral sampling for three-modal x-ray CT flyscans with two-dimensional phase sensitivity**, G. Lioliou et.al., Paper: [http://arxiv.org/abs/2208.12076v1](http://arxiv.org/abs/2208.12076v1)
@@ -492,6 +493,16 @@
 
 ## Object Tracking
 
+- 2022-08-31, **The Magni Human Motion Dataset: Accurate, Complex, Multi-Modal, Natural, Semantically-Rich and Contextualized**, Tim Schreiter et.al., Paper: [http://arxiv.org/abs/2208.14925v1](http://arxiv.org/abs/2208.14925v1)
+- 2022-08-31, **Simulations of a Partially Submerged Cylinder Subjected to Current and Waves**, Wojciech Aniszewski et.al., Paper: [http://arxiv.org/abs/2208.14793v1](http://arxiv.org/abs/2208.14793v1)
+- 2022-08-31, **Scatter Points in Space: 3D Detection from Multi-view Monocular Images**, Jianlin Liu et.al., Paper: [http://arxiv.org/abs/2208.14738v1](http://arxiv.org/abs/2208.14738v1)
+- 2022-08-31, **A Real-Time Tempo and Meter Tracking System for Rhythmic Improvis**, Filippo Carnovalini et.al., Paper: [http://arxiv.org/abs/2208.14717v1](http://arxiv.org/abs/2208.14717v1)
+- 2022-08-31, **Mapping aids using source location tracking increase novices' performance in programming cyber-physical systems**, Thomas Witte et.al., Paper: [http://arxiv.org/abs/2208.14679v1](http://arxiv.org/abs/2208.14679v1)
+- 2022-08-31, **An Empirical Study and Analysis of Learning Generalizable Manipulation Skill in the SAPIEN Simulator**, Kun Liu et.al., Paper: [http://arxiv.org/abs/2208.14646v1](http://arxiv.org/abs/2208.14646v1)
+- 2022-08-31, **How Readable is Model-generated Code? Examining Readability and Visual Inspection of GitHub Copilot**, Naser Al Madi et.al., Paper: [http://arxiv.org/abs/2208.14613v1](http://arxiv.org/abs/2208.14613v1)
+- 2022-08-31, **A Volumetric Study of Flux Transfer Events at the Dayside Magnetopause**, Arghyadeep Paul et.al., Paper: [http://arxiv.org/abs/2208.14589v1](http://arxiv.org/abs/2208.14589v1)
+- 2022-08-31, **Singing Beat Tracking With Self-supervised Front-end and Linear Transformers**, Mojtaba Heydari et.al., Paper: [http://arxiv.org/abs/2208.14578v1](http://arxiv.org/abs/2208.14578v1)
+- 2022-08-30, **TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos**, Soufiane Belharbi et.al., Paper: [http://arxiv.org/abs/2208.14542v1](http://arxiv.org/abs/2208.14542v1), Code: **[https://github.com/sbelharbi/tcam-wsol-video](https://github.com/sbelharbi/tcam-wsol-video)**
 - 2022-08-30, **Biased Bytes: On the Validity of Estimating Food Consumption from Digital Traces**, Kristina Gligorić et.al., Paper: [http://arxiv.org/abs/2208.14401v1](http://arxiv.org/abs/2208.14401v1)
 - 2022-08-30, **Software Update Practices on Smart Home IoT Devices**, Vijay Prakash et.al., Paper: [http://arxiv.org/abs/2208.14367v1](http://arxiv.org/abs/2208.14367v1)
 - 2022-08-30, **Efficient and Interpretable Neural Models for Entity Tracking**, Shubham Toshniwal et.al., Paper: [http://arxiv.org/abs/2208.14252v1](http://arxiv.org/abs/2208.14252v1)
