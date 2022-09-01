@@ -639,7 +639,7 @@
 
 ## Multi-camera
 
-- 2022-08-30, **Synthehicle: Multi-Vehicle Multi-Camera Tracking in Virtual Cities**, Fabian Herzog et.al., Paper: [http://arxiv.org/abs/2208.14167v1](http://arxiv.org/abs/2208.14167v1)
+- 2022-08-30, **Synthehicle: Multi-Vehicle Multi-Camera Tracking in Virtual Cities**, Fabian Herzog et.al., Paper: [http://arxiv.org/abs/2208.14167v1](http://arxiv.org/abs/2208.14167v1), Code: **[https://github.com/fubel/synthehicle](https://github.com/fubel/synthehicle)**
 - 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
 - 2022-08-10, **Automatic Camera Control and Directing with an Ultra-High-Definition Collaborative Recording System**, Bram Vanherle et.al., Paper: [http://arxiv.org/abs/2208.05213v1](http://arxiv.org/abs/2208.05213v1)
 - 2022-07-29, **Deep Learning-based Occluded Person Re-identification: A Survey**, Yunjie Peng et.al., Paper: [http://arxiv.org/abs/2207.14452v1](http://arxiv.org/abs/2207.14452v1)
