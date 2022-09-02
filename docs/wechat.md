@@ -1,4 +1,4 @@
-> Updated on 2022.09.01
+> Updated on 2022.09.02
 
 ## SLAM
 
@@ -499,7 +499,7 @@
 - 2022-08-31, **A Real-Time Tempo and Meter Tracking System for Rhythmic Improvis**, Filippo Carnovalini et.al., Paper: [http://arxiv.org/abs/2208.14717v1](http://arxiv.org/abs/2208.14717v1)
 - 2022-08-31, **Mapping aids using source location tracking increase novices' performance in programming cyber-physical systems**, Thomas Witte et.al., Paper: [http://arxiv.org/abs/2208.14679v1](http://arxiv.org/abs/2208.14679v1)
 - 2022-08-31, **An Empirical Study and Analysis of Learning Generalizable Manipulation Skill in the SAPIEN Simulator**, Kun Liu et.al., Paper: [http://arxiv.org/abs/2208.14646v1](http://arxiv.org/abs/2208.14646v1)
-- 2022-08-31, **How Readable is Model-generated Code? Examining Readability and Visual Inspection of GitHub Copilot**, Naser Al Madi et.al., Paper: [http://arxiv.org/abs/2208.14613v1](http://arxiv.org/abs/2208.14613v1)
+- 2022-09-01, **How Readable is Model-generated Code? Examining Readability and Visual Inspection of GitHub Copilot**, Naser Al Madi et.al., Paper: [http://arxiv.org/abs/2208.14613v2](http://arxiv.org/abs/2208.14613v2)
 - 2022-08-31, **A Volumetric Study of Flux Transfer Events at the Dayside Magnetopause**, Arghyadeep Paul et.al., Paper: [http://arxiv.org/abs/2208.14589v1](http://arxiv.org/abs/2208.14589v1)
 - 2022-08-31, **Singing Beat Tracking With Self-supervised Front-end and Linear Transformers**, Mojtaba Heydari et.al., Paper: [http://arxiv.org/abs/2208.14578v1](http://arxiv.org/abs/2208.14578v1)
 - 2022-08-30, **TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos**, Soufiane Belharbi et.al., Paper: [http://arxiv.org/abs/2208.14542v1](http://arxiv.org/abs/2208.14542v1), Code: **[https://github.com/sbelharbi/tcam-wsol-video](https://github.com/sbelharbi/tcam-wsol-video)**
