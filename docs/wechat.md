@@ -464,6 +464,7 @@
 
 ## MOT
 
+- 2022-09-01, **Cooperation and competition in the collective drive by motor proteins: Mean active force, fluctuations, and self-load**, Chitrak Karan et.al., Paper: [http://arxiv.org/abs/2209.00266v1](http://arxiv.org/abs/2209.00266v1)
 - 2022-08-30, **Cargo transport by catchbonded motors in optical trapping assays**, Naren Sundararajan et.al., Paper: [http://arxiv.org/abs/2208.14494v1](http://arxiv.org/abs/2208.14494v1)
 - 2022-08-27, **Actor-identified Spatiotemporal Action Detection -- Detecting Who Is Doing What in Videos**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2208.12940v1](http://arxiv.org/abs/2208.12940v1), Code: **[https://github.com/fandulu/asad](https://github.com/fandulu/asad)**
 - 2022-08-26, **Dynamic Flow Control Through Active Matter Programming Language**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2208.12839v1](http://arxiv.org/abs/2208.12839v1)
@@ -493,6 +494,16 @@
 
 ## Object Tracking
 
+- 2022-09-01, **Multiple Target Tracking and Filtering using Bayesian Diabatic Quantum Annealing**, Timothy M. McCormick et.al., Paper: [http://arxiv.org/abs/2209.00615v1](http://arxiv.org/abs/2209.00615v1)
+- 2022-09-01, **Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking**, Pan Wang et.al., Paper: [http://arxiv.org/abs/2209.00522v1](http://arxiv.org/abs/2209.00522v1)
+- 2022-09-01, **CORE -- a COmpact detectoR for the EIC**, CORE Collaboration et.al., Paper: [http://arxiv.org/abs/2209.00496v1](http://arxiv.org/abs/2209.00496v1)
+- 2022-09-01, **A Compensated Design of the LGAD Gain Layer**, Valentina Sola et.al., Paper: [http://arxiv.org/abs/2209.00494v1](http://arxiv.org/abs/2209.00494v1)
+- 2022-09-01, **Symplectic Particle Tracking in a Thick Nonlinear McMillan Lens for the Fermilab Integrable Optics Test Accelerator (IOTA)**, B. Cathey et.al., Paper: [http://arxiv.org/abs/2209.00468v1](http://arxiv.org/abs/2209.00468v1)
+- 2022-09-01, **Optimization of tracker configuration for the CEPC**, Hao Liang et.al., Paper: [http://arxiv.org/abs/2209.00397v1](http://arxiv.org/abs/2209.00397v1)
+- 2022-09-01, **The Nudging Effect on Tracking Activity**, Ruochun Wang et.al., Paper: [http://arxiv.org/abs/2209.00394v1](http://arxiv.org/abs/2209.00394v1)
+- 2022-09-01, **Find the Funding: Entity Linking with Incomplete Funding Knowledge Bases**, Gizem Aydin et.al., Paper: [http://arxiv.org/abs/2209.00351v1](http://arxiv.org/abs/2209.00351v1)
+- 2022-09-01, **Design and Development of a Tracked Inspection Robot**, Erika Sahari et.al., Paper: [http://arxiv.org/abs/2209.00329v1](http://arxiv.org/abs/2209.00329v1)
+- 2022-09-01, **DramatVis Personae: Visual Text Analytics for Identifying Social Biases in Creative Writing**, Md Naimul Hoque et.al., Paper: [http://arxiv.org/abs/2209.00320v1](http://arxiv.org/abs/2209.00320v1)
 - 2022-08-31, **The Magni Human Motion Dataset: Accurate, Complex, Multi-Modal, Natural, Semantically-Rich and Contextualized**, Tim Schreiter et.al., Paper: [http://arxiv.org/abs/2208.14925v1](http://arxiv.org/abs/2208.14925v1)
 - 2022-08-31, **Simulations of a Partially Submerged Cylinder Subjected to Current and Waves**, Wojciech Aniszewski et.al., Paper: [http://arxiv.org/abs/2208.14793v1](http://arxiv.org/abs/2208.14793v1)
 - 2022-08-31, **Scatter Points in Space: 3D Detection from Multi-view Monocular Images**, Jianlin Liu et.al., Paper: [http://arxiv.org/abs/2208.14738v1](http://arxiv.org/abs/2208.14738v1)
