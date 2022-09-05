@@ -464,6 +464,8 @@
 
 ## MOT
 
+- 2022-09-02, **Obtaining efficient collisional engines via velocity dependent drivings**, Iago N. Mamede et.al., Paper: [http://arxiv.org/abs/2209.01132v1](http://arxiv.org/abs/2209.01132v1)
+- 2022-08-31, **Classification of eye-state using EEG recordings: speed-up gains using signal epochs and mutual information measure**, Phoebe M Asquith et.al., Paper: [http://arxiv.org/abs/2209.01023v1](http://arxiv.org/abs/2209.01023v1)
 - 2022-09-01, **Cooperation and competition in the collective drive by motor proteins: Mean active force, fluctuations, and self-load**, Chitrak Karan et.al., Paper: [http://arxiv.org/abs/2209.00266v1](http://arxiv.org/abs/2209.00266v1)
 - 2022-08-30, **Cargo transport by catchbonded motors in optical trapping assays**, Naren Sundararajan et.al., Paper: [http://arxiv.org/abs/2208.14494v1](http://arxiv.org/abs/2208.14494v1)
 - 2022-08-27, **Actor-identified Spatiotemporal Action Detection -- Detecting Who Is Doing What in Videos**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2208.12940v1](http://arxiv.org/abs/2208.12940v1), Code: **[https://github.com/fandulu/asad](https://github.com/fandulu/asad)**
@@ -494,6 +496,11 @@
 
 ## Object Tracking
 
+- 2022-09-02, **A New Aligned Simple German Corpus**, Vanessa Toborek et.al., Paper: [http://arxiv.org/abs/2209.01106v1](http://arxiv.org/abs/2209.01106v1), Code: **[https://github.com/mlai-bonn/simple-german-corpus](https://github.com/mlai-bonn/simple-german-corpus)**
+- 2022-09-02, **Mapping the ocular surface from monocular videos with an application to dry eye disease grading**, Ikram Brahim et.al., Paper: [http://arxiv.org/abs/2209.00886v1](http://arxiv.org/abs/2209.00886v1)
+- 2022-09-02, **Real-time 3D Single Object Tracking with Transformer**, Jiayao Shan et.al., Paper: [http://arxiv.org/abs/2209.00860v1](http://arxiv.org/abs/2209.00860v1), Code: **[https://github.com/shanjiayao/ptt](https://github.com/shanjiayao/ptt)**
+- 2022-09-02, **Needs and Challenges of Personal Data Visualisations in Mobile Health Apps: User Survey**, Yasmeen Anjeer Alshehhi et.al., Paper: [http://arxiv.org/abs/2209.00838v1](http://arxiv.org/abs/2209.00838v1)
+- 2022-09-02, **Index Tracking via Learning to Predict Market Sensitivities**, Yoonsik Hong et.al., Paper: [http://arxiv.org/abs/2209.00780v1](http://arxiv.org/abs/2209.00780v1)
 - 2022-09-01, **Multiple Target Tracking and Filtering using Bayesian Diabatic Quantum Annealing**, Timothy M. McCormick et.al., Paper: [http://arxiv.org/abs/2209.00615v1](http://arxiv.org/abs/2209.00615v1)
 - 2022-09-01, **Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking**, Pan Wang et.al., Paper: [http://arxiv.org/abs/2209.00522v1](http://arxiv.org/abs/2209.00522v1)
 - 2022-09-01, **CORE -- a COmpact detectoR for the EIC**, CORE Collaboration et.al., Paper: [http://arxiv.org/abs/2209.00496v1](http://arxiv.org/abs/2209.00496v1)
