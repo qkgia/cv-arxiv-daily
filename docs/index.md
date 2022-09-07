@@ -577,6 +577,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-06**|**Multi-agent Deep Reinforcement Learning for Charge-sustaining Control of Multi-mode Hybrid Vehicles**|Min Hua et.al.|[2209.02633v1](http://arxiv.org/abs/2209.02633v1)|null|
+|**2022-09-06**|**SIND: A Drone Dataset at Signalized Intersection in China**|Yanchao Xu et.al.|[2209.02297v1](http://arxiv.org/abs/2209.02297v1)|**[link](https://github.com/sotif-avlab/sind)**|
+|**2022-09-06**|**High Speed Rotation Estimation with Dynamic Vision Sensors**|Guangrong Zhao et.al.|[2209.02205v1](http://arxiv.org/abs/2209.02205v1)|null|
+|**2022-09-05**|**Subject-Independent 3D Hand Kinematics Reconstruction using Pre-Movement EEG Signals for Grasp And Lift Task**|Anant Jain et.al.|[2209.01932v1](http://arxiv.org/abs/2209.01932v1)|null|
 |**2022-09-02**|**Obtaining efficient collisional engines via velocity dependent drivings**|Iago N. Mamede et.al.|[2209.01132v1](http://arxiv.org/abs/2209.01132v1)|null|
 |**2022-08-31**|**Classification of eye-state using EEG recordings: speed-up gains using signal epochs and mutual information measure**|Phoebe M Asquith et.al.|[2209.01023v1](http://arxiv.org/abs/2209.01023v1)|null|
 |**2022-09-01**|**Cooperation and competition in the collective drive by motor proteins: Mean active force, fluctuations, and self-load**|Chitrak Karan et.al.|[2209.00266v1](http://arxiv.org/abs/2209.00266v1)|null|
@@ -611,6 +615,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-06**|**AstroPix: Novel monolithic active pixel silicon sensors for future gamma-ray telescopes**|Amanda L. Steinhebel et.al.|[2209.02631v1](http://arxiv.org/abs/2209.02631v1)|null|
+|**2022-09-06**|**Design of the ECCE Detector for the Electron Ion Collider**|J. K. Adkins et.al.|[2209.02580v1](http://arxiv.org/abs/2209.02580v1)|null|
+|**2022-09-06**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540v1](http://arxiv.org/abs/2209.02540v1)|null|
+|**2022-09-06**|**A Combined Inverse Kinematics Algorithm Using FABRIK with Optimization**|Zichun Xu et.al.|[2209.02532v1](http://arxiv.org/abs/2209.02532v1)|null|
+|**2022-09-06**|**Attosecond metrology of 2D charge distribution in molecules**|V. Loriot 1 et.al.|[2209.02445v1](http://arxiv.org/abs/2209.02445v1)|null|
+|**2022-09-06**|**MACAB: Model-Agnostic Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World**|Hua Ma et.al.|[2209.02339v1](http://arxiv.org/abs/2209.02339v1)|null|
+|**2022-09-06**|**An Indoor Localization Dataset and Data Collection Framework with High Precision Position Annotation**|F. Serhan Daniş et.al.|[2209.02270v1](http://arxiv.org/abs/2209.02270v1)|null|
+|**2022-09-06**|**The Simulator-in-the-Loop approach for vehicle dynamics control**|Federico Dettù et.al.|[2209.02263v1](http://arxiv.org/abs/2209.02263v1)|null|
+|**2022-09-06**|**Spatio-Temporal Action Detection Under Large Motion**|Gurkirt Singh et.al.|[2209.02250v1](http://arxiv.org/abs/2209.02250v1)|null|
+|**2022-09-06**|**Adaptive Machine Learning for Cooperative Manipulators**|Farhad Aghili et.al.|[2209.02223v1](http://arxiv.org/abs/2209.02223v1)|null|
 |**2022-09-06**|**A New Aligned Simple German Corpus**|Vanessa Toborek et.al.|[2209.01106v2](http://arxiv.org/abs/2209.01106v2)|**[link](https://github.com/mlai-bonn/simple-german-corpus)**|
 |**2022-09-05**|**Mapping the ocular surface from monocular videos with an application to dry eye disease grading**|Ikram Brahim et.al.|[2209.00886v2](http://arxiv.org/abs/2209.00886v2)|null|
 |**2022-09-02**|**Real-time 3D Single Object Tracking with Transformer**|Jiayao Shan et.al.|[2209.00860v1](http://arxiv.org/abs/2209.00860v1)|**[link](https://github.com/shanjiayao/ptt)**|
@@ -774,6 +788,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-05**|**MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**|Pavel Karpyshev et.al.|[2209.01936v1](http://arxiv.org/abs/2209.01936v1)|null|
 |**2022-08-30**|**Synthehicle: Multi-Vehicle Multi-Camera Tracking in Virtual Cities**|Fabian Herzog et.al.|[2208.14167v1](http://arxiv.org/abs/2208.14167v1)|**[link](https://github.com/fubel/synthehicle)**|
 |**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
 |**2022-08-10**|**Automatic Camera Control and Directing with an Ultra-High-Definition Collaborative Recording System**|Bram Vanherle et.al.|[2208.05213v1](http://arxiv.org/abs/2208.05213v1)|null|
