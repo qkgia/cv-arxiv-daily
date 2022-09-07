@@ -1,4 +1,4 @@
-> Updated on 2022.09.06
+> Updated on 2022.09.07
 
 ## SLAM
 
@@ -496,8 +496,8 @@
 
 ## Object Tracking
 
-- 2022-09-02, **A New Aligned Simple German Corpus**, Vanessa Toborek et.al., Paper: [http://arxiv.org/abs/2209.01106v1](http://arxiv.org/abs/2209.01106v1), Code: **[https://github.com/mlai-bonn/simple-german-corpus](https://github.com/mlai-bonn/simple-german-corpus)**
-- 2022-09-02, **Mapping the ocular surface from monocular videos with an application to dry eye disease grading**, Ikram Brahim et.al., Paper: [http://arxiv.org/abs/2209.00886v1](http://arxiv.org/abs/2209.00886v1)
+- 2022-09-06, **A New Aligned Simple German Corpus**, Vanessa Toborek et.al., Paper: [http://arxiv.org/abs/2209.01106v2](http://arxiv.org/abs/2209.01106v2), Code: **[https://github.com/mlai-bonn/simple-german-corpus](https://github.com/mlai-bonn/simple-german-corpus)**
+- 2022-09-05, **Mapping the ocular surface from monocular videos with an application to dry eye disease grading**, Ikram Brahim et.al., Paper: [http://arxiv.org/abs/2209.00886v2](http://arxiv.org/abs/2209.00886v2)
 - 2022-09-02, **Real-time 3D Single Object Tracking with Transformer**, Jiayao Shan et.al., Paper: [http://arxiv.org/abs/2209.00860v1](http://arxiv.org/abs/2209.00860v1), Code: **[https://github.com/shanjiayao/ptt](https://github.com/shanjiayao/ptt)**
 - 2022-09-02, **Needs and Challenges of Personal Data Visualisations in Mobile Health Apps: User Survey**, Yasmeen Anjeer Alshehhi et.al., Paper: [http://arxiv.org/abs/2209.00838v1](http://arxiv.org/abs/2209.00838v1)
 - 2022-09-02, **Index Tracking via Learning to Predict Market Sensitivities**, Yoonsik Hong et.al., Paper: [http://arxiv.org/abs/2209.00780v1](http://arxiv.org/abs/2209.00780v1)
