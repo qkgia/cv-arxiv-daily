@@ -464,6 +464,8 @@
 
 ## MOT
 
+- 2022-09-07, **Fault Signature Identification for BLDC motor Drive System -A Statistical Signal Fusion Approach**, Tribeni Prasad Banerjee et.al., Paper: [http://arxiv.org/abs/2209.03159v1](http://arxiv.org/abs/2209.03159v1)
+- 2022-09-06, **Bioinspired Smooth Neuromorphic Control for Robotic Arms**, Ioannis Polykretis et.al., Paper: [http://arxiv.org/abs/2209.02787v1](http://arxiv.org/abs/2209.02787v1)
 - 2022-09-06, **Multi-agent Deep Reinforcement Learning for Charge-sustaining Control of Multi-mode Hybrid Vehicles**, Min Hua et.al., Paper: [http://arxiv.org/abs/2209.02633v1](http://arxiv.org/abs/2209.02633v1)
 - 2022-09-06, **SIND: A Drone Dataset at Signalized Intersection in China**, Yanchao Xu et.al., Paper: [http://arxiv.org/abs/2209.02297v1](http://arxiv.org/abs/2209.02297v1), Code: **[https://github.com/sotif-avlab/sind](https://github.com/sotif-avlab/sind)**
 - 2022-09-06, **High Speed Rotation Estimation with Dynamic Vision Sensors**, Guangrong Zhao et.al., Paper: [http://arxiv.org/abs/2209.02205v1](http://arxiv.org/abs/2209.02205v1)
@@ -500,6 +502,16 @@
 
 ## Object Tracking
 
+- 2022-09-07, **Cooperative trajectory planning algorithm of USV-UAV with hull dynamic constraints**, Tao Huang et.al., Paper: [http://arxiv.org/abs/2209.03261v1](http://arxiv.org/abs/2209.03261v1)
+- 2022-09-07, **VulCurator: A Vulnerability-Fixing Commit Detector**, Truong Giang Nguyen et.al., Paper: [http://arxiv.org/abs/2209.03260v1](http://arxiv.org/abs/2209.03260v1), Code: **[https://github.com/ntgiang71096/vfdetector](https://github.com/ntgiang71096/vfdetector)**
+- 2022-09-07, **Adaptive Passivity-Based Pose Tracking Control of Cable-Driven Parallel Robots for Multiple Attitude Parameterizations**, Sze Kwan Cheah et.al., Paper: [http://arxiv.org/abs/2209.03250v1](http://arxiv.org/abs/2209.03250v1)
+- 2022-09-07, **Efficient Trajectory Planning and Control for USV with Vessel Dynamics and Differential Flatness**, Tao Huang et.al., Paper: [http://arxiv.org/abs/2209.03232v1](http://arxiv.org/abs/2209.03232v1)
+- 2022-09-07, **AutoPruner: Transformer-Based Call Graph Pruning**, Thanh Le-Cong et.al., Paper: [http://arxiv.org/abs/2209.03230v1](http://arxiv.org/abs/2209.03230v1), Code: **[https://github.com/soarsmu/autopruner](https://github.com/soarsmu/autopruner)**
+- 2022-09-07, **Measurement of the cluster position resolution of the Belle II Silicon Vertex Detector**, R. Leboucher et.al., Paper: [http://arxiv.org/abs/2209.03006v1](http://arxiv.org/abs/2209.03006v1)
+- 2022-09-07, **VGStore: A Multimodal Extension to SPARQL for Querying RDF Scene Graph**, Yanzeng Li et.al., Paper: [http://arxiv.org/abs/2209.02981v1](http://arxiv.org/abs/2209.02981v1), Code: **[https://github.com/pkumod/vgstore](https://github.com/pkumod/vgstore)**
+- 2022-09-07, **ExpTrialMng: A Universal Experiment Trial Manager for AR/VR/MR Experiments based on Unity**, Jinwook Kim et.al., Paper: [http://arxiv.org/abs/2209.02966v1](http://arxiv.org/abs/2209.02966v1)
+- 2022-09-07, **Adam Mickiewicz University at WMT 2022: NER-Assisted and Quality-Aware Neural Machine Translation**, Artur Nowakowski et.al., Paper: [http://arxiv.org/abs/2209.02962v1](http://arxiv.org/abs/2209.02962v1)
+- 2022-09-07, **Taking a Language Detour: How International Migrants Speaking a Minority Language Seek COVID-Related Information in Their Host Countries**, Ge Gao et.al., Paper: [http://arxiv.org/abs/2209.02903v1](http://arxiv.org/abs/2209.02903v1)
 - 2022-09-06, **AstroPix: Novel monolithic active pixel silicon sensors for future gamma-ray telescopes**, Amanda L. Steinhebel et.al., Paper: [http://arxiv.org/abs/2209.02631v1](http://arxiv.org/abs/2209.02631v1)
 - 2022-09-06, **Design of the ECCE Detector for the Electron Ion Collider**, J. K. Adkins et.al., Paper: [http://arxiv.org/abs/2209.02580v1](http://arxiv.org/abs/2209.02580v1)
 - 2022-09-07, **CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**, Li Wang et.al., Paper: [http://arxiv.org/abs/2209.02540v2](http://arxiv.org/abs/2209.02540v2)
