@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.07
+## Updated on 2022.09.08
 
 ## SLAM
 
@@ -585,7 +585,7 @@ layout: default
 |**2022-08-31**|**Classification of eye-state using EEG recordings: speed-up gains using signal epochs and mutual information measure**|Phoebe M Asquith et.al.|[2209.01023v1](http://arxiv.org/abs/2209.01023v1)|null|
 |**2022-09-01**|**Cooperation and competition in the collective drive by motor proteins: Mean active force, fluctuations, and self-load**|Chitrak Karan et.al.|[2209.00266v1](http://arxiv.org/abs/2209.00266v1)|null|
 |**2022-08-30**|**Cargo transport by catchbonded motors in optical trapping assays**|Naren Sundararajan et.al.|[2208.14494v1](http://arxiv.org/abs/2208.14494v1)|null|
-|**2022-08-27**|**Actor-identified Spatiotemporal Action Detection -- Detecting Who Is Doing What in Videos**|Fan Yang et.al.|[2208.12940v1](http://arxiv.org/abs/2208.12940v1)|**[link](https://github.com/fandulu/asad)**|
+|**2022-09-07**|**Actor-identified Spatiotemporal Action Detection --- Detecting Who Is Doing What in Videos**|Fan Yang et.al.|[2208.12940v2](http://arxiv.org/abs/2208.12940v2)|**[link](https://github.com/fandulu/asad)**|
 |**2022-08-26**|**Dynamic Flow Control Through Active Matter Programming Language**|Fan Yang et.al.|[2208.12839v1](http://arxiv.org/abs/2208.12839v1)|null|
 |**2022-08-25**|**Cycloidal-spiral sampling for three-modal x-ray CT flyscans with two-dimensional phase sensitivity**|G. Lioliou et.al.|[2208.12076v1](http://arxiv.org/abs/2208.12076v1)|null|
 |**2022-08-24**|**Population recordings of human motor units often display 'onion skin' discharge patterns -- implications for voluntary motor control**|Gregory EP Pearcey et.al.|[2208.11783v1](http://arxiv.org/abs/2208.11783v1)|null|
@@ -617,7 +617,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-06**|**AstroPix: Novel monolithic active pixel silicon sensors for future gamma-ray telescopes**|Amanda L. Steinhebel et.al.|[2209.02631v1](http://arxiv.org/abs/2209.02631v1)|null|
 |**2022-09-06**|**Design of the ECCE Detector for the Electron Ion Collider**|J. K. Adkins et.al.|[2209.02580v1](http://arxiv.org/abs/2209.02580v1)|null|
-|**2022-09-06**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540v1](http://arxiv.org/abs/2209.02540v1)|null|
+|**2022-09-07**|**CAMO-MOT: Combined Appearance-Motion Optimization for 3D Multi-Object Tracking with Camera-LiDAR Fusion**|Li Wang et.al.|[2209.02540v2](http://arxiv.org/abs/2209.02540v2)|null|
 |**2022-09-06**|**A Combined Inverse Kinematics Algorithm Using FABRIK with Optimization**|Zichun Xu et.al.|[2209.02532v1](http://arxiv.org/abs/2209.02532v1)|null|
 |**2022-09-06**|**Attosecond metrology of 2D charge distribution in molecules**|V. Loriot 1 et.al.|[2209.02445v1](http://arxiv.org/abs/2209.02445v1)|null|
 |**2022-09-06**|**MACAB: Model-Agnostic Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World**|Hua Ma et.al.|[2209.02339v1](http://arxiv.org/abs/2209.02339v1)|null|
