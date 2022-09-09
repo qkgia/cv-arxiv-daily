@@ -464,6 +464,7 @@
 
 ## MOT
 
+- 2022-09-08, **Impact of dataset size and long-term ECoG-based BCI usage on deep learning decoders performance**, Maciej Śliwowski et.al., Paper: [http://arxiv.org/abs/2209.03789v1](http://arxiv.org/abs/2209.03789v1)
 - 2022-09-07, **Fault Signature Identification for BLDC motor Drive System -A Statistical Signal Fusion Approach**, Tribeni Prasad Banerjee et.al., Paper: [http://arxiv.org/abs/2209.03159v1](http://arxiv.org/abs/2209.03159v1)
 - 2022-09-06, **Bioinspired Smooth Neuromorphic Control for Robotic Arms**, Ioannis Polykretis et.al., Paper: [http://arxiv.org/abs/2209.02787v1](http://arxiv.org/abs/2209.02787v1)
 - 2022-09-06, **Multi-agent Deep Reinforcement Learning for Charge-sustaining Control of Multi-mode Hybrid Vehicles**, Min Hua et.al., Paper: [http://arxiv.org/abs/2209.02633v1](http://arxiv.org/abs/2209.02633v1)
@@ -502,6 +503,16 @@
 
 ## Object Tracking
 
+- 2022-09-08, **Data Feedback Loops: Model-driven Amplification of Dataset Biases**, Rohan Taori et.al., Paper: [http://arxiv.org/abs/2209.03942v1](http://arxiv.org/abs/2209.03942v1), Code: **[https://github.com/rtaori/data_feedback](https://github.com/rtaori/data_feedback)**
+- 2022-09-08, **Data Management Challenges for Internet-scale 3D Search Engines**, James Williams et.al., Paper: [http://arxiv.org/abs/2209.03913v1](http://arxiv.org/abs/2209.03913v1)
+- 2022-09-08, **PixTrack: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment**, Prajwal Chidananda et.al., Paper: [http://arxiv.org/abs/2209.03910v1](http://arxiv.org/abs/2209.03910v1)
+- 2022-09-08, **Ultrafast phonon-driven charge transfer in van der Waals heterostructures**, Giuseppe Meneghini et.al., Paper: [http://arxiv.org/abs/2209.03779v1](http://arxiv.org/abs/2209.03779v1)
+- 2022-09-08, **Visual Firewall Log Analysis -- At the Border Between Analytical and Appealing**, Marija Schufrin et.al., Paper: [http://arxiv.org/abs/2209.03702v1](http://arxiv.org/abs/2209.03702v1)
+- 2022-09-08, **MetaPriv: Acting in Favor of Privacy on Social Media Platforms**, Robert Cantaragiu et.al., Paper: [http://arxiv.org/abs/2209.03679v1](http://arxiv.org/abs/2209.03679v1)
+- 2022-09-08, **AARGH! End-to-end Retrieval-Generation for Task-Oriented Dialog**, Tomáš Nekvinda et.al., Paper: [http://arxiv.org/abs/2209.03632v1](http://arxiv.org/abs/2209.03632v1), Code: **[https://github.com/tomiinek/aargh](https://github.com/tomiinek/aargh)**
+- 2022-09-08, **Solid State Detectors and Tracking for Snowmass**, Anthony Affolder et.al., Paper: [http://arxiv.org/abs/2209.03607v1](http://arxiv.org/abs/2209.03607v1)
+- 2022-09-08, **nVFNet-RDC: Replay and Non-Local Distillation Collaboration for Continual Object Detection**, Jinxiang Lai et.al., Paper: [http://arxiv.org/abs/2209.03603v1](http://arxiv.org/abs/2209.03603v1)
+- 2022-09-08, **Automated Validation of Insurance Applications against Calculation Specifications**, Advaita Datar et.al., Paper: [http://arxiv.org/abs/2209.03558v1](http://arxiv.org/abs/2209.03558v1)
 - 2022-09-07, **Cooperative trajectory planning algorithm of USV-UAV with hull dynamic constraints**, Tao Huang et.al., Paper: [http://arxiv.org/abs/2209.03261v1](http://arxiv.org/abs/2209.03261v1)
 - 2022-09-07, **VulCurator: A Vulnerability-Fixing Commit Detector**, Truong Giang Nguyen et.al., Paper: [http://arxiv.org/abs/2209.03260v1](http://arxiv.org/abs/2209.03260v1), Code: **[https://github.com/ntgiang71096/vfdetector](https://github.com/ntgiang71096/vfdetector)**
 - 2022-09-07, **Adaptive Passivity-Based Pose Tracking Control of Cable-Driven Parallel Robots for Multiple Attitude Parameterizations**, Sze Kwan Cheah et.al., Paper: [http://arxiv.org/abs/2209.03250v1](http://arxiv.org/abs/2209.03250v1)
