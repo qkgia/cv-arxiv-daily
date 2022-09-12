@@ -577,6 +577,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-08**|**Collective Control for Arbitrary Configurations of Docked Modboats**|Gedaliah Knizhnik et.al.|[2209.04000v1](http://arxiv.org/abs/2209.04000v1)|null|
 |**2022-09-08**|**Impact of dataset size and long-term ECoG-based BCI usage on deep learning decoders performance**|Maciej Śliwowski et.al.|[2209.03789v1](http://arxiv.org/abs/2209.03789v1)|null|
 |**2022-09-07**|**Fault Signature Identification for BLDC motor Drive System -A Statistical Signal Fusion Approach**|Tribeni Prasad Banerjee et.al.|[2209.03159v1](http://arxiv.org/abs/2209.03159v1)|null|
 |**2022-09-06**|**Bioinspired Smooth Neuromorphic Control for Robotic Arms**|Ioannis Polykretis et.al.|[2209.02787v1](http://arxiv.org/abs/2209.02787v1)|null|
@@ -618,6 +619,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-09**|**Longitudinal Acoustic Speech Tracking Following Pediatric Traumatic Brain Injury**|Camille Noufi et.al.|[2209.04406v1](http://arxiv.org/abs/2209.04406v1)|null|
+|**2022-09-09**|**Directed energy deposition powder stream modeling using a Gaussian beam ray representation**|Alexander Martinez-Marchese et.al.|[2209.04398v1](http://arxiv.org/abs/2209.04398v1)|null|
+|**2022-09-09**|**MIntRec: A New Dataset for Multimodal Intent Recognition**|Hanlei Zhang et.al.|[2209.04355v1](http://arxiv.org/abs/2209.04355v1)|null|
+|**2022-09-09**|**Model- and Acceleration-based Pursuit Controller for High-Performance Autonomous Racing**|Jonathan Becker et.al.|[2209.04346v1](http://arxiv.org/abs/2209.04346v1)|null|
+|**2022-09-09**|**Design of a Supervisory Control System for Autonomous Operation of Advanced Reactors**|Akshay J. Dave et.al.|[2209.04334v1](http://arxiv.org/abs/2209.04334v1)|null|
+|**2022-09-09**|**Tracking Small and Fast Moving Objects: A Benchmark**|Zhewen Zhang et.al.|[2209.04284v1](http://arxiv.org/abs/2209.04284v1)|null|
+|**2022-09-09**|**Radiation build-up and dissipation in random fiber laser**|Shengtao Lin et.al.|[2209.04267v1](http://arxiv.org/abs/2209.04267v1)|null|
+|**2022-09-09**|**Multi-level Adaptation for Automatic Landing with Engine Failure under Turbulent Weather**|Haotian Gu et.al.|[2209.04132v1](http://arxiv.org/abs/2209.04132v1)|null|
+|**2022-09-08**|**Drone Deployment Optimization for Direct Delivery with Time Windows and Battery Replacements**|Tanveer Hossain Bhuiyan et.al.|[2209.04057v1](http://arxiv.org/abs/2209.04057v1)|null|
+|**2022-09-08**|**Interaction between a Rising Bubble and a Stationary Droplet Immersed in a Liquid Pool using Ternary Conservative Phase-Field Lattice Boltzmann Method**|Chunheng Zhao et.al.|[2209.04050v1](http://arxiv.org/abs/2209.04050v1)|null|
 |**2022-09-08**|**Data Feedback Loops: Model-driven Amplification of Dataset Biases**|Rohan Taori et.al.|[2209.03942v1](http://arxiv.org/abs/2209.03942v1)|**[link](https://github.com/rtaori/data_feedback)**|
 |**2022-09-08**|**Data Management Challenges for Internet-scale 3D Search Engines**|James Williams et.al.|[2209.03913v1](http://arxiv.org/abs/2209.03913v1)|null|
 |**2022-09-08**|**PixTrack: Precise 6DoF Object Pose Tracking using NeRF Templates and Feature-metric Alignment**|Prajwal Chidananda et.al.|[2209.03910v1](http://arxiv.org/abs/2209.03910v1)|null|
