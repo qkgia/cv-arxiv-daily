@@ -1,4 +1,4 @@
-> Updated on 2022.09.12
+> Updated on 2022.09.13
 
 ## SLAM
 
@@ -506,7 +506,7 @@
 
 - 2022-09-09, **Longitudinal Acoustic Speech Tracking Following Pediatric Traumatic Brain Injury**, Camille Noufi et.al., Paper: [http://arxiv.org/abs/2209.04406v1](http://arxiv.org/abs/2209.04406v1)
 - 2022-09-09, **Directed energy deposition powder stream modeling using a Gaussian beam ray representation**, Alexander Martinez-Marchese et.al., Paper: [http://arxiv.org/abs/2209.04398v1](http://arxiv.org/abs/2209.04398v1)
-- 2022-09-09, **MIntRec: A New Dataset for Multimodal Intent Recognition**, Hanlei Zhang et.al., Paper: [http://arxiv.org/abs/2209.04355v1](http://arxiv.org/abs/2209.04355v1)
+- 2022-09-09, **MIntRec: A New Dataset for Multimodal Intent Recognition**, Hanlei Zhang et.al., Paper: [http://arxiv.org/abs/2209.04355v1](http://arxiv.org/abs/2209.04355v1), Code: **[https://github.com/thuiar/mintrec](https://github.com/thuiar/mintrec)**
 - 2022-09-09, **Model- and Acceleration-based Pursuit Controller for High-Performance Autonomous Racing**, Jonathan Becker et.al., Paper: [http://arxiv.org/abs/2209.04346v1](http://arxiv.org/abs/2209.04346v1)
 - 2022-09-09, **Design of a Supervisory Control System for Autonomous Operation of Advanced Reactors**, Akshay J. Dave et.al., Paper: [http://arxiv.org/abs/2209.04334v1](http://arxiv.org/abs/2209.04334v1)
 - 2022-09-09, **Tracking Small and Fast Moving Objects: A Benchmark**, Zhewen Zhang et.al., Paper: [http://arxiv.org/abs/2209.04284v1](http://arxiv.org/abs/2209.04284v1)
