@@ -577,6 +577,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-06**|**Analysis of an Induction Machine Fed by a Space Vector Modulated VSI**|Fnu Nishanth et.al.|[2209.05254v1](http://arxiv.org/abs/2209.05254v1)|null|
+|**2022-09-12**|**HandMime: Sign Language Fingerspelling Acquisition via Imitation Learning**|Federico Tavella et.al.|[2209.05135v1](http://arxiv.org/abs/2209.05135v1)|null|
+|**2022-09-11**|**Toward a Framework for Adaptive ImpedancenControl of an Upper-limb Prosthesis**|Laura Ferrante et.al.|[2209.04937v1](http://arxiv.org/abs/2209.04937v1)|null|
+|**2022-09-11**|**Instruction-driven history-aware policies for robotic manipulations**|Pierre-Louis Guhur et.al.|[2209.04899v1](http://arxiv.org/abs/2209.04899v1)|null|
+|**2022-09-11**|**Multiple Object Tracking in Recent Times: A Literature Review**|Mk Bashar et.al.|[2209.04796v1](http://arxiv.org/abs/2209.04796v1)|null|
+|**2022-09-10**|**Shape Analysis for Pediatric Upper Body Motor Function Assessment**|Shashwat Kumar et.al.|[2209.04710v1](http://arxiv.org/abs/2209.04710v1)|null|
 |**2022-09-08**|**Collective Control for Arbitrary Configurations of Docked Modboats**|Gedaliah Knizhnik et.al.|[2209.04000v1](http://arxiv.org/abs/2209.04000v1)|null|
 |**2022-09-08**|**Impact of dataset size and long-term ECoG-based BCI usage on deep learning decoders performance**|Maciej Śliwowski et.al.|[2209.03789v1](http://arxiv.org/abs/2209.03789v1)|null|
 |**2022-09-07**|**Fault Signature Identification for BLDC motor Drive System -A Statistical Signal Fusion Approach**|Tribeni Prasad Banerjee et.al.|[2209.03159v1](http://arxiv.org/abs/2209.03159v1)|null|
@@ -619,6 +625,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-12**|**Adaptive 3D Localization of 2D Freehand Ultrasound Brain Images**|Pak-Hei Yeung et.al.|[2209.05477v1](http://arxiv.org/abs/2209.05477v1)|null|
+|**2022-09-12**|**Riccati-feedback Control of a Two-dimensional Two-phase Stefan Problem**|Björn Baran et.al.|[2209.05476v1](http://arxiv.org/abs/2209.05476v1)|null|
+|**2022-09-12**|**Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe**|Hongyang Li et.al.|[2209.05324v1](http://arxiv.org/abs/2209.05324v1)|null|
+|**2022-09-12**|**Revising the universality class of the four-dimensional Ising model**|P. H. Lundow et.al.|[2209.05292v1](http://arxiv.org/abs/2209.05292v1)|null|
+|**2022-09-12**|**Multiple Control Barrier Functions: An Application to Reactive Obstacle Avoidance for a Multi-steering Tractor-trailer System**|Mohammad Aali et.al.|[2209.05156v1](http://arxiv.org/abs/2209.05156v1)|null|
+|**2022-09-12**|**Cross-Coupled Iterative Learning Control for Complex Systems: A Monotonically Convergent and Computationally Efficient Approach**|Leontine Aarnoudse et.al.|[2209.05155v1](http://arxiv.org/abs/2209.05155v1)|null|
+|**2022-09-12**|**Recursive Prediction Error Gradient-Based Algorithms and Framework to Identify PMSM Parameters Online**|Aravinda Perera et.al.|[2209.05094v1](http://arxiv.org/abs/2209.05094v1)|null|
+|**2022-09-11**|**Towards Security Enhancement of Blockchain-based Supply Chain Management**|Abdul Khalique Shaikh A. K. Al-Alawi et.al.|[2209.04917v1](http://arxiv.org/abs/2209.04917v1)|null|
+|**2022-09-11**|**Instruction-driven history-aware policies for robotic manipulations**|Pierre-Louis Guhur et.al.|[2209.04899v1](http://arxiv.org/abs/2209.04899v1)|null|
+|**2022-09-11**|**Performance-Driven Controller Tuning via Derivative-Free Reinforcement Learning**|Yuheng Lei et.al.|[2209.04854v1](http://arxiv.org/abs/2209.04854v1)|null|
 |**2022-09-09**|**Longitudinal Acoustic Speech Tracking Following Pediatric Traumatic Brain Injury**|Camille Noufi et.al.|[2209.04406v1](http://arxiv.org/abs/2209.04406v1)|null|
 |**2022-09-09**|**Directed energy deposition powder stream modeling using a Gaussian beam ray representation**|Alexander Martinez-Marchese et.al.|[2209.04398v1](http://arxiv.org/abs/2209.04398v1)|null|
 |**2022-09-09**|**MIntRec: A New Dataset for Multimodal Intent Recognition**|Hanlei Zhang et.al.|[2209.04355v1](http://arxiv.org/abs/2209.04355v1)|**[link](https://github.com/thuiar/mintrec)**|
