@@ -577,6 +577,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-13**|**Analyzing the Impact of Varied Window Hyper-parameters on Deep CNN for sEMG based Motion Intent Classification**|Frank Kulwa et.al.|[2209.05804v1](http://arxiv.org/abs/2209.05804v1)|null|
+|**2022-09-12**|**Hoxels: Fully 3-D Printed Soft Multi-Modal & Multi-Contact Haptic Voxel Displays for Enriched Tactile Information Transfer**|Zhenishbek Zhakypov et.al.|[2209.05603v1](http://arxiv.org/abs/2209.05603v1)|null|
 |**2022-09-06**|**Analysis of an Induction Machine Fed by a Space Vector Modulated VSI**|Fnu Nishanth et.al.|[2209.05254v1](http://arxiv.org/abs/2209.05254v1)|null|
 |**2022-09-12**|**HandMime: Sign Language Fingerspelling Acquisition via Imitation Learning**|Federico Tavella et.al.|[2209.05135v1](http://arxiv.org/abs/2209.05135v1)|null|
 |**2022-09-11**|**Toward a Framework for Adaptive Impedance Control of an Upper-limb Prosthesis**|Laura Ferrante et.al.|[2209.04937v1](http://arxiv.org/abs/2209.04937v1)|null|
@@ -625,6 +627,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-13**|**Tunneling-induced fractal transmission in Valley Hall waveguides**|Tirth Shah et.al.|[2209.06188v1](http://arxiv.org/abs/2209.06188v1)|null|
+|**2022-09-13**|**What You See is What You Grasp: User-Friendly Grasping Guided by Near-eye-tracking**|Shaochen Wang et.al.|[2209.06122v1](http://arxiv.org/abs/2209.06122v1)|null|
+|**2022-09-13**|**LegalBench: Prototyping a Collaborative Benchmark for Legal Reasoning**|Neel Guha et.al.|[2209.06120v1](http://arxiv.org/abs/2209.06120v1)|null|
+|**2022-09-13**|**Acoustic-Linguistic Features for Modeling Neurological Task Score in Alzheimer's**|Saurav K. Aryal et.al.|[2209.06085v1](http://arxiv.org/abs/2209.06085v1)|null|
+|**2022-09-13**|**Exploring the use of Transition Path Theory in building an oil spill prediction scheme**|M. J. Olascoaga et.al.|[2209.06055v1](http://arxiv.org/abs/2209.06055v1)|null|
+|**2022-09-13**|**SongDriver: Real-time Music Accompaniment Generation without Logical Latency nor Exposure Bias**|Zihao Wang et.al.|[2209.06054v1](http://arxiv.org/abs/2209.06054v1)|null|
+|**2022-09-13**|**A Distributed Acoustic Sensor System for Intelligent Transportation using Deep Learning**|Chia-Yen Chiang et.al.|[2209.05978v1](http://arxiv.org/abs/2209.05978v1)|null|
+|**2022-09-13**|**Flight of a honeybee in turbulent wind**|Bardia Hejazi et.al.|[2209.05977v1](http://arxiv.org/abs/2209.05977v1)|null|
+|**2022-09-13**|**Computer vision based vehicle tracking as a complementary and scalable approach to RFID tagging**|Pranav Kant Gaur et.al.|[2209.05911v1](http://arxiv.org/abs/2209.05911v1)|null|
+|**2022-09-13**|**The Climate and Compositional Variation of the Highly Eccentric Planet HD 80606 b]{The Climate and Compositional Variation of the Highly Eccentric Planet HD 80606 b -- the rise and fall of carbon monoxide and elemental sulfur**|Shang-Min Tsai et.al.|[2209.05910v1](http://arxiv.org/abs/2209.05910v1)|null|
 |**2022-09-12**|**Adaptive 3D Localization of 2D Freehand Ultrasound Brain Images**|Pak-Hei Yeung et.al.|[2209.05477v1](http://arxiv.org/abs/2209.05477v1)|null|
 |**2022-09-12**|**Riccati-feedback Control of a Two-dimensional Two-phase Stefan Problem**|Björn Baran et.al.|[2209.05476v1](http://arxiv.org/abs/2209.05476v1)|null|
 |**2022-09-12**|**Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe**|Hongyang Li et.al.|[2209.05324v1](http://arxiv.org/abs/2209.05324v1)|null|
