@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.13
+## Updated on 2022.09.14
 
 ## SLAM
 
@@ -579,7 +579,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-06**|**Analysis of an Induction Machine Fed by a Space Vector Modulated VSI**|Fnu Nishanth et.al.|[2209.05254v1](http://arxiv.org/abs/2209.05254v1)|null|
 |**2022-09-12**|**HandMime: Sign Language Fingerspelling Acquisition via Imitation Learning**|Federico Tavella et.al.|[2209.05135v1](http://arxiv.org/abs/2209.05135v1)|null|
-|**2022-09-11**|**Toward a Framework for Adaptive ImpedancenControl of an Upper-limb Prosthesis**|Laura Ferrante et.al.|[2209.04937v1](http://arxiv.org/abs/2209.04937v1)|null|
+|**2022-09-11**|**Toward a Framework for Adaptive Impedance Control of an Upper-limb Prosthesis**|Laura Ferrante et.al.|[2209.04937v1](http://arxiv.org/abs/2209.04937v1)|null|
 |**2022-09-11**|**Instruction-driven history-aware policies for robotic manipulations**|Pierre-Louis Guhur et.al.|[2209.04899v1](http://arxiv.org/abs/2209.04899v1)|null|
 |**2022-09-11**|**Multiple Object Tracking in Recent Times: A Literature Review**|Mk Bashar et.al.|[2209.04796v1](http://arxiv.org/abs/2209.04796v1)|null|
 |**2022-09-10**|**Shape Analysis for Pediatric Upper Body Motor Function Assessment**|Shashwat Kumar et.al.|[2209.04710v1](http://arxiv.org/abs/2209.04710v1)|null|
