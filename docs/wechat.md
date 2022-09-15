@@ -464,6 +464,10 @@
 
 ## MOT
 
+- 2022-09-14, **The pernicious danger of cortical brain maps**, Benjamin Yost Hayden et.al., Paper: [http://arxiv.org/abs/2209.06740v1](http://arxiv.org/abs/2209.06740v1)
+- 2022-09-14, **Structure and dynamics of motor-driven microtubule bundles**, Bezia Lemma et.al., Paper: [http://arxiv.org/abs/2209.06637v1](http://arxiv.org/abs/2209.06637v1)
+- 2022-09-14, **Optimal Commutation for Switched Reluctance Motors using Gaussian Process Regression**, Max van Meer et.al., Paper: [http://arxiv.org/abs/2209.06550v1](http://arxiv.org/abs/2209.06550v1)
+- 2022-09-13, **Spatiotemporal patterning of extensile active stresses in microtubule-based active fluids**, Linnea M. Lemma et.al., Paper: [http://arxiv.org/abs/2209.06277v1](http://arxiv.org/abs/2209.06277v1)
 - 2022-09-13, **Analyzing the Impact of Varied Window Hyper-parameters on Deep CNN for sEMG based Motion Intent Classification**, Frank Kulwa et.al., Paper: [http://arxiv.org/abs/2209.05804v1](http://arxiv.org/abs/2209.05804v1)
 - 2022-09-12, **Hoxels: Fully 3-D Printed Soft Multi-Modal & Multi-Contact Haptic Voxel Displays for Enriched Tactile Information Transfer**, Zhenishbek Zhakypov et.al., Paper: [http://arxiv.org/abs/2209.05603v1](http://arxiv.org/abs/2209.05603v1)
 - 2022-09-06, **Analysis of an Induction Machine Fed by a Space Vector Modulated VSI**, Fnu Nishanth et.al., Paper: [http://arxiv.org/abs/2209.05254v1](http://arxiv.org/abs/2209.05254v1)
@@ -512,6 +516,16 @@
 
 ## Object Tracking
 
+- 2022-09-14, **SPACE-3: Unified Dialog Model Pre-training for Task-Oriented Dialog Understanding and Generation**, Wanwei He et.al., Paper: [http://arxiv.org/abs/2209.06664v1](http://arxiv.org/abs/2209.06664v1)
+- 2022-09-14, **Decentralized LiDAR-inertial Swarm Odometry**, Fangcheng Zhu et.al., Paper: [http://arxiv.org/abs/2209.06628v1](http://arxiv.org/abs/2209.06628v1)
+- 2022-09-14, **Safe Autonomous Docking Maneuvers for a Floating Platform based on Input Sharing Control Barrier Functions**, Akshit Saradagi et.al., Paper: [http://arxiv.org/abs/2209.06618v1](http://arxiv.org/abs/2209.06618v1)
+- 2022-09-14, **Data-Efficient Collaborative Decentralized Thermal-Inertial Odometry**, Vincenzo Polizzi et.al., Paper: [http://arxiv.org/abs/2209.06588v1](http://arxiv.org/abs/2209.06588v1)
+- 2022-09-14, **On modal observers for beyond rigid body $H_\infty$ control in high-precision mechatronics**, Yorick Broens et.al., Paper: [http://arxiv.org/abs/2209.06554v1](http://arxiv.org/abs/2209.06554v1)
+- 2022-09-14, **Evaluation of Text Selection Techniques in Virtual Reality Head-Mounted Displays**, Wenge Xu et.al., Paper: [http://arxiv.org/abs/2209.06498v1](http://arxiv.org/abs/2209.06498v1)
+- 2022-09-14, **Frequency stabilisation and SI tracing of mid-infrared quantum-cascade lasers for precision molecular spectroscopy**, Mudit Sinhal et.al., Paper: [http://arxiv.org/abs/2209.06471v1](http://arxiv.org/abs/2209.06471v1)
+- 2022-09-14, **Personalized Emotion Detection using IoT and Machine Learning**, Fiona Victoria Stanley Jothiraj et.al., Paper: [http://arxiv.org/abs/2209.06464v1](http://arxiv.org/abs/2209.06464v1), Code: **[https://github.com/fionavictoria/MLEmotionDetection](https://github.com/fionavictoria/MLEmotionDetection)**
+- 2022-09-14, **TrADe Re-ID -- Live Person Re-Identification using Tracking and Anomaly Detection**, Luigy Machaca et.al., Paper: [http://arxiv.org/abs/2209.06452v1](http://arxiv.org/abs/2209.06452v1)
+- 2022-09-14, **Point Cloud Registration-Driven Robust Feature Matching for 3D Siamese Object Tracking**, Haobo Jiang et.al., Paper: [http://arxiv.org/abs/2209.06395v1](http://arxiv.org/abs/2209.06395v1)
 - 2022-09-13, **Tunneling-induced fractal transmission in Valley Hall waveguides**, Tirth Shah et.al., Paper: [http://arxiv.org/abs/2209.06188v1](http://arxiv.org/abs/2209.06188v1)
 - 2022-09-13, **What You See is What You Grasp: User-Friendly Grasping Guided by Near-eye-tracking**, Shaochen Wang et.al., Paper: [http://arxiv.org/abs/2209.06122v1](http://arxiv.org/abs/2209.06122v1)
 - 2022-09-13, **LegalBench: Prototyping a Collaborative Benchmark for Legal Reasoning**, Neel Guha et.al., Paper: [http://arxiv.org/abs/2209.06120v1](http://arxiv.org/abs/2209.06120v1)
