@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-15**|**Robust Locomotion on Legged Robots through Planning on Motion Primitive Graphs**|Wyatt Ubellacker et.al.|[2209.07503v1](http://arxiv.org/abs/2209.07503v1)|null|
+|**2022-09-15**|**Compositional generalization through abstract representations in human and artificial neural networks**|Takuya Ito et.al.|[2209.07431v1](http://arxiv.org/abs/2209.07431v1)|null|
 |**2022-09-14**|**The pernicious danger of cortical brain maps**|Benjamin Yost Hayden et.al.|[2209.06740v1](http://arxiv.org/abs/2209.06740v1)|null|
 |**2022-09-14**|**Structure and dynamics of motor-driven microtubule bundles**|Bezia Lemma et.al.|[2209.06637v1](http://arxiv.org/abs/2209.06637v1)|null|
 |**2022-09-14**|**Optimal Commutation for Switched Reluctance Motors using Gaussian Process Regression**|Max van Meer et.al.|[2209.06550v1](http://arxiv.org/abs/2209.06550v1)|null|
@@ -58,6 +60,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-15**|**Coeffects for Sharing and Mutation**|Riccardo Bianchini et.al.|[2209.07439v1](http://arxiv.org/abs/2209.07439v1)|null|
+|**2022-09-15**|**Examining Large Pre-Trained Language Models for Machine Translation: What You Don't Know About It**|Lifeng Han et.al.|[2209.07417v1](http://arxiv.org/abs/2209.07417v1)|null|
+|**2022-09-15**|**ESAVE: Estimating Server and Virtual Machine Energy**|Priyavanshi Pathania et.al.|[2209.07394v1](http://arxiv.org/abs/2209.07394v1)|null|
+|**2022-09-15**|**Semiparametric Best Arm Identification with Contextual Information**|Masahiro Kato et.al.|[2209.07330v1](http://arxiv.org/abs/2209.07330v1)|null|
+|**2022-09-15**|**Intuitive Robot Programming by Capturing Human Manufacturing Skills: A Framework for the Process of Glass Adhesive Application**|Mihail Babcinschi et.al.|[2209.07322v1](http://arxiv.org/abs/2209.07322v1)|null|
+|**2022-09-15**|**Physically recurrent neural networks for path-dependent heterogeneous materials: embedding constitutive models in a data-driven surrogate**|M. A. Maia et.al.|[2209.07320v1](http://arxiv.org/abs/2209.07320v1)|null|
+|**2022-09-15**|**On-line Identification of Photovoltaic Arrays' Dynamic Model Parameters**|Alexey Bobtsov et.al.|[2209.07246v1](http://arxiv.org/abs/2209.07246v1)|null|
+|**2022-09-15**|**Beat Transformer: Demixed Beat and Downbeat Tracking with Dilated Self-Attention**|Jingwei Zhao et.al.|[2209.07140v1](http://arxiv.org/abs/2209.07140v1)|null|
+|**2022-09-15**|**Tracking quantum coherence in polariton condensates with time-resolved tomography**|Carolin Lüders et.al.|[2209.07129v1](http://arxiv.org/abs/2209.07129v1)|null|
+|**2022-09-15**|**MIPI 2022 Challenge on Quad-Bayer Re-mosaic: Dataset and Report**|Qingyu Yang et.al.|[2209.07060v1](http://arxiv.org/abs/2209.07060v1)|null|
 |**2022-09-14**|**SPACE-3: Unified Dialog Model Pre-training for Task-Oriented Dialog Understanding and Generation**|Wanwei He et.al.|[2209.06664v1](http://arxiv.org/abs/2209.06664v1)|null|
 |**2022-09-14**|**Decentralized LiDAR-inertial Swarm Odometry**|Fangcheng Zhu et.al.|[2209.06628v1](http://arxiv.org/abs/2209.06628v1)|null|
 |**2022-09-14**|**Safe Autonomous Docking Maneuvers for a Floating Platform based on Input Sharing Control Barrier Functions**|Akshit Saradagi et.al.|[2209.06618v1](http://arxiv.org/abs/2209.06618v1)|null|
