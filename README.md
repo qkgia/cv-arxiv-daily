@@ -67,7 +67,7 @@
 |**2022-09-15**|**Intuitive Robot Programming by Capturing Human Manufacturing Skills: A Framework for the Process of Glass Adhesive Application**|Mihail Babcinschi et.al.|[2209.07322v1](http://arxiv.org/abs/2209.07322v1)|null|
 |**2022-09-15**|**Physically recurrent neural networks for path-dependent heterogeneous materials: embedding constitutive models in a data-driven surrogate**|M. A. Maia et.al.|[2209.07320v1](http://arxiv.org/abs/2209.07320v1)|null|
 |**2022-09-15**|**On-line Identification of Photovoltaic Arrays' Dynamic Model Parameters**|Alexey Bobtsov et.al.|[2209.07246v1](http://arxiv.org/abs/2209.07246v1)|null|
-|**2022-09-15**|**Beat Transformer: Demixed Beat and Downbeat Tracking with Dilated Self-Attention**|Jingwei Zhao et.al.|[2209.07140v1](http://arxiv.org/abs/2209.07140v1)|null|
+|**2022-09-15**|**Beat Transformer: Demixed Beat and Downbeat Tracking with Dilated Self-Attention**|Jingwei Zhao et.al.|[2209.07140v1](http://arxiv.org/abs/2209.07140v1)|**[link](https://github.com/zhaojw1998/beat-transformer)**|
 |**2022-09-15**|**Tracking quantum coherence in polariton condensates with time-resolved tomography**|Carolin Lüders et.al.|[2209.07129v1](http://arxiv.org/abs/2209.07129v1)|null|
 |**2022-09-15**|**MIPI 2022 Challenge on Quad-Bayer Re-mosaic: Dataset and Report**|Qingyu Yang et.al.|[2209.07060v1](http://arxiv.org/abs/2209.07060v1)|null|
 |**2022-09-14**|**SPACE-3: Unified Dialog Model Pre-training for Task-Oriented Dialog Understanding and Generation**|Wanwei He et.al.|[2209.06664v1](http://arxiv.org/abs/2209.06664v1)|null|
