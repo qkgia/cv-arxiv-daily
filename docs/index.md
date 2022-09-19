@@ -577,6 +577,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-16**|**Learning Policies for Continuous Control via Transition Models**|Justus Huebotter et.al.|[2209.08033v1](http://arxiv.org/abs/2209.08033v1)|null|
 |**2022-09-15**|**Robust Locomotion on Legged Robots through Planning on Motion Primitive Graphs**|Wyatt Ubellacker et.al.|[2209.07503v1](http://arxiv.org/abs/2209.07503v1)|null|
 |**2022-09-15**|**Compositional generalization through abstract representations in human and artificial neural networks**|Takuya Ito et.al.|[2209.07431v1](http://arxiv.org/abs/2209.07431v1)|null|
 |**2022-09-14**|**The pernicious danger of cortical brain maps**|Benjamin Yost Hayden et.al.|[2209.06740v1](http://arxiv.org/abs/2209.06740v1)|null|
@@ -633,6 +634,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-16**|**TIMIT-TTS: a Text-to-Speech Dataset for Multimodal Synthetic Media Detection**|Davide Salvi et.al.|[2209.08000v1](http://arxiv.org/abs/2209.08000v1)|null|
+|**2022-09-16**|**Imitrob: Imitation Learning Dataset for Training and Evaluating 6D Object Pose Estimators**|Jiri Sedlar et.al.|[2209.07976v1](http://arxiv.org/abs/2209.07976v1)|**[link](https://github.com/imitrob/imitrob_dataset_code)**|
+|**2022-09-16**|**A Deep Moving-camera Background Model**|Guy Erez et.al.|[2209.07923v1](http://arxiv.org/abs/2209.07923v1)|**[link](https://github.com/bgu-cs-vil/deepmcbm)**|
+|**2022-09-16**|**iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**|Yuhang Ming et.al.|[2209.07919v1](http://arxiv.org/abs/2209.07919v1)|null|
+|**2022-09-16**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez et.al.|[2209.07888v1](http://arxiv.org/abs/2209.07888v1)|null|
+|**2022-09-16**|**Beam Tracking for Dynamic mmWave Channels: A New Training Beam Sequence Design Approach**|Deyou Zhang et.al.|[2209.07886v1](http://arxiv.org/abs/2209.07886v1)|null|
+|**2022-09-16**|**KaliCalib: A Framework for Basketball Court Registration**|Adrien Maglo et.al.|[2209.07795v1](http://arxiv.org/abs/2209.07795v1)|null|
+|**2022-09-16**|**Game-theoretic Objective Space Planning**|Hongrui Zheng et.al.|[2209.07758v1](http://arxiv.org/abs/2209.07758v1)|**[link](https://github.com/hzheng40/objective_space_cfr)**|
+|**2022-09-16**|**SF-DST: Few-Shot Self-Feeding Reading Comprehension Dialogue State Tracking with Auxiliary Task**|Jihyun Lee et.al.|[2209.07742v1](http://arxiv.org/abs/2209.07742v1)|null|
+|**2022-09-16**|**VINet: Visual and Inertial-based Terrain Classification and Adaptive Navigation over Unknown Terrain**|Tianrui Guan et.al.|[2209.07725v1](http://arxiv.org/abs/2209.07725v1)|null|
 |**2022-09-15**|**Coeffects for Sharing and Mutation**|Riccardo Bianchini et.al.|[2209.07439v1](http://arxiv.org/abs/2209.07439v1)|null|
 |**2022-09-15**|**Examining Large Pre-Trained Language Models for Machine Translation: What You Don't Know About It**|Lifeng Han et.al.|[2209.07417v1](http://arxiv.org/abs/2209.07417v1)|null|
 |**2022-09-15**|**ESAVE: Estimating Server and Virtual Machine Energy**|Priyavanshi Pathania et.al.|[2209.07394v1](http://arxiv.org/abs/2209.07394v1)|null|
