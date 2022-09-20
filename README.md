@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-19**|**A Zero-Shot Adaptive Quadcopter Controller**|Dingqi Zhang et.al.|[2209.09232v1](http://arxiv.org/abs/2209.09232v1)|null|
+|**2022-09-19**|**HyperDog: An Open-Source Quadruped Robot Platform Based on ROS2 and micro-ROS**|Nipun Dhananjaya Weerakkodi Mudalige et.al.|[2209.09171v1](http://arxiv.org/abs/2209.09171v1)|null|
+|**2022-09-19**|**Molecular motors enhance microtubule lattice plasticity**|William Lecompte et.al.|[2209.09161v1](http://arxiv.org/abs/2209.09161v1)|null|
 |**2022-09-16**|**Learning Policies for Continuous Control via Transition Models**|Justus Huebotter et.al.|[2209.08033v1](http://arxiv.org/abs/2209.08033v1)|null|
 |**2022-09-15**|**Robust Locomotion on Legged Robots through Planning on Motion Primitive Graphs**|Wyatt Ubellacker et.al.|[2209.07503v1](http://arxiv.org/abs/2209.07503v1)|null|
 |**2022-09-19**|**Compositional generalization through abstract representations in human and artificial neural networks**|Takuya Ito et.al.|[2209.07431v2](http://arxiv.org/abs/2209.07431v2)|null|
@@ -61,6 +64,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-19**|**Data-Driven Stochastic Optimal Control Using Kernel Gradients**|Adam J. Thorpe et.al.|[2209.09205v1](http://arxiv.org/abs/2209.09205v1)|null|
+|**2022-09-19**|**Modified PSO based PID Sliding Mode Control using Improved Reaching Law for Nonlinear systems**|Kirtiman Singh et.al.|[2209.09170v1](http://arxiv.org/abs/2209.09170v1)|null|
+|**2022-09-19**|**Poisoning Attacks Against Data-Driven Predictive Control**|Yue Yu et.al.|[2209.09108v1](http://arxiv.org/abs/2209.09108v1)|null|
+|**2022-09-19**|**A Hybrid Labeled Multi-Bernoulli Filter With Amplitude For Tracking Fluctuating Targets**|Weizhen Ma et.al.|[2209.09095v1](http://arxiv.org/abs/2209.09095v1)|null|
+|**2022-09-19**|**A fast front-tracking approach and its analysis for a temporal multiscale flow problem with a fractional-order boundary growth**|Zhaoyang Wang et.al.|[2209.09038v1](http://arxiv.org/abs/2209.09038v1)|null|
+|**2022-09-19**|**RAMP-Net: A Robust Adaptive MPC for Quadrotors via Physics-informed Neural Network**|Sourav Sanyal et.al.|[2209.09025v1](http://arxiv.org/abs/2209.09025v1)|null|
+|**2022-09-19**|**The Royalflush System for VoxCeleb Speaker Recognition Challenge 2022**|Jingguang Tian et.al.|[2209.09010v1](http://arxiv.org/abs/2209.09010v1)|null|
+|**2022-09-19**|**Beamline Simulation for the NNBAR Experiment at the European Spallation Source**|Matthias Holl et.al.|[2209.08997v1](http://arxiv.org/abs/2209.08997v1)|null|
+|**2022-09-19**|**Adopting Automated Bug Assignment in Practice: A Longitudinal Case Study at Ericsson**|Markus Borg et.al.|[2209.08955v1](http://arxiv.org/abs/2209.08955v1)|null|
+|**2022-09-19**|**HVC-Net: Unifying Homography, Visibility, and Confidence Learning for Planar Object Tracking**|Haoxian Zhang et.al.|[2209.08924v1](http://arxiv.org/abs/2209.08924v1)|null|
 |**2022-09-16**|**TIMIT-TTS: a Text-to-Speech Dataset for Multimodal Synthetic Media Detection**|Davide Salvi et.al.|[2209.08000v1](http://arxiv.org/abs/2209.08000v1)|null|
 |**2022-09-19**|**Imitrob: Imitation Learning Dataset for Training and Evaluating 6D Object Pose Estimators**|Jiri Sedlar et.al.|[2209.07976v2](http://arxiv.org/abs/2209.07976v2)|**[link](https://github.com/imitrob/imitrob_dataset_code)**|
 |**2022-09-16**|**A Deep Moving-camera Background Model**|Guy Erez et.al.|[2209.07923v1](http://arxiv.org/abs/2209.07923v1)|**[link](https://github.com/bgu-cs-vil/deepmcbm)**|
