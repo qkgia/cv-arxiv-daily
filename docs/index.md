@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.19
+## Updated on 2022.09.20
 
 ## SLAM
 
@@ -579,7 +579,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-16**|**Learning Policies for Continuous Control via Transition Models**|Justus Huebotter et.al.|[2209.08033v1](http://arxiv.org/abs/2209.08033v1)|null|
 |**2022-09-15**|**Robust Locomotion on Legged Robots through Planning on Motion Primitive Graphs**|Wyatt Ubellacker et.al.|[2209.07503v1](http://arxiv.org/abs/2209.07503v1)|null|
-|**2022-09-15**|**Compositional generalization through abstract representations in human and artificial neural networks**|Takuya Ito et.al.|[2209.07431v1](http://arxiv.org/abs/2209.07431v1)|null|
+|**2022-09-19**|**Compositional generalization through abstract representations in human and artificial neural networks**|Takuya Ito et.al.|[2209.07431v2](http://arxiv.org/abs/2209.07431v2)|null|
 |**2022-09-14**|**The pernicious danger of cortical brain maps**|Benjamin Yost Hayden et.al.|[2209.06740v1](http://arxiv.org/abs/2209.06740v1)|null|
 |**2022-09-14**|**Structure and dynamics of motor-driven microtubule bundles**|Bezia Lemma et.al.|[2209.06637v1](http://arxiv.org/abs/2209.06637v1)|null|
 |**2022-09-14**|**Optimal Commutation for Switched Reluctance Motors using Gaussian Process Regression**|Max van Meer et.al.|[2209.06550v1](http://arxiv.org/abs/2209.06550v1)|null|
@@ -635,7 +635,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-16**|**TIMIT-TTS: a Text-to-Speech Dataset for Multimodal Synthetic Media Detection**|Davide Salvi et.al.|[2209.08000v1](http://arxiv.org/abs/2209.08000v1)|null|
-|**2022-09-16**|**Imitrob: Imitation Learning Dataset for Training and Evaluating 6D Object Pose Estimators**|Jiri Sedlar et.al.|[2209.07976v1](http://arxiv.org/abs/2209.07976v1)|**[link](https://github.com/imitrob/imitrob_dataset_code)**|
+|**2022-09-19**|**Imitrob: Imitation Learning Dataset for Training and Evaluating 6D Object Pose Estimators**|Jiri Sedlar et.al.|[2209.07976v2](http://arxiv.org/abs/2209.07976v2)|**[link](https://github.com/imitrob/imitrob_dataset_code)**|
 |**2022-09-16**|**A Deep Moving-camera Background Model**|Guy Erez et.al.|[2209.07923v1](http://arxiv.org/abs/2209.07923v1)|**[link](https://github.com/bgu-cs-vil/deepmcbm)**|
 |**2022-09-16**|**iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**|Yuhang Ming et.al.|[2209.07919v1](http://arxiv.org/abs/2209.07919v1)|null|
 |**2022-09-16**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez et.al.|[2209.07888v1](http://arxiv.org/abs/2209.07888v1)|null|
