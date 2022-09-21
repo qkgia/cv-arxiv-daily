@@ -464,8 +464,9 @@
 
 ## MOT
 
+- 2022-09-20, **Deep Model Predictive Variable Impedance Control**, Akhil S Anand et.al., Paper: [http://arxiv.org/abs/2209.09614v1](http://arxiv.org/abs/2209.09614v1)
 - 2022-09-19, **A Zero-Shot Adaptive Quadcopter Controller**, Dingqi Zhang et.al., Paper: [http://arxiv.org/abs/2209.09232v1](http://arxiv.org/abs/2209.09232v1)
-- 2022-09-19, **HyperDog: An Open-Source Quadruped Robot Platform Based on ROS2 and micro-ROS**, Nipun Dhananjaya Weerakkodi Mudalige et.al., Paper: [http://arxiv.org/abs/2209.09171v1](http://arxiv.org/abs/2209.09171v1)
+- 2022-09-19, **HyperDog: An Open-Source Quadruped Robot Platform Based on ROS2 and micro-ROS**, Nipun Dhananjaya Weerakkodi Mudalige et.al., Paper: [http://arxiv.org/abs/2209.09171v1](http://arxiv.org/abs/2209.09171v1), Code: **[https://github.com/ndhana94/hyperdog_ros2](https://github.com/ndhana94/hyperdog_ros2)**
 - 2022-09-19, **Molecular motors enhance microtubule lattice plasticity**, William Lecompte et.al., Paper: [http://arxiv.org/abs/2209.09161v1](http://arxiv.org/abs/2209.09161v1)
 - 2022-09-16, **Learning Policies for Continuous Control via Transition Models**, Justus Huebotter et.al., Paper: [http://arxiv.org/abs/2209.08033v1](http://arxiv.org/abs/2209.08033v1)
 - 2022-09-15, **Robust Locomotion on Legged Robots through Planning on Motion Primitive Graphs**, Wyatt Ubellacker et.al., Paper: [http://arxiv.org/abs/2209.07503v1](http://arxiv.org/abs/2209.07503v1)
@@ -522,6 +523,16 @@
 
 ## Object Tracking
 
+- 2022-09-20, **Multi-robot Implicit Control of Massive Herds**, Eduardo Sebastian et.al., Paper: [http://arxiv.org/abs/2209.09705v1](http://arxiv.org/abs/2209.09705v1)
+- 2022-09-20, **An Efficient, High-order, Adaptive Finite Volume Solver for Modelling Capillary Effects in Advanced Manufacturing Processes**, Patrick Zimbrod et.al., Paper: [http://arxiv.org/abs/2209.09671v1](http://arxiv.org/abs/2209.09671v1), Code: **[https://github.com/pzimbrod/thermocapillaryInterFoam](https://github.com/pzimbrod/thermocapillaryInterFoam)**
+- 2022-09-20, **Semi-automatic Data Annotation System for Multi-Target Multi-Camera Vehicle Tracking**, Haohong Liao et.al., Paper: [http://arxiv.org/abs/2209.09606v1](http://arxiv.org/abs/2209.09606v1)
+- 2022-09-20, **CHEX-MATE: pressure profiles of 6 galaxy clusters as seen by SPT and Planck**, Filippo Oppizzi et.al., Paper: [http://arxiv.org/abs/2209.09601v1](http://arxiv.org/abs/2209.09601v1)
+- 2022-09-20, **FACT: Learning Governing Abstractions Behind Integer Sequences**, Peter Belcák et.al., Paper: [http://arxiv.org/abs/2209.09543v1](http://arxiv.org/abs/2209.09543v1)
+- 2022-09-20, **Guiding vector fields for the distributed motion coordination of mobile robots**, Weijia Yao et.al., Paper: [http://arxiv.org/abs/2209.09478v1](http://arxiv.org/abs/2209.09478v1)
+- 2022-09-20, **SleePyCo: Automatic Sleep Scoring with Feature Pyramid and Contrastive Learning**, Seongju Lee et.al., Paper: [http://arxiv.org/abs/2209.09452v1](http://arxiv.org/abs/2209.09452v1)
+- 2022-09-20, **Vega-MT: The JD Explore Academy Translation System for WMT22**, Changtong Zan et.al., Paper: [http://arxiv.org/abs/2209.09444v1](http://arxiv.org/abs/2209.09444v1)
+- 2022-09-20, **Study of the Global Alignment for the DAMPE Detector**, Yu-Xin Cui et.al., Paper: [http://arxiv.org/abs/2209.09440v1](http://arxiv.org/abs/2209.09440v1)
+- 2022-09-20, **QuestSim: Human Motion Tracking from Sparse Sensors with Simulated Avatars**, Alexander Winkler et.al., Paper: [http://arxiv.org/abs/2209.09391v1](http://arxiv.org/abs/2209.09391v1)
 - 2022-09-19, **Data-Driven Stochastic Optimal Control Using Kernel Gradients**, Adam J. Thorpe et.al., Paper: [http://arxiv.org/abs/2209.09205v1](http://arxiv.org/abs/2209.09205v1)
 - 2022-09-19, **Modified PSO based PID Sliding Mode Control using Improved Reaching Law for Nonlinear systems**, Kirtiman Singh et.al., Paper: [http://arxiv.org/abs/2209.09170v1](http://arxiv.org/abs/2209.09170v1)
 - 2022-09-19, **Poisoning Attacks Against Data-Driven Predictive Control**, Yue Yu et.al., Paper: [http://arxiv.org/abs/2209.09108v1](http://arxiv.org/abs/2209.09108v1)
@@ -792,7 +803,7 @@
 - 2022-07-13, **MultiStream: A Simple and Fast Multiple Cameras Visual Monitor and Directly Streaming**, Jinwei Lin et.al., Paper: [http://arxiv.org/abs/2207.06078v1](http://arxiv.org/abs/2207.06078v1), Code: **[https://github.com/jylinok/freedrawingdetecting](https://github.com/jylinok/freedrawingdetecting)**
 - 2022-07-08, **A Study on the Effectiveness of Using Telepresence and Multiple Cameras in Remote Physical Therapy**, Hanseul Jun et.al., Paper: [http://arxiv.org/abs/2207.04095v1](http://arxiv.org/abs/2207.04095v1)
 - 2022-06-30, **LiDAR-as-Camera for End-to-End Driving**, Ardi Tampuu et.al., Paper: [http://arxiv.org/abs/2206.15170v1](http://arxiv.org/abs/2206.15170v1)
-- 2022-06-27, **LaRa: Latents and Rays for Multi-Camera Bird's-Eye-View Semantic Segmentation**, Florent Bartoccioni et.al., Paper: [http://arxiv.org/abs/2206.13294v1](http://arxiv.org/abs/2206.13294v1)
+- 2022-06-27, **LaRa: Latents and Rays for Multi-Camera Bird's-Eye-View Semantic Segmentation**, Florent Bartoccioni et.al., Paper: [http://arxiv.org/abs/2206.13294v1](http://arxiv.org/abs/2206.13294v1), Code: **[https://github.com/valeoai/LaRa](https://github.com/valeoai/LaRa)**
 - 2022-06-15, **Waymo Open Dataset: Panoramic Video Panoptic Segmentation**, Jieru Mei et.al., Paper: [http://arxiv.org/abs/2206.07704v1](http://arxiv.org/abs/2206.07704v1)
 - 2022-08-17, **Learning Ego 3D Representation as Ray Tracing**, Jiachen Lu et.al., Paper: [http://arxiv.org/abs/2206.04042v3](http://arxiv.org/abs/2206.04042v3), Code: **[https://github.com/fudan-zvg/ego3rt](https://github.com/fudan-zvg/ego3rt)**
 - 2022-06-01, **Towards view-invariant vehicle speed detection from driving simulator images**, Antonio Hernández Martínez et.al., Paper: [http://arxiv.org/abs/2206.00343v1](http://arxiv.org/abs/2206.00343v1)
