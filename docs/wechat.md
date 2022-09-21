@@ -1,4 +1,4 @@
-> Updated on 2022.09.20
+> Updated on 2022.09.21
 
 ## SLAM
 
@@ -528,7 +528,7 @@
 - 2022-09-19, **A Hybrid Labeled Multi-Bernoulli Filter With Amplitude For Tracking Fluctuating Targets**, Weizhen Ma et.al., Paper: [http://arxiv.org/abs/2209.09095v1](http://arxiv.org/abs/2209.09095v1)
 - 2022-09-19, **A fast front-tracking approach and its analysis for a temporal multiscale flow problem with a fractional-order boundary growth**, Zhaoyang Wang et.al., Paper: [http://arxiv.org/abs/2209.09038v1](http://arxiv.org/abs/2209.09038v1)
 - 2022-09-19, **RAMP-Net: A Robust Adaptive MPC for Quadrotors via Physics-informed Neural Network**, Sourav Sanyal et.al., Paper: [http://arxiv.org/abs/2209.09025v1](http://arxiv.org/abs/2209.09025v1)
-- 2022-09-19, **The Royalflush System for VoxCeleb Speaker Recognition Challenge 2022**, Jingguang Tian et.al., Paper: [http://arxiv.org/abs/2209.09010v1](http://arxiv.org/abs/2209.09010v1)
+- 2022-09-20, **The Royalflush System for VoxCeleb Speaker Recognition Challenge 2022**, Jingguang Tian et.al., Paper: [http://arxiv.org/abs/2209.09010v2](http://arxiv.org/abs/2209.09010v2)
 - 2022-09-19, **Beamline Simulation for the NNBAR Experiment at the European Spallation Source**, Matthias Holl et.al., Paper: [http://arxiv.org/abs/2209.08997v1](http://arxiv.org/abs/2209.08997v1)
 - 2022-09-19, **Adopting Automated Bug Assignment in Practice: A Longitudinal Case Study at Ericsson**, Markus Borg et.al., Paper: [http://arxiv.org/abs/2209.08955v1](http://arxiv.org/abs/2209.08955v1)
 - 2022-09-19, **HVC-Net: Unifying Homography, Visibility, and Confidence Learning for Planar Object Tracking**, Haoxian Zhang et.al., Paper: [http://arxiv.org/abs/2209.08924v1](http://arxiv.org/abs/2209.08924v1)
