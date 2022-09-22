@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-21**|**Intelligent wayfinding vehicle design based on visual recognition**|Zhanyu Guo et.al.|[2209.10229v1](http://arxiv.org/abs/2209.10229v1)|null|
+|**2022-09-20**|**Robust Dynamic State Estimation of Multi-Machine Power Networks with Solar Farms and Dynamics Loads**|Muhammad Nadeem et.al.|[2209.10032v1](http://arxiv.org/abs/2209.10032v1)|null|
 |**2022-09-20**|**Deep Model Predictive Variable Impedance Control**|Akhil S Anand et.al.|[2209.09614v1](http://arxiv.org/abs/2209.09614v1)|null|
 |**2022-09-19**|**A Zero-Shot Adaptive Quadcopter Controller**|Dingqi Zhang et.al.|[2209.09232v1](http://arxiv.org/abs/2209.09232v1)|null|
 |**2022-09-19**|**HyperDog: An Open-Source Quadruped Robot Platform Based on ROS2 and micro-ROS**|Nipun Dhananjaya Weerakkodi Mudalige et.al.|[2209.09171v1](http://arxiv.org/abs/2209.09171v1)|**[link](https://github.com/ndhana94/hyperdog_ros2)**|
@@ -65,6 +67,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-21**|**Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms**|Hui En Pang et.al.|[2209.10529v1](http://arxiv.org/abs/2209.10529v1)|**[link](https://github.com/smplbody/hmr-benchmarks)**|
+|**2022-09-21**|**DandelionTouch: High Fidelity Haptic Rendering of Soft Objects in VR by a Swarm of Drones**|Aleksey Fedoseev et.al.|[2209.10503v1](http://arxiv.org/abs/2209.10503v1)|null|
+|**2022-09-21**|**Unifying Classification Schemes for Software Engineering Meta-Research**|Angelika Kaplan et.al.|[2209.10491v1](http://arxiv.org/abs/2209.10491v1)|null|
+|**2022-09-21**|**Sample, Crop, Track: Self-Supervised Mobile 3D Object Detection for Urban Driving LiDAR**|Sangyun Shin et.al.|[2209.10471v1](http://arxiv.org/abs/2209.10471v1)|null|
+|**2022-09-21**|**Interactive Abstract Interpretation: Reanalyzing Whole Programs for Cheap**|Julian Erhard et.al.|[2209.10445v1](http://arxiv.org/abs/2209.10445v1)|null|
+|**2022-09-21**|**Asymptotically Safe Hilbert-Palatini Gravity in an On-Shell Reduction Scheme**|Holger Gies et.al.|[2209.10435v1](http://arxiv.org/abs/2209.10435v1)|null|
+|**2022-09-21**|**A Technical Note on (Labeled) RFS-AA Fusion: Derivation from PHD Consistency**|Tiancheng Li et.al.|[2209.10433v1](http://arxiv.org/abs/2209.10433v1)|null|
+|**2022-09-21**|**Long-Lived Accurate Keypoints in Event Streams**|Philippe Chiberre et.al.|[2209.10385v1](http://arxiv.org/abs/2209.10385v1)|null|
+|**2022-09-21**|**GIST-AiTeR System for the Diarization Task of the 2022 VoxCeleb Speaker Recognition Challenge**|Dongkeon Park et.al.|[2209.10357v1](http://arxiv.org/abs/2209.10357v1)|null|
+|**2022-09-21**|**Partially Observable Markov Decision Processes in Robotics: A Survey**|Mikko Lauri et.al.|[2209.10342v1](http://arxiv.org/abs/2209.10342v1)|null|
 |**2022-09-20**|**Multi-robot Implicit Control of Massive Herds**|Eduardo Sebastian et.al.|[2209.09705v1](http://arxiv.org/abs/2209.09705v1)|null|
 |**2022-09-20**|**An Efficient, High-order, Adaptive Finite Volume Solver for Modelling Capillary Effects in Advanced Manufacturing Processes**|Patrick Zimbrod et.al.|[2209.09671v1](http://arxiv.org/abs/2209.09671v1)|**[link](https://github.com/pzimbrod/ieee-iceccme-2022)**|
 |**2022-09-20**|**Semi-automatic Data Annotation System for Multi-Target Multi-Camera Vehicle Tracking**|Haohong Liao et.al.|[2209.09606v1](http://arxiv.org/abs/2209.09606v1)|null|
