@@ -1,4 +1,4 @@
-> Updated on 2022.09.21
+> Updated on 2022.09.22
 
 ## SLAM
 
@@ -470,7 +470,7 @@
 - 2022-09-19, **Molecular motors enhance microtubule lattice plasticity**, William Lecompte et.al., Paper: [http://arxiv.org/abs/2209.09161v1](http://arxiv.org/abs/2209.09161v1)
 - 2022-09-16, **Learning Policies for Continuous Control via Transition Models**, Justus Huebotter et.al., Paper: [http://arxiv.org/abs/2209.08033v1](http://arxiv.org/abs/2209.08033v1)
 - 2022-09-15, **Robust Locomotion on Legged Robots through Planning on Motion Primitive Graphs**, Wyatt Ubellacker et.al., Paper: [http://arxiv.org/abs/2209.07503v1](http://arxiv.org/abs/2209.07503v1)
-- 2022-09-19, **Compositional generalization through abstract representations in human and artificial neural networks**, Takuya Ito et.al., Paper: [http://arxiv.org/abs/2209.07431v2](http://arxiv.org/abs/2209.07431v2)
+- 2022-09-21, **Compositional generalization through abstract representations in human and artificial neural networks**, Takuya Ito et.al., Paper: [http://arxiv.org/abs/2209.07431v3](http://arxiv.org/abs/2209.07431v3)
 - 2022-09-14, **The pernicious danger of cortical brain maps**, Benjamin Yost Hayden et.al., Paper: [http://arxiv.org/abs/2209.06740v1](http://arxiv.org/abs/2209.06740v1)
 - 2022-09-14, **Structure and dynamics of motor-driven microtubule bundles**, Bezia Lemma et.al., Paper: [http://arxiv.org/abs/2209.06637v1](http://arxiv.org/abs/2209.06637v1)
 - 2022-09-14, **Optimal Commutation for Switched Reluctance Motors using Gaussian Process Regression**, Max van Meer et.al., Paper: [http://arxiv.org/abs/2209.06550v1](http://arxiv.org/abs/2209.06550v1)
@@ -524,13 +524,13 @@
 ## Object Tracking
 
 - 2022-09-20, **Multi-robot Implicit Control of Massive Herds**, Eduardo Sebastian et.al., Paper: [http://arxiv.org/abs/2209.09705v1](http://arxiv.org/abs/2209.09705v1)
-- 2022-09-20, **An Efficient, High-order, Adaptive Finite Volume Solver for Modelling Capillary Effects in Advanced Manufacturing Processes**, Patrick Zimbrod et.al., Paper: [http://arxiv.org/abs/2209.09671v1](http://arxiv.org/abs/2209.09671v1), Code: **[https://github.com/pzimbrod/thermocapillaryInterFoam](https://github.com/pzimbrod/thermocapillaryInterFoam)**
+- 2022-09-20, **An Efficient, High-order, Adaptive Finite Volume Solver for Modelling Capillary Effects in Advanced Manufacturing Processes**, Patrick Zimbrod et.al., Paper: [http://arxiv.org/abs/2209.09671v1](http://arxiv.org/abs/2209.09671v1), Code: **[https://github.com/pzimbrod/ieee-iceccme-2022](https://github.com/pzimbrod/ieee-iceccme-2022)**
 - 2022-09-20, **Semi-automatic Data Annotation System for Multi-Target Multi-Camera Vehicle Tracking**, Haohong Liao et.al., Paper: [http://arxiv.org/abs/2209.09606v1](http://arxiv.org/abs/2209.09606v1)
 - 2022-09-20, **CHEX-MATE: pressure profiles of 6 galaxy clusters as seen by SPT and Planck**, Filippo Oppizzi et.al., Paper: [http://arxiv.org/abs/2209.09601v1](http://arxiv.org/abs/2209.09601v1)
 - 2022-09-20, **FACT: Learning Governing Abstractions Behind Integer Sequences**, Peter Belcák et.al., Paper: [http://arxiv.org/abs/2209.09543v1](http://arxiv.org/abs/2209.09543v1)
 - 2022-09-20, **Guiding vector fields for the distributed motion coordination of mobile robots**, Weijia Yao et.al., Paper: [http://arxiv.org/abs/2209.09478v1](http://arxiv.org/abs/2209.09478v1)
 - 2022-09-20, **SleePyCo: Automatic Sleep Scoring with Feature Pyramid and Contrastive Learning**, Seongju Lee et.al., Paper: [http://arxiv.org/abs/2209.09452v1](http://arxiv.org/abs/2209.09452v1)
-- 2022-09-20, **Vega-MT: The JD Explore Academy Translation System for WMT22**, Changtong Zan et.al., Paper: [http://arxiv.org/abs/2209.09444v1](http://arxiv.org/abs/2209.09444v1)
+- 2022-09-21, **Vega-MT: The JD Explore Academy Translation System for WMT22**, Changtong Zan et.al., Paper: [http://arxiv.org/abs/2209.09444v2](http://arxiv.org/abs/2209.09444v2)
 - 2022-09-20, **Study of the Global Alignment for the DAMPE Detector**, Yu-Xin Cui et.al., Paper: [http://arxiv.org/abs/2209.09440v1](http://arxiv.org/abs/2209.09440v1)
 - 2022-09-20, **QuestSim: Human Motion Tracking from Sparse Sensors with Simulated Avatars**, Alexander Winkler et.al., Paper: [http://arxiv.org/abs/2209.09391v1](http://arxiv.org/abs/2209.09391v1)
 - 2022-09-19, **Data-Driven Stochastic Optimal Control Using Kernel Gradients**, Adam J. Thorpe et.al., Paper: [http://arxiv.org/abs/2209.09205v1](http://arxiv.org/abs/2209.09205v1)
