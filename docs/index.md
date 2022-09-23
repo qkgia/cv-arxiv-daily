@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.22
+## Updated on 2022.09.23
 
 ## SLAM
 
@@ -641,7 +641,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-21**|**Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms**|Hui En Pang et.al.|[2209.10529v1](http://arxiv.org/abs/2209.10529v1)|**[link](https://github.com/smplbody/hmr-benchmarks)**|
-|**2022-09-21**|**DandelionTouch: High Fidelity Haptic Rendering of Soft Objects in VR by a Swarm of Drones**|Aleksey Fedoseev et.al.|[2209.10503v1](http://arxiv.org/abs/2209.10503v1)|null|
+|**2022-09-22**|**DandelionTouch: High Fidelity Haptic Rendering of Soft Objects in VR by a Swarm of Drones**|Aleksey Fedoseev et.al.|[2209.10503v2](http://arxiv.org/abs/2209.10503v2)|null|
 |**2022-09-21**|**Unifying Classification Schemes for Software Engineering Meta-Research**|Angelika Kaplan et.al.|[2209.10491v1](http://arxiv.org/abs/2209.10491v1)|null|
 |**2022-09-21**|**Sample, Crop, Track: Self-Supervised Mobile 3D Object Detection for Urban Driving LiDAR**|Sangyun Shin et.al.|[2209.10471v1](http://arxiv.org/abs/2209.10471v1)|null|
 |**2022-09-21**|**Interactive Abstract Interpretation: Reanalyzing Whole Programs for Cheap**|Julian Erhard et.al.|[2209.10445v1](http://arxiv.org/abs/2209.10445v1)|null|
