@@ -577,6 +577,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-22**|**Inverted Landing in a Small Aerial Robot via Deep Reinforcement Learning for Triggering and Control of Rotational Maneuvers**|Bryan Habas et.al.|[2209.11043v1](http://arxiv.org/abs/2209.11043v1)|null|
 |**2022-09-21**|**Intelligent wayfinding vehicle design based on visual recognition**|Zhanyu Guo et.al.|[2209.10229v1](http://arxiv.org/abs/2209.10229v1)|null|
 |**2022-09-20**|**Robust Dynamic State Estimation of Multi-Machine Power Networks with Solar Farms and Dynamics Loads**|Muhammad Nadeem et.al.|[2209.10032v1](http://arxiv.org/abs/2209.10032v1)|null|
 |**2022-09-20**|**Deep Model Predictive Variable Impedance Control**|Akhil S Anand et.al.|[2209.09614v1](http://arxiv.org/abs/2209.09614v1)|null|
@@ -640,6 +641,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-09-22**|**OLIVES Dataset: Ophthalmic Labels for Investigating Visual Eye Semantics**|Mohit Prabhushankar et.al.|[2209.11195v1](http://arxiv.org/abs/2209.11195v1)|null|
+|**2022-09-22**|**Active Keyword Selection to Track Evolving Topics on Twitter**|Sacha Lévy et.al.|[2209.11135v1](http://arxiv.org/abs/2209.11135v1)|null|
+|**2022-09-22**|**Decentralized Distributed Expert Assisted Learning (D2EAL) approach for cooperative target-tracking**|Shubhankar Gupta et.al.|[2209.11113v1](http://arxiv.org/abs/2209.11113v1)|null|
+|**2022-09-22**|**Learning Agile Flight Maneuvers: Deep SE(3) Motion Planning and Control for Quadrotors**|Yixiao Wang et.al.|[2209.11097v1](http://arxiv.org/abs/2209.11097v1)|null|
+|**2022-09-22**|**Convex Model Predictive Control for Down-regulation Strategies in Wind Turbines**|Jean Gonzalez Silva et.al.|[2209.11087v1](http://arxiv.org/abs/2209.11087v1)|null|
+|**2022-09-22**|**Investigating shock wave propagation, evolution, and anisotropy using a moving window concurrent atomistic-continuum framework**|Alexander S. Davis et.al.|[2209.10985v1](http://arxiv.org/abs/2209.10985v1)|null|
+|**2022-09-22**|**Process Modeling and Conformance Checking in Healthcare: A COVID-19 Case Study**|Elisabetta Benevento et.al.|[2209.10897v1](http://arxiv.org/abs/2209.10897v1)|null|
+|**2022-09-22**|**Volatile-rich comets ejected early on during Solar System formation**|S. E. Anderson et.al.|[2209.10862v1](http://arxiv.org/abs/2209.10862v1)|null|
+|**2022-09-22**|**The SpeakIn System Description for CNSRC2022**|Yu Zheng et.al.|[2209.10846v1](http://arxiv.org/abs/2209.10846v1)|null|
+|**2022-09-22**|**Physical Interaction: Reconstructing Hand-object Interactions with Physics**|Haoyu Hu et.al.|[2209.10833v1](http://arxiv.org/abs/2209.10833v1)|null|
 |**2022-09-21**|**Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms**|Hui En Pang et.al.|[2209.10529v1](http://arxiv.org/abs/2209.10529v1)|**[link](https://github.com/smplbody/hmr-benchmarks)**|
 |**2022-09-22**|**DandelionTouch: High Fidelity Haptic Rendering of Soft Objects in VR by a Swarm of Drones**|Aleksey Fedoseev et.al.|[2209.10503v2](http://arxiv.org/abs/2209.10503v2)|null|
 |**2022-09-21**|**Unifying Classification Schemes for Software Engineering Meta-Research**|Angelika Kaplan et.al.|[2209.10491v1](http://arxiv.org/abs/2209.10491v1)|null|
