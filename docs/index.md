@@ -650,7 +650,7 @@ layout: default
 |**2022-09-22**|**Process Modeling and Conformance Checking in Healthcare: A COVID-19 Case Study**|Elisabetta Benevento et.al.|[2209.10897v1](http://arxiv.org/abs/2209.10897v1)|null|
 |**2022-09-22**|**Volatile-rich comets ejected early on during Solar System formation**|S. E. Anderson et.al.|[2209.10862v1](http://arxiv.org/abs/2209.10862v1)|null|
 |**2022-09-22**|**The SpeakIn System Description for CNSRC2022**|Yu Zheng et.al.|[2209.10846v1](http://arxiv.org/abs/2209.10846v1)|null|
-|**2022-09-22**|**Physical Interaction: Reconstructing Hand-object Interactions with Physics**|Haoyu Hu et.al.|[2209.10833v1](http://arxiv.org/abs/2209.10833v1)|null|
+|**2022-09-22**|**Physical Interaction: Reconstructing Hand-object Interactions with Physics**|Haoyu Hu et.al.|[2209.10833v1](http://arxiv.org/abs/2209.10833v1)|**[link](https://github.com/hu-hy17/PhysInteraction)**|
 |**2022-09-21**|**Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms**|Hui En Pang et.al.|[2209.10529v1](http://arxiv.org/abs/2209.10529v1)|**[link](https://github.com/smplbody/hmr-benchmarks)**|
 |**2022-09-22**|**DandelionTouch: High Fidelity Haptic Rendering of Soft Objects in VR by a Swarm of Drones**|Aleksey Fedoseev et.al.|[2209.10503v2](http://arxiv.org/abs/2209.10503v2)|null|
 |**2022-09-21**|**Unifying Classification Schemes for Software Engineering Meta-Research**|Angelika Kaplan et.al.|[2209.10491v1](http://arxiv.org/abs/2209.10491v1)|null|
