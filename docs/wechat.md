@@ -526,6 +526,16 @@
 
 ## Object Tracking
 
+- 2022-09-23, **Linear Clustering Process on Networks**, Ivan Jokić et.al., Paper: [http://arxiv.org/abs/2209.11617v1](http://arxiv.org/abs/2209.11617v1)
+- 2022-09-23, **GRAVITY+ Wide: Towards hundreds of z $\sim$ 2 AGN**, A. Drescher et.al., Paper: [http://arxiv.org/abs/2209.11602v1](http://arxiv.org/abs/2209.11602v1)
+- 2022-09-23, **Quantum critical dynamics of electric dipoles in two-dimensions**, Chisa Hotta et.al., Paper: [http://arxiv.org/abs/2209.11599v1](http://arxiv.org/abs/2209.11599v1)
+- 2022-09-23, **Statistical shape representations for temporal registration of plant components in 3D**, Karoline Heiwolt et.al., Paper: [http://arxiv.org/abs/2209.11526v1](http://arxiv.org/abs/2209.11526v1)
+- 2022-09-23, **Feedforward Control in the Presence of Input Nonlinearities: A Learning-based Approach**, Jilles van Hulst et.al., Paper: [http://arxiv.org/abs/2209.11504v1](http://arxiv.org/abs/2209.11504v1)
+- 2022-09-23, **Reactive Anticipatory Robot Skills with Memory**, Hakan Girgin et.al., Paper: [http://arxiv.org/abs/2209.11500v1](http://arxiv.org/abs/2209.11500v1)
+- 2022-09-23, **AvatarGo: Plug and Play self-avatars for VR**, Jose Luis Ponton et.al., Paper: [http://arxiv.org/abs/2209.11482v1](http://arxiv.org/abs/2209.11482v1)
+- 2022-09-23, **Combining Motion Matching and Orientation Prediction to Animate Avatars for Consumer-Grade VR Devices**, Jose Luis Ponton et.al., Paper: [http://arxiv.org/abs/2209.11478v1](http://arxiv.org/abs/2209.11478v1)
+- 2022-09-23, **Modular Degradation Simulation and Restoration for Under-Display Camera**, Yang Zhou et.al., Paper: [http://arxiv.org/abs/2209.11455v1](http://arxiv.org/abs/2209.11455v1)
+- 2022-09-23, **The Kriston AI System for the VoxCeleb Speaker Recognition Challenge 2022**, Qutang Cai et.al., Paper: [http://arxiv.org/abs/2209.11433v1](http://arxiv.org/abs/2209.11433v1)
 - 2022-09-22, **OLIVES Dataset: Ophthalmic Labels for Investigating Visual Eye Semantics**, Mohit Prabhushankar et.al., Paper: [http://arxiv.org/abs/2209.11195v1](http://arxiv.org/abs/2209.11195v1)
 - 2022-09-22, **Active Keyword Selection to Track Evolving Topics on Twitter**, Sacha Lévy et.al., Paper: [http://arxiv.org/abs/2209.11135v1](http://arxiv.org/abs/2209.11135v1)
 - 2022-09-22, **Decentralized Distributed Expert Assisted Learning (D2EAL) approach for cooperative target-tracking**, Shubhankar Gupta et.al., Paper: [http://arxiv.org/abs/2209.11113v1](http://arxiv.org/abs/2209.11113v1)
