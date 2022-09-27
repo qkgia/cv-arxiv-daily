@@ -464,6 +464,8 @@
 
 ## MOT
 
+- 2022-09-26, **STEMPO -- dynamic X-ray tomography phantom**, Tommi Heikkilä et.al., Paper: [http://arxiv.org/abs/2209.12471v1](http://arxiv.org/abs/2209.12471v1)
+- 2022-09-26, **Mental arithmetic task classification with convolutional neural network based on spectral-temporal features from EEG**, Zaineb Ajra et.al., Paper: [http://arxiv.org/abs/2209.11767v1](http://arxiv.org/abs/2209.11767v1)
 - 2022-09-22, **Inverted Landing in a Small Aerial Robot via Deep Reinforcement Learning for Triggering and Control of Rotational Maneuvers**, Bryan Habas et.al., Paper: [http://arxiv.org/abs/2209.11043v1](http://arxiv.org/abs/2209.11043v1)
 - 2022-09-21, **Intelligent wayfinding vehicle design based on visual recognition**, Zhanyu Guo et.al., Paper: [http://arxiv.org/abs/2209.10229v1](http://arxiv.org/abs/2209.10229v1)
 - 2022-09-20, **Robust Dynamic State Estimation of Multi-Machine Power Networks with Solar Farms and Dynamics Loads**, Muhammad Nadeem et.al., Paper: [http://arxiv.org/abs/2209.10032v1](http://arxiv.org/abs/2209.10032v1)
@@ -526,6 +528,16 @@
 
 ## Object Tracking
 
+- 2022-09-26, **AirTrack: Onboard Deep Learning Framework for Long-Range Aircraft Detection and Tracking**, Sourish Ghosh et.al., Paper: [http://arxiv.org/abs/2209.12849v1](http://arxiv.org/abs/2209.12849v1)
+- 2022-09-26, **Advanced Skills by Learning Locomotion and Local Navigation End-to-End**, Nikita Rudin et.al., Paper: [http://arxiv.org/abs/2209.12827v1](http://arxiv.org/abs/2209.12827v1)
+- 2022-09-26, **Do ever larger octopi still amplify reporting biases? Evidence from judgments of typical colour**, Fangyu Liu et.al., Paper: [http://arxiv.org/abs/2209.12786v1](http://arxiv.org/abs/2209.12786v1)
+- 2022-09-26, **Partially dissipative systems in the critical regularity setting, and strong relaxation limit**, Raphaël Danchin et.al., Paper: [http://arxiv.org/abs/2209.12734v1](http://arxiv.org/abs/2209.12734v1)
+- 2022-09-26, **Unifying Model-Based and Neural Network Feedforward: Physics-Guided Neural Networks with Linear Autoregressive Dynamics**, Johan Kon et.al., Paper: [http://arxiv.org/abs/2209.12489v1](http://arxiv.org/abs/2209.12489v1)
+- 2022-09-26, **Magnetohydrodynamic simulation of coronal mass ejections using interplanetary scintillation data observed from radio sites ISEE and LOFAR**, Kazumasa Iwai et.al., Paper: [http://arxiv.org/abs/2209.12486v1](http://arxiv.org/abs/2209.12486v1)
+- 2022-09-26, **EOD: The IEEE GRSS Earth Observation Database**, Michael Schmitt et.al., Paper: [http://arxiv.org/abs/2209.12480v1](http://arxiv.org/abs/2209.12480v1)
+- 2022-09-26, **Online Submodular Coordination with Bounded Tracking Regret: Theory, Algorithm, and Applications to Multi-Robot Coordination**, Zirui Xu et.al., Paper: [http://arxiv.org/abs/2209.12429v1](http://arxiv.org/abs/2209.12429v1)
+- 2022-09-26, **InterCap: Joint Markerless 3D Tracking of Humans and Objects in Interaction**, Yinghao Huang et.al., Paper: [http://arxiv.org/abs/2209.12354v1](http://arxiv.org/abs/2209.12354v1)
+- 2022-09-25, **D$^{\bf{3}}$: Duplicate Detection Decontaminator for Multi-Athlete Tracking in Sports Videos**, Rui He et.al., Paper: [http://arxiv.org/abs/2209.12248v1](http://arxiv.org/abs/2209.12248v1), Code: **[https://github.com/heruihr/rallytrack](https://github.com/heruihr/rallytrack)**
 - 2022-09-23, **Linear Clustering Process on Networks**, Ivan Jokić et.al., Paper: [http://arxiv.org/abs/2209.11617v1](http://arxiv.org/abs/2209.11617v1)
 - 2022-09-23, **GRAVITY+ Wide: Towards hundreds of z $\sim$ 2 AGN**, A. Drescher et.al., Paper: [http://arxiv.org/abs/2209.11602v1](http://arxiv.org/abs/2209.11602v1)
 - 2022-09-23, **Quantum critical dynamics of electric dipoles in two-dimensions**, Chisa Hotta et.al., Paper: [http://arxiv.org/abs/2209.11599v1](http://arxiv.org/abs/2209.11599v1)
