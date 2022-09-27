@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.26
+## Updated on 2022.09.27
 
 ## SLAM
 
@@ -647,9 +647,9 @@ layout: default
 |**2022-09-23**|**Statistical shape representations for temporal registration of plant components in 3D**|Karoline Heiwolt et.al.|[2209.11526v1](http://arxiv.org/abs/2209.11526v1)|null|
 |**2022-09-23**|**Feedforward Control in the Presence of Input Nonlinearities: A Learning-based Approach**|Jilles van Hulst et.al.|[2209.11504v1](http://arxiv.org/abs/2209.11504v1)|null|
 |**2022-09-23**|**Reactive Anticipatory Robot Skills with Memory**|Hakan Girgin et.al.|[2209.11500v1](http://arxiv.org/abs/2209.11500v1)|null|
-|**2022-09-23**|**AvatarGo: Plug and Play self-avatars for VR**|Jose Luis Ponton et.al.|[2209.11482v1](http://arxiv.org/abs/2209.11482v1)|null|
-|**2022-09-23**|**Combining Motion Matching and Orientation Prediction to Animate Avatars for Consumer-Grade VR Devices**|Jose Luis Ponton et.al.|[2209.11478v1](http://arxiv.org/abs/2209.11478v1)|null|
-|**2022-09-23**|**Modular Degradation Simulation and Restoration for Under-Display Camera**|Yang Zhou et.al.|[2209.11455v1](http://arxiv.org/abs/2209.11455v1)|null|
+|**2022-09-23**|**AvatarGo: Plug and Play self-avatars for VR**|Jose Luis Ponton et.al.|[2209.11482v1](http://arxiv.org/abs/2209.11482v1)|**[link](https://github.com/upc-virvig/avatargo)**|
+|**2022-09-23**|**Combining Motion Matching and Orientation Prediction to Animate Avatars for Consumer-Grade VR Devices**|Jose Luis Ponton et.al.|[2209.11478v1](http://arxiv.org/abs/2209.11478v1)|**[link](https://github.com/upc-virvig/mmvr)**|
+|**2022-09-23**|**Modular Degradation Simulation and Restoration for Under-Display Camera**|Yang Zhou et.al.|[2209.11455v1](http://arxiv.org/abs/2209.11455v1)|**[link](https://github.com/summerparadise-0922/mpgnet)**|
 |**2022-09-23**|**The Kriston AI System for the VoxCeleb Speaker Recognition Challenge 2022**|Qutang Cai et.al.|[2209.11433v1](http://arxiv.org/abs/2209.11433v1)|null|
 |**2022-09-22**|**OLIVES Dataset: Ophthalmic Labels for Investigating Visual Eye Semantics**|Mohit Prabhushankar et.al.|[2209.11195v1](http://arxiv.org/abs/2209.11195v1)|null|
 |**2022-09-22**|**Active Keyword Selection to Track Evolving Topics on Twitter**|Sacha Lévy et.al.|[2209.11135v1](http://arxiv.org/abs/2209.11135v1)|null|
