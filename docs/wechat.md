@@ -464,6 +464,9 @@
 
 ## MOT
 
+- 2022-09-27, **Solving the thoracic inverse problem in the fruit fly**, Arion Pons et.al., Paper: [http://arxiv.org/abs/2209.13365v1](http://arxiv.org/abs/2209.13365v1)
+- 2022-09-27, **HAT: Head-Worn Assistive Teleoperation of Mobile Manipulators**, Akhil Padmanabha et.al., Paper: [http://arxiv.org/abs/2209.13097v1](http://arxiv.org/abs/2209.13097v1)
+- 2022-09-26, **A dynamical model for Brownian molecular motors driven by inelastic electron tunneling**, Federico D. Ribetto et.al., Paper: [http://arxiv.org/abs/2209.12922v1](http://arxiv.org/abs/2209.12922v1)
 - 2022-09-26, **STEMPO -- dynamic X-ray tomography phantom**, Tommi Heikkilä et.al., Paper: [http://arxiv.org/abs/2209.12471v1](http://arxiv.org/abs/2209.12471v1)
 - 2022-09-26, **Mental arithmetic task classification with convolutional neural network based on spectral-temporal features from EEG**, Zaineb Ajra et.al., Paper: [http://arxiv.org/abs/2209.11767v1](http://arxiv.org/abs/2209.11767v1)
 - 2022-09-22, **Inverted Landing in a Small Aerial Robot via Deep Reinforcement Learning for Triggering and Control of Rotational Maneuvers**, Bryan Habas et.al., Paper: [http://arxiv.org/abs/2209.11043v1](http://arxiv.org/abs/2209.11043v1)
@@ -528,6 +531,16 @@
 
 ## Object Tracking
 
+- 2022-09-27, **Fusion of Inverse Synthetic Aperture Radar and Camera Images for Automotive Target Tracking**, Shobha Sundar Ram et.al., Paper: [http://arxiv.org/abs/2209.13512v1](http://arxiv.org/abs/2209.13512v1)
+- 2022-09-27, **Visual Object Tracking in First Person Vision**, Matteo Dunnhofer et.al., Paper: [http://arxiv.org/abs/2209.13502v1](http://arxiv.org/abs/2209.13502v1)
+- 2022-09-27, **PCA-based Channel Estimation for MIMO Communications**, Jonathan Aguiar Soares et.al., Paper: [http://arxiv.org/abs/2209.13458v1](http://arxiv.org/abs/2209.13458v1)
+- 2022-09-27, **LitCovid in 2022: an information resource for the COVID-19 literature**, Qingyu Chen et.al., Paper: [http://arxiv.org/abs/2209.13428v1](http://arxiv.org/abs/2209.13428v1)
+- 2022-09-27, **Quantum and classical correlations in open quantum-spin lattices via truncated-cumulant trajectories**, Wouter Verstraelen et.al., Paper: [http://arxiv.org/abs/2209.13377v1](http://arxiv.org/abs/2209.13377v1)
+- 2022-09-27, **OBBStacking: An Ensemble Method for Remote Sensing Object Detection**, Haoning Lin et.al., Paper: [http://arxiv.org/abs/2209.13369v1](http://arxiv.org/abs/2209.13369v1), Code: **[https://github.com/haoning724/obbstacking](https://github.com/haoning724/obbstacking)**
+- 2022-09-27, **A non-inductive magnetic eye-tracker: from dipole tracking to gaze retrieval**, Valerio Biancalana et.al., Paper: [http://arxiv.org/abs/2209.13316v1](http://arxiv.org/abs/2209.13316v1)
+- 2022-09-27, **Timespot1: A 28nm CMOS Pixel Read-Out ASIC for 4D Tracking at High Rates**, Sandro Cadeddu et.al., Paper: [http://arxiv.org/abs/2209.13242v1](http://arxiv.org/abs/2209.13242v1)
+- 2022-09-27, **Enhancement of Hot Carrier Effects and Signatures of Confinement in Terms of Thermalization Power in Quantum Well Solar Cells**, Imam Makhfudz et.al., Paper: [http://arxiv.org/abs/2209.13218v1](http://arxiv.org/abs/2209.13218v1)
+- 2022-09-27, **Tracking the Vector Acceleration with a Hybrid Quantum Accelerometer Triad**, Simon Templier et.al., Paper: [http://arxiv.org/abs/2209.13209v1](http://arxiv.org/abs/2209.13209v1)
 - 2022-09-26, **AirTrack: Onboard Deep Learning Framework for Long-Range Aircraft Detection and Tracking**, Sourish Ghosh et.al., Paper: [http://arxiv.org/abs/2209.12849v1](http://arxiv.org/abs/2209.12849v1)
 - 2022-09-26, **Advanced Skills by Learning Locomotion and Local Navigation End-to-End**, Nikita Rudin et.al., Paper: [http://arxiv.org/abs/2209.12827v1](http://arxiv.org/abs/2209.12827v1)
 - 2022-09-26, **Do ever larger octopi still amplify reporting biases? Evidence from judgments of typical colour**, Fangyu Liu et.al., Paper: [http://arxiv.org/abs/2209.12786v1](http://arxiv.org/abs/2209.12786v1)
