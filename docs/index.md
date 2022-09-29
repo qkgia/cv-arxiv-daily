@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.09.28
+## Updated on 2022.09.29
 
 ## SLAM
 
@@ -653,7 +653,7 @@ layout: default
 |**2022-09-27**|**Quantum and classical correlations in open quantum-spin lattices via truncated-cumulant trajectories**|Wouter Verstraelen et.al.|[2209.13377v1](http://arxiv.org/abs/2209.13377v1)|null|
 |**2022-09-27**|**OBBStacking: An Ensemble Method for Remote Sensing Object Detection**|Haoning Lin et.al.|[2209.13369v1](http://arxiv.org/abs/2209.13369v1)|**[link](https://github.com/haoning724/obbstacking)**|
 |**2022-09-27**|**A non-inductive magnetic eye-tracker: from dipole tracking to gaze retrieval**|Valerio Biancalana et.al.|[2209.13316v1](http://arxiv.org/abs/2209.13316v1)|null|
-|**2022-09-27**|**Timespot1: A 28nm CMOS Pixel Read-Out ASIC for 4D Tracking at High Rates**|Sandro Cadeddu et.al.|[2209.13242v1](http://arxiv.org/abs/2209.13242v1)|null|
+|**2022-09-28**|**Timespot1: A 28nm CMOS Pixel Read-Out ASIC for 4D Tracking at High Rates**|Sandro Cadeddu et.al.|[2209.13242v2](http://arxiv.org/abs/2209.13242v2)|null|
 |**2022-09-27**|**Enhancement of Hot Carrier Effects and Signatures of Confinement in Terms of Thermalization Power in Quantum Well Solar Cells**|Imam Makhfudz et.al.|[2209.13218v1](http://arxiv.org/abs/2209.13218v1)|null|
 |**2022-09-27**|**Tracking the Vector Acceleration with a Hybrid Quantum Accelerometer Triad**|Simon Templier et.al.|[2209.13209v1](http://arxiv.org/abs/2209.13209v1)|null|
 |**2022-09-26**|**AirTrack: Onboard Deep Learning Framework for Long-Range Aircraft Detection and Tracking**|Sourish Ghosh et.al.|[2209.12849v1](http://arxiv.org/abs/2209.12849v1)|null|
