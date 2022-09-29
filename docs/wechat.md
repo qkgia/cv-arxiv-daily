@@ -464,6 +464,10 @@
 
 ## MOT
 
+- 2022-09-28, **DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body**, Alberto Silvio Chiappa et.al., Paper: [http://arxiv.org/abs/2209.14218v1](http://arxiv.org/abs/2209.14218v1)
+- 2022-09-28, **Zero-Shot Retargeting of Learned Quadruped Locomotion Policies Using Hybrid Kinodynamic Model Predictive Control**, He Li et.al., Paper: [http://arxiv.org/abs/2209.14123v1](http://arxiv.org/abs/2209.14123v1)
+- 2022-09-28, **Bimanual rope manipulation skill synthesis through context dependent correction policy learning from human demonstration**, T. Baturhan Akbulut et.al., Paper: [http://arxiv.org/abs/2209.13850v1](http://arxiv.org/abs/2209.13850v1)
+- 2022-09-27, **Intercepting A Flying Target While Avoiding Moving Obstacles: A Unified Control Framework With Deep Manifold Learning**, Apan Dastider et.al., Paper: [http://arxiv.org/abs/2209.13628v1](http://arxiv.org/abs/2209.13628v1)
 - 2022-09-27, **Solving the thoracic inverse problem in the fruit fly**, Arion Pons et.al., Paper: [http://arxiv.org/abs/2209.13365v1](http://arxiv.org/abs/2209.13365v1)
 - 2022-09-27, **HAT: Head-Worn Assistive Teleoperation of Mobile Manipulators**, Akhil Padmanabha et.al., Paper: [http://arxiv.org/abs/2209.13097v1](http://arxiv.org/abs/2209.13097v1)
 - 2022-09-26, **A dynamical model for Brownian molecular motors driven by inelastic electron tunneling**, Federico D. Ribetto et.al., Paper: [http://arxiv.org/abs/2209.12922v1](http://arxiv.org/abs/2209.12922v1)
@@ -531,6 +535,16 @@
 
 ## Object Tracking
 
+- 2022-09-28, **Proceedings of the AI-HRI Symposium at AAAI-FSS 2022**, Zhao Han et.al., Paper: [http://arxiv.org/abs/2209.14292v1](http://arxiv.org/abs/2209.14292v1)
+- 2022-09-28, **Discrete Mechanics and Optimal Control for Passive Walking with Foot Slippage**, Alexandre Anahory Simoes et.al., Paper: [http://arxiv.org/abs/2209.14255v1](http://arxiv.org/abs/2209.14255v1)
+- 2022-09-28, **Versatile Real-Time Motion Synthesis via Kino-Dynamic MPC with Hybrid-Systems DDP**, He Li et.al., Paper: [http://arxiv.org/abs/2209.14138v1](http://arxiv.org/abs/2209.14138v1)
+- 2022-09-28, **Tracking Accuracy Based Generation Rules of Collective Perception Messages**, Shule Li et.al., Paper: [http://arxiv.org/abs/2209.14122v1](http://arxiv.org/abs/2209.14122v1)
+- 2022-09-28, **A Possible Dark Matter Search Mission in Space**, Nickolas Solomey et.al., Paper: [http://arxiv.org/abs/2209.14109v1](http://arxiv.org/abs/2209.14109v1)
+- 2022-09-28, **Hierarchical Cyber-Attack Detection in Large-Scale Interconnected Systems**, Twan Keijzer et.al., Paper: [http://arxiv.org/abs/2209.13874v1](http://arxiv.org/abs/2209.13874v1)
+- 2022-09-28, **A Sharp Numerical Method for the Simulation of Stefan Problems with Convective Effects**, Elyce Bayat et.al., Paper: [http://arxiv.org/abs/2209.13863v1](http://arxiv.org/abs/2209.13863v1)
+- 2022-09-28, **Universal Policy Tracking: Scheduling for Wireless Networks with Delayed State Observation**, Bai Liu et.al., Paper: [http://arxiv.org/abs/2209.13812v1](http://arxiv.org/abs/2209.13812v1)
+- 2022-09-28, **METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets**, Peilin Zhou et.al., Paper: [http://arxiv.org/abs/2209.13773v1](http://arxiv.org/abs/2209.13773v1), Code: **[https://github.com/ylab-open/mets-cov](https://github.com/ylab-open/mets-cov)**
+- 2022-09-28, **Total charge changing cross sections measurements for $^{12}$C ion interactions with Al using CR-39 nuclear track detector**, Iftekhar Ahmed et.al., Paper: [http://arxiv.org/abs/2209.13593v1](http://arxiv.org/abs/2209.13593v1)
 - 2022-09-27, **Fusion of Inverse Synthetic Aperture Radar and Camera Images for Automotive Target Tracking**, Shobha Sundar Ram et.al., Paper: [http://arxiv.org/abs/2209.13512v1](http://arxiv.org/abs/2209.13512v1)
 - 2022-09-27, **Visual Object Tracking in First Person Vision**, Matteo Dunnhofer et.al., Paper: [http://arxiv.org/abs/2209.13502v1](http://arxiv.org/abs/2209.13502v1)
 - 2022-09-27, **PCA-based Channel Estimation for MIMO Communications**, Jonathan Aguiar Soares et.al., Paper: [http://arxiv.org/abs/2209.13458v1](http://arxiv.org/abs/2209.13458v1)
@@ -852,6 +866,7 @@
 
 ## Multi-camera
 
+- 2022-09-28, **Online Multi Camera-IMU Calibration**, Jacob Hartzer et.al., Paper: [http://arxiv.org/abs/2209.13821v1](http://arxiv.org/abs/2209.13821v1)
 - 2022-09-05, **MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**, Pavel Karpyshev et.al., Paper: [http://arxiv.org/abs/2209.01936v1](http://arxiv.org/abs/2209.01936v1)
 - 2022-08-30, **Synthehicle: Multi-Vehicle Multi-Camera Tracking in Virtual Cities**, Fabian Herzog et.al., Paper: [http://arxiv.org/abs/2208.14167v1](http://arxiv.org/abs/2208.14167v1), Code: **[https://github.com/fubel/synthehicle](https://github.com/fubel/synthehicle)**
 - 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
