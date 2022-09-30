@@ -464,6 +464,11 @@
 
 ## MOT
 
+- 2022-09-29, **Simulating structured fluids with tensorial viscoelasticity**, Carlos Floyd et.al., Paper: [http://arxiv.org/abs/2209.14889v1](http://arxiv.org/abs/2209.14889v1)
+- 2022-09-29, **Accelerating Laboratory Automation Through Robot Skill Learning For Sample Scraping**, Gabriella Pizzuto et.al., Paper: [http://arxiv.org/abs/2209.14875v1](http://arxiv.org/abs/2209.14875v1)
+- 2022-09-29, **Using models of baseline gameplay to design for physical rehabilitation**, Antoine Loriette et.al., Paper: [http://arxiv.org/abs/2209.14788v1](http://arxiv.org/abs/2209.14788v1)
+- 2022-09-28, **Constrained Dynamic Movement Primitives for Safe Learning of Motor Skills**, Seiji Shaw et.al., Paper: [http://arxiv.org/abs/2209.14461v1](http://arxiv.org/abs/2209.14461v1)
+- 2022-09-28, **Biological connectomes as a representation for the architecture of artificial neural networks**, Samuel Schmidgall et.al., Paper: [http://arxiv.org/abs/2209.14406v1](http://arxiv.org/abs/2209.14406v1)
 - 2022-09-28, **DMAP: a Distributed Morphological Attention Policy for Learning to Locomote with a Changing Body**, Alberto Silvio Chiappa et.al., Paper: [http://arxiv.org/abs/2209.14218v1](http://arxiv.org/abs/2209.14218v1)
 - 2022-09-28, **Zero-Shot Retargeting of Learned Quadruped Locomotion Policies Using Hybrid Kinodynamic Model Predictive Control**, He Li et.al., Paper: [http://arxiv.org/abs/2209.14123v1](http://arxiv.org/abs/2209.14123v1)
 - 2022-09-28, **Bimanual rope manipulation skill synthesis through context dependent correction policy learning from human demonstration**, T. Baturhan Akbulut et.al., Paper: [http://arxiv.org/abs/2209.13850v1](http://arxiv.org/abs/2209.13850v1)
@@ -535,6 +540,16 @@
 
 ## Object Tracking
 
+- 2022-09-29, **Localized Thermal Gradients On-Chip by Radiative Cooling of Silicon Nitride Nanomechanical Resonators**, Alexandre Bouchard et.al., Paper: [http://arxiv.org/abs/2209.15004v1](http://arxiv.org/abs/2209.15004v1)
+- 2022-09-29, **DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**, Mariia Gladkova et.al., Paper: [http://arxiv.org/abs/2209.14965v1](http://arxiv.org/abs/2209.14965v1)
+- 2022-09-29, **Thermodynamics of the inner heliosheath**, G. Livadiotis et.al., Paper: [http://arxiv.org/abs/2209.14897v1](http://arxiv.org/abs/2209.14897v1)
+- 2022-09-29, **Named Entity Recognition in Industrial Tables using Tabular Language Models**, Aneta Koleva et.al., Paper: [http://arxiv.org/abs/2209.14812v1](http://arxiv.org/abs/2209.14812v1)
+- 2022-09-29, **Estimation of Electrical Characteristics of Inhomogeneous Walls Using Generative Adversarial Networks**, Kainat Yasmeen et.al., Paper: [http://arxiv.org/abs/2209.14805v1](http://arxiv.org/abs/2209.14805v1)
+- 2022-09-29, **Model Zoos: A Dataset of Diverse Populations of Neural Network Models**, Konstantin Schürholt et.al., Paper: [http://arxiv.org/abs/2209.14764v1](http://arxiv.org/abs/2209.14764v1)
+- 2022-09-29, **Backflipping with Miniature Quadcopters by Gaussian Process Based Control and Planning**, Péter Antal et.al., Paper: [http://arxiv.org/abs/2209.14652v1](http://arxiv.org/abs/2209.14652v1)
+- 2022-09-29, **10 ps timing with highly irradiated 3D trench silicon pixel sensors**, A. Lampis et.al., Paper: [http://arxiv.org/abs/2209.14632v1](http://arxiv.org/abs/2209.14632v1)
+- 2022-09-29, **Axial Profiling of Interferometric Scattering Enables an Accurate Determination of Nanoparticle Size**, Kateřina Žambochová et.al., Paper: [http://arxiv.org/abs/2209.14508v1](http://arxiv.org/abs/2209.14508v1)
+- 2022-09-28, **View-Invariant Localization using Semantic Objects in Changing Environments**, Jacqueline Ankenbauer et.al., Paper: [http://arxiv.org/abs/2209.14426v1](http://arxiv.org/abs/2209.14426v1)
 - 2022-09-28, **Proceedings of the AI-HRI Symposium at AAAI-FSS 2022**, Zhao Han et.al., Paper: [http://arxiv.org/abs/2209.14292v1](http://arxiv.org/abs/2209.14292v1)
 - 2022-09-28, **Discrete Mechanics and Optimal Control for Passive Walking with Foot Slippage**, Alexandre Anahory Simoes et.al., Paper: [http://arxiv.org/abs/2209.14255v1](http://arxiv.org/abs/2209.14255v1)
 - 2022-09-28, **Versatile Real-Time Motion Synthesis via Kino-Dynamic MPC with Hybrid-Systems DDP**, He Li et.al., Paper: [http://arxiv.org/abs/2209.14138v1](http://arxiv.org/abs/2209.14138v1)
