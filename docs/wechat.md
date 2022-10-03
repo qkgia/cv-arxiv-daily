@@ -540,6 +540,16 @@
 
 ## Object Tracking
 
+- 2022-09-30, **Automated Characterization of Catalytically Active Inclusion Body Production in Biotechnological Screening Systems**, Karina Ruzaeva et.al., Paper: [http://arxiv.org/abs/2209.15584v1](http://arxiv.org/abs/2209.15584v1)
+- 2022-09-30, **Momentum Tracking: Momentum Acceleration for Decentralized Deep Learning on Heterogeneous Data**, Yuki Takezawa et.al., Paper: [http://arxiv.org/abs/2209.15505v1](http://arxiv.org/abs/2209.15505v1)
+- 2022-09-30, **Emulating On-Orbit Interactions Using Forward Dynamics Based Cartesian Motion**, Mohatashem Reyaz Makhdoomi et.al., Paper: [http://arxiv.org/abs/2209.15406v1](http://arxiv.org/abs/2209.15406v1)
+- 2022-09-30, **GENESIS: Co-location of Geodetic Techniques in Space**, Pacôme Delva et.al., Paper: [http://arxiv.org/abs/2209.15298v1](http://arxiv.org/abs/2209.15298v1)
+- 2022-09-30, **Transformers for Object Detection in Large Point Clouds**, Felicia Ruppel et.al., Paper: [http://arxiv.org/abs/2209.15258v1](http://arxiv.org/abs/2209.15258v1)
+- 2022-09-30, **Catalysis in Action via Elementary Thermal Operations**, Jeongrak Son et.al., Paper: [http://arxiv.org/abs/2209.15213v1](http://arxiv.org/abs/2209.15213v1)
+- 2022-09-30, **FoVR: Attention-based VR Streaming through Bandwidth-limited Wireless Networks**, Songzhou Yang et.al., Paper: [http://arxiv.org/abs/2209.15198v1](http://arxiv.org/abs/2209.15198v1)
+- 2022-09-30, **Continuous Gaze Tracking With Implicit Saliency-Aware Calibration on Mobile Devices**, Songzhou Yang et.al., Paper: [http://arxiv.org/abs/2209.15196v1](http://arxiv.org/abs/2209.15196v1)
+- 2022-09-30, **Music Source Separation with Band-split RNN**, Yi Luo et.al., Paper: [http://arxiv.org/abs/2209.15174v1](http://arxiv.org/abs/2209.15174v1)
+- 2022-09-29, **Ethylenediamine Addition Improves Performance and Suppresses Phase Instabilities in Mixed-Halide Perovskites**, Margherita Taddei et.al., Paper: [http://arxiv.org/abs/2209.15100v1](http://arxiv.org/abs/2209.15100v1)
 - 2022-09-29, **Localized Thermal Gradients On-Chip by Radiative Cooling of Silicon Nitride Nanomechanical Resonators**, Alexandre Bouchard et.al., Paper: [http://arxiv.org/abs/2209.15004v1](http://arxiv.org/abs/2209.15004v1)
 - 2022-09-29, **DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**, Mariia Gladkova et.al., Paper: [http://arxiv.org/abs/2209.14965v1](http://arxiv.org/abs/2209.14965v1)
 - 2022-09-29, **Thermodynamics of the inner heliosheath**, G. Livadiotis et.al., Paper: [http://arxiv.org/abs/2209.14897v1](http://arxiv.org/abs/2209.14897v1)
