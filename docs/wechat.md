@@ -464,6 +464,10 @@
 
 ## MOT
 
+- 2022-10-03, **Minimal entropy production in anisotropic temperature fields**, Olga Movilla Miangolarra et.al., Paper: [http://arxiv.org/abs/2210.01062v1](http://arxiv.org/abs/2210.01062v1)
+- 2022-09-30, **MotorBeat: Acoustic Communication for Home Appliances via Variable Pulse Width Modulation**, Weiguo Wang et.al., Paper: [http://arxiv.org/abs/2210.00903v1](http://arxiv.org/abs/2210.00903v1)
+- 2022-10-01, **A high performance globally exponentially stable sensorless observer for the IPMSM: Theoretical and experimental results**, Bowen Yi et.al., Paper: [http://arxiv.org/abs/2210.00190v1](http://arxiv.org/abs/2210.00190v1)
+- 2022-09-30, **Force/Torque Sensing for Soft Grippers using an External Camera**, Jeremy A. Collins et.al., Paper: [http://arxiv.org/abs/2210.00051v1](http://arxiv.org/abs/2210.00051v1)
 - 2022-09-29, **Simulating structured fluids with tensorial viscoelasticity**, Carlos Floyd et.al., Paper: [http://arxiv.org/abs/2209.14889v1](http://arxiv.org/abs/2209.14889v1)
 - 2022-09-29, **Accelerating Laboratory Automation Through Robot Skill Learning For Sample Scraping**, Gabriella Pizzuto et.al., Paper: [http://arxiv.org/abs/2209.14875v1](http://arxiv.org/abs/2209.14875v1)
 - 2022-09-29, **Using models of baseline gameplay to design for physical rehabilitation**, Antoine Loriette et.al., Paper: [http://arxiv.org/abs/2209.14788v1](http://arxiv.org/abs/2209.14788v1)
@@ -540,6 +544,16 @@
 
 ## Object Tracking
 
+- 2022-10-03, **Extrinsic calibration for highly accurate trajectories reconstruction**, Maxime Vaidis et.al., Paper: [http://arxiv.org/abs/2210.01048v1](http://arxiv.org/abs/2210.01048v1)
+- 2022-10-03, **Achromatic design of a photonic tricoupler and phase shifter for broadband nulling interferometry**, Teresa Klinner-Teo et.al., Paper: [http://arxiv.org/abs/2210.01040v1](http://arxiv.org/abs/2210.01040v1)
+- 2022-10-03, **Task Space Tracking of Soft Manipulators: Inner-Outer Loop Control Based on Cosserat-Rod Models**, Tongjia Zheng et.al., Paper: [http://arxiv.org/abs/2210.00976v1](http://arxiv.org/abs/2210.00976v1)
+- 2022-10-03, **Dealing with Unknown Variances in Best-Arm Identification**, Marc Jourdan et.al., Paper: [http://arxiv.org/abs/2210.00974v1](http://arxiv.org/abs/2210.00974v1)
+- 2022-10-03, **Hierarchical I3D for Sign Spotting**, Ryan Wong et.al., Paper: [http://arxiv.org/abs/2210.00951v1](http://arxiv.org/abs/2210.00951v1)
+- 2022-10-03, **Time-Varying Optimization with Optimal Parametric Function**, Mohsen Amidzadeh et.al., Paper: [http://arxiv.org/abs/2210.00931v1](http://arxiv.org/abs/2210.00931v1)
+- 2022-10-03, **Obstacle Avoidance for Robotic Manipulator in Joint Space via Improved Proximal Policy Optimization**, Yongliang Wang et.al., Paper: [http://arxiv.org/abs/2210.00803v1](http://arxiv.org/abs/2210.00803v1)
+- 2022-10-03, **Inference in gated first-passage processes**, Aanjaneya Kumar et.al., Paper: [http://arxiv.org/abs/2210.00678v1](http://arxiv.org/abs/2210.00678v1)
+- 2022-10-02, **An Efficient Cyclic Entailment Procedure in a Fragment of Separation Logic**, Quang Loc Le et.al., Paper: [http://arxiv.org/abs/2210.00616v1](http://arxiv.org/abs/2210.00616v1)
+- 2022-10-02, **Deep learning for track recognition in pixel and strip-based particle detectors**, O. Bakina et.al., Paper: [http://arxiv.org/abs/2210.00599v1](http://arxiv.org/abs/2210.00599v1)
 - 2022-09-30, **Automated Characterization of Catalytically Active Inclusion Body Production in Biotechnological Screening Systems**, Karina Ruzaeva et.al., Paper: [http://arxiv.org/abs/2209.15584v1](http://arxiv.org/abs/2209.15584v1)
 - 2022-09-30, **Momentum Tracking: Momentum Acceleration for Decentralized Deep Learning on Heterogeneous Data**, Yuki Takezawa et.al., Paper: [http://arxiv.org/abs/2209.15505v1](http://arxiv.org/abs/2209.15505v1)
 - 2022-09-30, **Emulating On-Orbit Interactions Using Forward Dynamics Based Cartesian Motion**, Mohatashem Reyaz Makhdoomi et.al., Paper: [http://arxiv.org/abs/2209.15406v1](http://arxiv.org/abs/2209.15406v1)
