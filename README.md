@@ -1,4 +1,4 @@
-## Updated on 2022.10.03
+## Updated on 2022.10.04
 
 ## MOT
 
@@ -438,7 +438,7 @@
 |**2022-09-28**|**Online Multi Camera-IMU Calibration**|Jacob Hartzer et.al.|[2209.13821v1](http://arxiv.org/abs/2209.13821v1)|null|
 |**2022-09-05**|**MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**|Pavel Karpyshev et.al.|[2209.01936v1](http://arxiv.org/abs/2209.01936v1)|null|
 |**2022-08-30**|**Synthehicle: Multi-Vehicle Multi-Camera Tracking in Virtual Cities**|Fabian Herzog et.al.|[2208.14167v1](http://arxiv.org/abs/2208.14167v1)|**[link](https://github.com/fubel/synthehicle)**|
-|**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
+|**2022-10-03**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v2](http://arxiv.org/abs/2208.05963v2)|null|
 |**2022-08-10**|**Automatic Camera Control and Directing with an Ultra-High-Definition Collaborative Recording System**|Bram Vanherle et.al.|[2208.05213v1](http://arxiv.org/abs/2208.05213v1)|null|
 |**2022-07-29**|**Deep Learning-based Occluded Person Re-identification: A Survey**|Yunjie Peng et.al.|[2207.14452v1](http://arxiv.org/abs/2207.14452v1)|null|
 |**2022-07-13**|**Multiview Contrastive Learning for Completely Blind Video Quality Assessment of User Generated Content**|Shankhanil Mitra et.al.|[2207.06148v1](http://arxiv.org/abs/2207.06148v1)|**[link](https://github.com/shankhanil006/vision)**|
