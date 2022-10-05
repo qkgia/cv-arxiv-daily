@@ -464,6 +464,9 @@
 
 ## MOT
 
+- 2022-10-04, **O2S: Open-source open shuttle**, Nwankwo Linus et.al., Paper: [http://arxiv.org/abs/2210.01627v1](http://arxiv.org/abs/2210.01627v1)
+- 2022-10-04, **In the realm of hybrid Brain: Human Brain and AI**, Hoda Fares et.al., Paper: [http://arxiv.org/abs/2210.01461v1](http://arxiv.org/abs/2210.01461v1)
+- 2022-10-03, **Diagnosis of Parkinson's Disease Based on Voice Signals Using SHAP and Hard Voting Ensemble Method**, Paria Ghaheri et.al., Paper: [http://arxiv.org/abs/2210.01205v1](http://arxiv.org/abs/2210.01205v1), Code: **[https://github.com/pariaghaheri/classification_of_parkinson_disease](https://github.com/pariaghaheri/classification_of_parkinson_disease)**
 - 2022-10-03, **Minimal entropy production in anisotropic temperature fields**, Olga Movilla Miangolarra et.al., Paper: [http://arxiv.org/abs/2210.01062v1](http://arxiv.org/abs/2210.01062v1)
 - 2022-09-30, **MotorBeat: Acoustic Communication for Home Appliances via Variable Pulse Width Modulation**, Weiguo Wang et.al., Paper: [http://arxiv.org/abs/2210.00903v1](http://arxiv.org/abs/2210.00903v1)
 - 2022-10-01, **A high performance globally exponentially stable sensorless observer for the IPMSM: Theoretical and experimental results**, Bowen Yi et.al., Paper: [http://arxiv.org/abs/2210.00190v1](http://arxiv.org/abs/2210.00190v1)
@@ -544,6 +547,16 @@
 
 ## Object Tracking
 
+- 2022-10-04, **A Fuzzy Logic-based Cascade Control without Actuator Saturation for the Unmanned Underwater Vehicle Trajectory Tracking**, Danjie Zhu et.al., Paper: [http://arxiv.org/abs/2210.01706v1](http://arxiv.org/abs/2210.01706v1)
+- 2022-10-04, **The DKU-DukeECE Diarization System for the VoxCeleb Speaker Recognition Challenge 2022**, Weiqing Wang et.al., Paper: [http://arxiv.org/abs/2210.01677v1](http://arxiv.org/abs/2210.01677v1)
+- 2022-10-04, **Low-Cost SMS Driven Location Tracking Platform Towards Anti-Poaching Efforts**, Jack Burkett et.al., Paper: [http://arxiv.org/abs/2210.01614v1](http://arxiv.org/abs/2210.01614v1)
+- 2022-10-04, **Analysis of the performance of U-Net neural networks for the segmentation of living cells**, André O. Françani et.al., Paper: [http://arxiv.org/abs/2210.01538v1](http://arxiv.org/abs/2210.01538v1), Code: **[https://git.rwth-aachen.de/bcs/projects/tp/multiclass-yeast-seg](https://git.rwth-aachen.de/bcs/projects/tp/multiclass-yeast-seg)**
+- 2022-10-04, **Generalized Homogeneous Rigid-BodyAttitude Control**, Yu Zhou et.al., Paper: [http://arxiv.org/abs/2210.01530v1](http://arxiv.org/abs/2210.01530v1)
+- 2022-10-04, **SwarMan: Anthropomorphic Swarm of Drones Avatar with Body Tracking and Deep Learning-Based Gesture Recognition**, Ahmed Baza et.al., Paper: [http://arxiv.org/abs/2210.01487v1](http://arxiv.org/abs/2210.01487v1)
+- 2022-10-04, **Monitoring Public Behavior During a Pandemic Using Surveys: Proof-of-Concept Via Epidemic Modelling**, Andreas Koher et.al., Paper: [http://arxiv.org/abs/2210.01472v1](http://arxiv.org/abs/2210.01472v1)
+- 2022-10-04, **Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings**, Tenglong Ao et.al., Paper: [http://arxiv.org/abs/2210.01448v1](http://arxiv.org/abs/2210.01448v1), Code: **[https://github.com/aubrey-ao/humanbehavioranimation](https://github.com/aubrey-ao/humanbehavioranimation)**
+- 2022-10-04, **First charged tracks reconstructed with Timepix4 ASIC**, Kazu Akiba et.al., Paper: [http://arxiv.org/abs/2210.01442v1](http://arxiv.org/abs/2210.01442v1)
+- 2022-10-04, **Speed-Adaptive Model-Free Lateral Control for Automated Cars**, Marcos Moreno-Gonzalez et.al., Paper: [http://arxiv.org/abs/2210.01414v1](http://arxiv.org/abs/2210.01414v1)
 - 2022-10-03, **Extrinsic calibration for highly accurate trajectories reconstruction**, Maxime Vaidis et.al., Paper: [http://arxiv.org/abs/2210.01048v1](http://arxiv.org/abs/2210.01048v1)
 - 2022-10-03, **Achromatic design of a photonic tricoupler and phase shifter for broadband nulling interferometry**, Teresa Klinner-Teo et.al., Paper: [http://arxiv.org/abs/2210.01040v1](http://arxiv.org/abs/2210.01040v1)
 - 2022-10-03, **Task Space Tracking of Soft Manipulators: Inner-Outer Loop Control Based on Cosserat-Rod Models**, Tongjia Zheng et.al., Paper: [http://arxiv.org/abs/2210.00976v1](http://arxiv.org/abs/2210.00976v1)
