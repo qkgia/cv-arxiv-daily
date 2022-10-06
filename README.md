@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-05**|**SoccerNet 2022 Challenges Results**|Silvio Giancola et.al.|[2210.02365v1](http://arxiv.org/abs/2210.02365v1)|null|
+|**2022-10-05**|**Optimal control of the F${_1}$-ATPase molecular motor**|Deepak Gupta et.al.|[2210.02072v1](http://arxiv.org/abs/2210.02072v1)|null|
+|**2022-10-05**|**MOTSLAM: MOT-assisted monocular dynamic SLAM using single-view depth estimation**|Hanwei Zhang et.al.|[2210.02038v1](http://arxiv.org/abs/2210.02038v1)|null|
 |**2022-10-04**|**O2S: Open-source open shuttle**|Nwankwo Linus et.al.|[2210.01627v1](http://arxiv.org/abs/2210.01627v1)|null|
 |**2022-10-04**|**In the realm of hybrid Brain: Human Brain and AI**|Hoda Fares et.al.|[2210.01461v1](http://arxiv.org/abs/2210.01461v1)|null|
 |**2022-10-03**|**Diagnosis of Parkinson's Disease Based on Voice Signals Using SHAP and Hard Voting Ensemble Method**|Paria Ghaheri et.al.|[2210.01205v1](http://arxiv.org/abs/2210.01205v1)|**[link](https://github.com/pariaghaheri/classification_of_parkinson_disease)**|
@@ -89,6 +92,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-05**|**Impact of inhomogeneous reionization on post-reionization 21 cm intensity mapping measurement of cosmological parameters**|Heyang Long et.al.|[2210.02385v1](http://arxiv.org/abs/2210.02385v1)|null|
+|**2022-10-05**|**SoccerNet 2022 Challenges Results**|Silvio Giancola et.al.|[2210.02365v1](http://arxiv.org/abs/2210.02365v1)|null|
+|**2022-10-05**|**Schema Encoding for Transferable Dialogue State Tracking**|Hyunmin Jeon et.al.|[2210.02351v1](http://arxiv.org/abs/2210.02351v1)|null|
+|**2022-10-05**|**Lazarus Stars: Numerical investigations of stellar evolution with star-lifting**|Matthew Scoggins et.al.|[2210.02338v1](http://arxiv.org/abs/2210.02338v1)|null|
+|**2022-10-05**|**Distributed Online Generalized Nash Equilibrium Tracking for Prosumer Energy Trading Games**|Yongkai Xie et.al.|[2210.02323v1](http://arxiv.org/abs/2210.02323v1)|null|
+|**2022-10-05**|**Coverage and Capacity of Joint Communication and Sensing in Wireless Networks**|Nicholas R. Olson et.al.|[2210.02289v1](http://arxiv.org/abs/2210.02289v1)|null|
+|**2022-10-05**|**Buoyancy driven bubbly flows: role of meso-scale structures on the relative motion between phases in bubble columns operated in the heterogeneous regime**|Y. Mezui et.al.|[2210.02264v1](http://arxiv.org/abs/2210.02264v1)|null|
+|**2022-10-05**|**From Intelligent Agents to Trustworthy Human-Centred Multiagent Systems**|Mohammad Divband Soorati et.al.|[2210.02260v1](http://arxiv.org/abs/2210.02260v1)|null|
+|**2022-10-05**|**Tracking magnetic flux and helicity from Sun to Earth -- Multi-spacecraft analysis of a magnetic cloud and its solar source**|J. K. Thalmann et.al.|[2210.02228v1](http://arxiv.org/abs/2210.02228v1)|null|
+|**2022-10-05**|**The Scintillating Tail of Comet C/2020 F3 (Neowise)**|R. A. Fallows et.al.|[2210.02139v1](http://arxiv.org/abs/2210.02139v1)|null|
 |**2022-10-04**|**A Fuzzy Logic-based Cascade Control without Actuator Saturation for the Unmanned Underwater Vehicle Trajectory Tracking**|Danjie Zhu et.al.|[2210.01706v1](http://arxiv.org/abs/2210.01706v1)|null|
 |**2022-10-04**|**The DKU-DukeECE Diarization System for the VoxCeleb Speaker Recognition Challenge 2022**|Weiqing Wang et.al.|[2210.01677v1](http://arxiv.org/abs/2210.01677v1)|null|
 |**2022-10-04**|**Low-Cost SMS Driven Location Tracking Platform Towards Anti-Poaching Efforts**|Jack Burkett et.al.|[2210.01614v1](http://arxiv.org/abs/2210.01614v1)|null|
