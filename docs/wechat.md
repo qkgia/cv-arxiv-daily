@@ -1,4 +1,4 @@
-> Updated on 2022.10.05
+> Updated on 2022.10.06
 
 ## SLAM
 
@@ -554,7 +554,7 @@
 - 2022-10-04, **Generalized Homogeneous Rigid-BodyAttitude Control**, Yu Zhou et.al., Paper: [http://arxiv.org/abs/2210.01530v1](http://arxiv.org/abs/2210.01530v1)
 - 2022-10-04, **SwarMan: Anthropomorphic Swarm of Drones Avatar with Body Tracking and Deep Learning-Based Gesture Recognition**, Ahmed Baza et.al., Paper: [http://arxiv.org/abs/2210.01487v1](http://arxiv.org/abs/2210.01487v1)
 - 2022-10-04, **Monitoring Public Behavior During a Pandemic Using Surveys: Proof-of-Concept Via Epidemic Modelling**, Andreas Koher et.al., Paper: [http://arxiv.org/abs/2210.01472v1](http://arxiv.org/abs/2210.01472v1)
-- 2022-10-04, **Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings**, Tenglong Ao et.al., Paper: [http://arxiv.org/abs/2210.01448v1](http://arxiv.org/abs/2210.01448v1), Code: **[https://github.com/aubrey-ao/humanbehavioranimation](https://github.com/aubrey-ao/humanbehavioranimation)**
+- 2022-10-05, **Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings**, Tenglong Ao et.al., Paper: [http://arxiv.org/abs/2210.01448v2](http://arxiv.org/abs/2210.01448v2), Code: **[https://github.com/aubrey-ao/humanbehavioranimation](https://github.com/aubrey-ao/humanbehavioranimation)**
 - 2022-10-04, **First charged tracks reconstructed with Timepix4 ASIC**, Kazu Akiba et.al., Paper: [http://arxiv.org/abs/2210.01442v1](http://arxiv.org/abs/2210.01442v1)
 - 2022-10-04, **Speed-Adaptive Model-Free Lateral Control for Automated Cars**, Marcos Moreno-Gonzalez et.al., Paper: [http://arxiv.org/abs/2210.01414v1](http://arxiv.org/abs/2210.01414v1)
 - 2022-10-03, **Extrinsic calibration for highly accurate trajectories reconstruction**, Maxime Vaidis et.al., Paper: [http://arxiv.org/abs/2210.01048v1](http://arxiv.org/abs/2210.01048v1)
