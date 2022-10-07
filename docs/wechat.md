@@ -464,6 +464,9 @@
 
 ## MOT
 
+- 2022-10-06, **VIMA: General Robot Manipulation with Multimodal Prompts**, Yunfan Jiang et.al., Paper: [http://arxiv.org/abs/2210.03094v1](http://arxiv.org/abs/2210.03094v1)
+- 2022-10-05, **Deep learning for ECoG brain-computer interface: end-to-end vs. hand-crafted features**, Maciej Śliwowski et.al., Paper: [http://arxiv.org/abs/2210.02544v1](http://arxiv.org/abs/2210.02544v1)
+- 2022-10-05, **See and Copy: Generation of complex compositional movements from modular and geometric RNN representations**, Sunny Duan et.al., Paper: [http://arxiv.org/abs/2210.02521v1](http://arxiv.org/abs/2210.02521v1)
 - 2022-10-05, **SoccerNet 2022 Challenges Results**, Silvio Giancola et.al., Paper: [http://arxiv.org/abs/2210.02365v1](http://arxiv.org/abs/2210.02365v1)
 - 2022-10-05, **Optimal control of the F${_1}$-ATPase molecular motor**, Deepak Gupta et.al., Paper: [http://arxiv.org/abs/2210.02072v1](http://arxiv.org/abs/2210.02072v1)
 - 2022-10-05, **MOTSLAM: MOT-assisted monocular dynamic SLAM using single-view depth estimation**, Hanwei Zhang et.al., Paper: [http://arxiv.org/abs/2210.02038v1](http://arxiv.org/abs/2210.02038v1)
@@ -550,6 +553,16 @@
 
 ## Object Tracking
 
+- 2022-10-06, **Ambiguous Images With Human Judgments for Robust Visual Event Classification**, Kate Sanders et.al., Paper: [http://arxiv.org/abs/2210.03102v1](http://arxiv.org/abs/2210.03102v1)
+- 2022-10-06, **Quantum computation of dynamical quantum phase transitions and entanglement tomography in a lattice gauge theory**, Niklas Mueller et.al., Paper: [http://arxiv.org/abs/2210.03089v1](http://arxiv.org/abs/2210.03089v1)
+- 2022-10-06, **High-energy neutrinos from choked-jet supernovae: searches and implications**, Po-Wen Chang et.al., Paper: [http://arxiv.org/abs/2210.03088v1](http://arxiv.org/abs/2210.03088v1)
+- 2022-10-06, **Moving Virtual Agents Forward in Space and Time**, Gabriel F. Silva et.al., Paper: [http://arxiv.org/abs/2210.03073v1](http://arxiv.org/abs/2210.03073v1)
+- 2022-10-06, **AnimeTAB: A new guitar tablature dataset of anime and game music**, Yuecheng Zhou et.al., Paper: [http://arxiv.org/abs/2210.03027v1](http://arxiv.org/abs/2210.03027v1)
+- 2022-10-06, **Robust tube-based LPV-MPC for autonomous lane keeping**, Maryam Nezami et.al., Paper: [http://arxiv.org/abs/2210.02971v1](http://arxiv.org/abs/2210.02971v1)
+- 2022-10-06, **Development of the ComPair gamma-ray telescope prototype**, Daniel Shy et.al., Paper: [http://arxiv.org/abs/2210.02962v1](http://arxiv.org/abs/2210.02962v1)
+- 2022-10-06, **Distributed Resource Allocation over Multiple Interacting Coalitions: A Game-Theoretic Approach**, Jialing Zhou et.al., Paper: [http://arxiv.org/abs/2210.02919v1](http://arxiv.org/abs/2210.02919v1)
+- 2022-10-06, **Optothermal Trapping of Fluorescent Nanodiamonds using a Drop-casted Gold Nanoparticle**, Ashutosh Shukla et.al., Paper: [http://arxiv.org/abs/2210.02874v1](http://arxiv.org/abs/2210.02874v1)
+- 2022-10-06, **In vivo Adaptive Focusing for Clinical Contrast-Enhanced Transcranial Ultrasound Imaging in Human**, Justine Robin et.al., Paper: [http://arxiv.org/abs/2210.02774v1](http://arxiv.org/abs/2210.02774v1)
 - 2022-10-05, **Impact of inhomogeneous reionization on post-reionization 21 cm intensity mapping measurement of cosmological parameters**, Heyang Long et.al., Paper: [http://arxiv.org/abs/2210.02385v1](http://arxiv.org/abs/2210.02385v1)
 - 2022-10-05, **SoccerNet 2022 Challenges Results**, Silvio Giancola et.al., Paper: [http://arxiv.org/abs/2210.02365v1](http://arxiv.org/abs/2210.02365v1)
 - 2022-10-05, **Schema Encoding for Transferable Dialogue State Tracking**, Hyunmin Jeon et.al., Paper: [http://arxiv.org/abs/2210.02351v1](http://arxiv.org/abs/2210.02351v1)
