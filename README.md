@@ -1,4 +1,4 @@
-## Updated on 2022.10.09
+## Updated on 2022.10.10
 
 ## MOT
 
@@ -11,7 +11,7 @@
 |**2022-10-05**|**Optimal control of the F${_1}$-ATPase molecular motor**|Deepak Gupta et.al.|[2210.02072v1](http://arxiv.org/abs/2210.02072v1)|null|
 |**2022-10-05**|**MOTSLAM: MOT-assisted monocular dynamic SLAM using single-view depth estimation**|Hanwei Zhang et.al.|[2210.02038v1](http://arxiv.org/abs/2210.02038v1)|null|
 |**2022-10-04**|**O2S: Open-source open shuttle**|Nwankwo Linus et.al.|[2210.01627v1](http://arxiv.org/abs/2210.01627v1)|null|
-|**2022-10-04**|**In the realm of hybrid Brain: Human Brain and AI**|Hoda Fares et.al.|[2210.01461v1](http://arxiv.org/abs/2210.01461v1)|null|
+|**2022-10-07**|**In the realm of hybrid Brain: Human Brain and AI**|Hoda Fares et.al.|[2210.01461v2](http://arxiv.org/abs/2210.01461v2)|null|
 |**2022-10-03**|**Diagnosis of Parkinson's Disease Based on Voice Signals Using SHAP and Hard Voting Ensemble Method**|Paria Ghaheri et.al.|[2210.01205v1](http://arxiv.org/abs/2210.01205v1)|**[link](https://github.com/pariaghaheri/classification_of_parkinson_disease)**|
 |**2022-10-03**|**Minimal entropy production in anisotropic temperature fields**|Olga Movilla Miangolarra et.al.|[2210.01062v1](http://arxiv.org/abs/2210.01062v1)|null|
 |**2022-09-30**|**MotorBeat: Acoustic Communication for Home Appliances via Variable Pulse Width Modulation**|Weiguo Wang et.al.|[2210.00903v1](http://arxiv.org/abs/2210.00903v1)|null|
@@ -103,7 +103,7 @@
 |**2022-10-06**|**Robust tube-based LPV-MPC for autonomous lane keeping**|Maryam Nezami et.al.|[2210.02971v1](http://arxiv.org/abs/2210.02971v1)|null|
 |**2022-10-06**|**Development of the ComPair gamma-ray telescope prototype**|Daniel Shy et.al.|[2210.02962v1](http://arxiv.org/abs/2210.02962v1)|null|
 |**2022-10-06**|**Distributed Resource Allocation over Multiple Interacting Coalitions: A Game-Theoretic Approach**|Jialing Zhou et.al.|[2210.02919v1](http://arxiv.org/abs/2210.02919v1)|null|
-|**2022-10-06**|**Optothermal Trapping of Fluorescent Nanodiamonds using a Drop-casted Gold Nanoparticle**|Ashutosh Shukla et.al.|[2210.02874v1](http://arxiv.org/abs/2210.02874v1)|null|
+|**2022-10-07**|**Optothermal Trapping of Fluorescent Nanodiamonds using a Drop-casted Gold Nanoparticle**|Ashutosh Shukla et.al.|[2210.02874v2](http://arxiv.org/abs/2210.02874v2)|null|
 |**2022-10-06**|**In vivo Adaptive Focusing for Clinical Contrast-Enhanced Transcranial Ultrasound Imaging in Human**|Justine Robin et.al.|[2210.02774v1](http://arxiv.org/abs/2210.02774v1)|null|
 |**2022-10-05**|**Impact of inhomogeneous reionization on post-reionization 21 cm intensity mapping measurement of cosmological parameters**|Heyang Long et.al.|[2210.02385v1](http://arxiv.org/abs/2210.02385v1)|null|
 |**2022-10-05**|**SoccerNet 2022 Challenges Results**|Silvio Giancola et.al.|[2210.02365v1](http://arxiv.org/abs/2210.02365v1)|null|
