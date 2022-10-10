@@ -577,7 +577,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-10-06**|**VIMA: General Robot Manipulation with Multimodal Prompts**|Yunfan Jiang et.al.|[2210.03094v1](http://arxiv.org/abs/2210.03094v1)|null|
+|**2022-10-07**|**Multiple Object Tracking from appearance by hierarchically clustering tracklets**|Andreu Girbau et.al.|[2210.03355v1](http://arxiv.org/abs/2210.03355v1)|**[link](https://github.com/nii-satoh-lab/mot_fcg)**|
+|**2022-10-06**|**Brain structure can mediate or moderate the relationship of behavior to brain function and transcriptome. A preliminary study**|Sumra Bari et.al.|[2210.03195v1](http://arxiv.org/abs/2210.03195v1)|null|
+|**2022-10-06**|**VIMA: General Robot Manipulation with Multimodal Prompts**|Yunfan Jiang et.al.|[2210.03094v1](http://arxiv.org/abs/2210.03094v1)|**[link](https://github.com/vimalabs/VIMABench)**|
 |**2022-10-05**|**Deep learning for ECoG brain-computer interface: end-to-end vs. hand-crafted features**|Maciej Śliwowski et.al.|[2210.02544v1](http://arxiv.org/abs/2210.02544v1)|null|
 |**2022-10-05**|**See and Copy: Generation of complex compositional movements from modular and geometric RNN representations**|Sunny Duan et.al.|[2210.02521v1](http://arxiv.org/abs/2210.02521v1)|null|
 |**2022-10-05**|**SoccerNet 2022 Challenges Results**|Silvio Giancola et.al.|[2210.02365v1](http://arxiv.org/abs/2210.02365v1)|null|
@@ -668,6 +670,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-07**|**Integration of Riemannian Motion Policy and Whole-Body Control for Dynamic Legged Locomotion**|Daniel Marew et.al.|[2210.03713v1](http://arxiv.org/abs/2210.03713v1)|null|
+|**2022-10-07**|**Matrix tree theorem analog for the net Laplacian matrix of a signed graph**|Sudipta Mallik et.al.|[2210.03711v1](http://arxiv.org/abs/2210.03711v1)|null|
+|**2022-10-07**|**A new approach to kinetic energy flux at the different frequencies above the IRIS Bright Points**|Rayhane Sadeghi et.al.|[2210.03583v1](http://arxiv.org/abs/2210.03583v1)|null|
+|**2022-10-07**|**Differential tissue sparing of FLASH ultra high dose rates: an {\it in-silico} study**|Ramin Abolfath et.al.|[2210.03565v1](http://arxiv.org/abs/2210.03565v1)|null|
+|**2022-10-07**|**Treewidth-aware Reductions of Normal ASP to SAT -- Is Normal ASP Harder than SAT after All?**|Markus Hecher et.al.|[2210.03553v1](http://arxiv.org/abs/2210.03553v1)|null|
+|**2022-10-07**|**Time-Space Transformers for Video Panoptic Segmentation**|Andra Petrovai et.al.|[2210.03546v1](http://arxiv.org/abs/2210.03546v1)|null|
+|**2022-10-07**|**Contact Optimization for Non-Prehensile Loco-Manipulation via Hierarchical Model Predictive Control**|Alberto Rigo et.al.|[2210.03442v1](http://arxiv.org/abs/2210.03442v1)|null|
+|**2022-10-07**|**Trans2k: Unlocking the Power of Deep Models for Transparent Object Tracking**|Alan Lukezic et.al.|[2210.03436v1](http://arxiv.org/abs/2210.03436v1)|**[link](https://github.com/trojerz/trans2k)**|
+|**2022-10-07**|**The Trajectory PHD Filter for Coexisting Point and Extended Target Tracking**|Shaoxiu Wei et.al.|[2210.03412v1](http://arxiv.org/abs/2210.03412v1)|null|
+|**2022-10-07**|**Multiple Object Tracking from appearance by hierarchically clustering tracklets**|Andreu Girbau et.al.|[2210.03355v1](http://arxiv.org/abs/2210.03355v1)|**[link](https://github.com/nii-satoh-lab/mot_fcg)**|
 |**2022-10-06**|**Ambiguous Images With Human Judgments for Robust Visual Event Classification**|Kate Sanders et.al.|[2210.03102v1](http://arxiv.org/abs/2210.03102v1)|null|
 |**2022-10-06**|**Quantum computation of dynamical quantum phase transitions and entanglement tomography in a lattice gauge theory**|Niklas Mueller et.al.|[2210.03089v1](http://arxiv.org/abs/2210.03089v1)|null|
 |**2022-10-06**|**High-energy neutrinos from choked-jet supernovae: searches and implications**|Po-Wen Chang et.al.|[2210.03088v1](http://arxiv.org/abs/2210.03088v1)|**[link](https://github.com/supernovanus/czmk2022_sne_ibc_sample)**|
