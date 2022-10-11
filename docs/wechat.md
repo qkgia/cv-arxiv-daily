@@ -464,6 +464,9 @@
 
 ## MOT
 
+- 2022-10-10, **In-Hand Object Rotation via Rapid Motor Adaptation**, Haozhi Qi et.al., Paper: [http://arxiv.org/abs/2210.04887v1](http://arxiv.org/abs/2210.04887v1)
+- 2022-10-08, **Motion Planning on Visual Manifolds**, M Seetha Ramaiah et.al., Paper: [http://arxiv.org/abs/2210.04047v1](http://arxiv.org/abs/2210.04047v1)
+- 2022-10-07, **An observability result related to active sensing**, Eduardo D. Sontag et.al., Paper: [http://arxiv.org/abs/2210.03848v1](http://arxiv.org/abs/2210.03848v1)
 - 2022-10-07, **Multiple Object Tracking from appearance by hierarchically clustering tracklets**, Andreu Girbau et.al., Paper: [http://arxiv.org/abs/2210.03355v1](http://arxiv.org/abs/2210.03355v1), Code: **[https://github.com/nii-satoh-lab/mot_fcg](https://github.com/nii-satoh-lab/mot_fcg)**
 - 2022-10-06, **Brain structure can mediate or moderate the relationship of behavior to brain function and transcriptome. A preliminary study**, Sumra Bari et.al., Paper: [http://arxiv.org/abs/2210.03195v1](http://arxiv.org/abs/2210.03195v1)
 - 2022-10-06, **VIMA: General Robot Manipulation with Multimodal Prompts**, Yunfan Jiang et.al., Paper: [http://arxiv.org/abs/2210.03094v1](http://arxiv.org/abs/2210.03094v1), Code: **[https://github.com/vimalabs/VIMABench](https://github.com/vimalabs/VIMABench)**
@@ -555,6 +558,16 @@
 
 ## Object Tracking
 
+- 2022-10-10, **Forward silicon tracking detector developments for the future Electron-Ion Collider**, Xuan Li et.al., Paper: [http://arxiv.org/abs/2210.04879v1](http://arxiv.org/abs/2210.04879v1)
+- 2022-10-10, **Deep object detection for waterbird monitoring using aerial imagery**, Krish Kabra et.al., Paper: [http://arxiv.org/abs/2210.04868v1](http://arxiv.org/abs/2210.04868v1), Code: **[https://github.com/riced2klab/audubon_f21](https://github.com/riced2klab/audubon_f21)**
+- 2022-10-10, **Tracking changes using Kullback-Leibler divergence for the continual learning**, Sebastián Basterrech et.al., Paper: [http://arxiv.org/abs/2210.04865v1](http://arxiv.org/abs/2210.04865v1)
+- 2022-10-10, **Reconstructing velocity and pressure from sparse noisy particle tracks using Physics-Informed Neural Networks**, Patricio Clark Di Leoni et.al., Paper: [http://arxiv.org/abs/2210.04849v1](http://arxiv.org/abs/2210.04849v1)
+- 2022-10-10, **Knowledge Distillation Transfer Sets and their Impact on Downstream NLU Tasks**, Charith Peris et.al., Paper: [http://arxiv.org/abs/2210.04834v1](http://arxiv.org/abs/2210.04834v1)
+- 2022-10-10, **End-to-end verifiable voting for developing countries -- what's hard in Lausanne is harder still in Lahore**, Hina Binte Haq et.al., Paper: [http://arxiv.org/abs/2210.04764v1](http://arxiv.org/abs/2210.04764v1)
+- 2022-10-10, **On the Performance of Gradient Tracking with Local Updates**, Edward Duc Hien Nguyen et.al., Paper: [http://arxiv.org/abs/2210.04757v1](http://arxiv.org/abs/2210.04757v1)
+- 2022-10-10, **FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings**, Jean Ogier du Terrail et.al., Paper: [http://arxiv.org/abs/2210.04620v1](http://arxiv.org/abs/2210.04620v1), Code: **[https://github.com/owkin/flamby](https://github.com/owkin/flamby)**
+- 2022-10-10, **Floorplan-Aware Camera Poses Refinement**, Anna Sokolova et.al., Paper: [http://arxiv.org/abs/2210.04572v1](http://arxiv.org/abs/2210.04572v1)
+- 2022-10-10, **Systematic Evaluation and User Study of Privacy of Default Apps in Apple's Mobile Ecosystem**, Amel Bourdoucen et.al., Paper: [http://arxiv.org/abs/2210.04569v1](http://arxiv.org/abs/2210.04569v1)
 - 2022-10-07, **Integration of Riemannian Motion Policy and Whole-Body Control for Dynamic Legged Locomotion**, Daniel Marew et.al., Paper: [http://arxiv.org/abs/2210.03713v1](http://arxiv.org/abs/2210.03713v1)
 - 2022-10-07, **Matrix tree theorem analog for the net Laplacian matrix of a signed graph**, Sudipta Mallik et.al., Paper: [http://arxiv.org/abs/2210.03711v1](http://arxiv.org/abs/2210.03711v1)
 - 2022-10-07, **A new approach to kinetic energy flux at the different frequencies above the IRIS Bright Points**, Rayhane Sadeghi et.al., Paper: [http://arxiv.org/abs/2210.03583v1](http://arxiv.org/abs/2210.03583v1)
