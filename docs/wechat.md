@@ -1,4 +1,4 @@
-> Updated on 2022.10.11
+> Updated on 2022.10.12
 
 ## SLAM
 
@@ -562,7 +562,7 @@
 - 2022-10-10, **Deep object detection for waterbird monitoring using aerial imagery**, Krish Kabra et.al., Paper: [http://arxiv.org/abs/2210.04868v1](http://arxiv.org/abs/2210.04868v1), Code: **[https://github.com/riced2klab/audubon_f21](https://github.com/riced2klab/audubon_f21)**
 - 2022-10-10, **Tracking changes using Kullback-Leibler divergence for the continual learning**, Sebastián Basterrech et.al., Paper: [http://arxiv.org/abs/2210.04865v1](http://arxiv.org/abs/2210.04865v1)
 - 2022-10-10, **Reconstructing velocity and pressure from sparse noisy particle tracks using Physics-Informed Neural Networks**, Patricio Clark Di Leoni et.al., Paper: [http://arxiv.org/abs/2210.04849v1](http://arxiv.org/abs/2210.04849v1)
-- 2022-10-10, **Knowledge Distillation Transfer Sets and their Impact on Downstream NLU Tasks**, Charith Peris et.al., Paper: [http://arxiv.org/abs/2210.04834v1](http://arxiv.org/abs/2210.04834v1)
+- 2022-10-11, **Knowledge Distillation Transfer Sets and their Impact on Downstream NLU Tasks**, Charith Peris et.al., Paper: [http://arxiv.org/abs/2210.04834v2](http://arxiv.org/abs/2210.04834v2)
 - 2022-10-10, **End-to-end verifiable voting for developing countries -- what's hard in Lausanne is harder still in Lahore**, Hina Binte Haq et.al., Paper: [http://arxiv.org/abs/2210.04764v1](http://arxiv.org/abs/2210.04764v1)
 - 2022-10-10, **On the Performance of Gradient Tracking with Local Updates**, Edward Duc Hien Nguyen et.al., Paper: [http://arxiv.org/abs/2210.04757v1](http://arxiv.org/abs/2210.04757v1)
 - 2022-10-10, **FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Healthcare Settings**, Jean Ogier du Terrail et.al., Paper: [http://arxiv.org/abs/2210.04620v1](http://arxiv.org/abs/2210.04620v1), Code: **[https://github.com/owkin/flamby](https://github.com/owkin/flamby)**
