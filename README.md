@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-11**|**EnsembleMOT: A Step towards Ensemble Learning of Multiple Object Tracking**|Yunhao Du et.al.|[2210.05278v1](http://arxiv.org/abs/2210.05278v1)|**[link](https://github.com/dyhbupt/ensemblemot)**|
+|**2022-10-11**|**A Copula-Based family of Bivariate Composite Models for Claim Severity Modelling**|Girish Aradhye et.al.|[2210.05091v1](http://arxiv.org/abs/2210.05091v1)|null|
 |**2022-10-10**|**In-Hand Object Rotation via Rapid Motor Adaptation**|Haozhi Qi et.al.|[2210.04887v1](http://arxiv.org/abs/2210.04887v1)|null|
 |**2022-10-08**|**Motion Planning on Visual Manifolds**|M Seetha Ramaiah et.al.|[2210.04047v1](http://arxiv.org/abs/2210.04047v1)|null|
 |**2022-10-07**|**An observability result related to active sensing**|Eduardo D. Sontag et.al.|[2210.03848v1](http://arxiv.org/abs/2210.03848v1)|null|
@@ -100,6 +102,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-11**|**HiFECap: Monocular High-Fidelity and Expressive Capture of Human Performances**|Yue Jiang et.al.|[2210.05665v1](http://arxiv.org/abs/2210.05665v1)|null|
+|**2022-10-11**|**Magnetotransport of Sm$_2$Ir$_2$O$_7$ across the pressure-induced quantum-critical phase boundary**|M. J. Coak et.al.|[2210.05641v1](http://arxiv.org/abs/2210.05641v1)|null|
+|**2022-10-11**|**Zero-Order One-Point Estimate with Distributed Stochastic Gradient-Tracking Technique**|Elissa Mhanna et.al.|[2210.05618v1](http://arxiv.org/abs/2210.05618v1)|null|
+|**2022-10-11**|**Autonomous Asteroid Characterization Through Nanosatellite Swarming**|Kaitlin Dennison et.al.|[2210.05518v1](http://arxiv.org/abs/2210.05518v1)|null|
+|**2022-10-11**|**Extracting Meaningful Attention on Source Code: An Empirical Study of Developer and Neural Model Code Exploration**|Matteo Paltenghi et.al.|[2210.05506v1](http://arxiv.org/abs/2210.05506v1)|null|
+|**2022-10-11**|**Installation, Commissioning and Performance of Phase Reference Line for LCLS-II**|Shreeharshini Dharanesh Murthy et.al.|[2210.05441v1](http://arxiv.org/abs/2210.05441v1)|null|
+|**2022-10-11**|**Sympletic tracking methods for insertion devices: a Robinson wiggler example**|Ji Li et.al.|[2210.05345v1](http://arxiv.org/abs/2210.05345v1)|null|
+|**2022-10-11**|**Stochastic circular persistent currents of exciton polaritons**|J. Borat et.al.|[2210.05299v1](http://arxiv.org/abs/2210.05299v1)|null|
+|**2022-10-11**|**Revisiting and Advancing Chinese Natural Language Understanding with Accelerated Heterogeneous Knowledge Pre-training**|Taolin Zhang et.al.|[2210.05287v1](http://arxiv.org/abs/2210.05287v1)|null|
+|**2022-10-11**|**EnsembleMOT: A Step towards Ensemble Learning of Multiple Object Tracking**|Yunhao Du et.al.|[2210.05278v1](http://arxiv.org/abs/2210.05278v1)|**[link](https://github.com/dyhbupt/ensemblemot)**|
 |**2022-10-10**|**Forward silicon tracking detector developments for the future Electron-Ion Collider**|Xuan Li et.al.|[2210.04879v1](http://arxiv.org/abs/2210.04879v1)|null|
 |**2022-10-10**|**Deep object detection for waterbird monitoring using aerial imagery**|Krish Kabra et.al.|[2210.04868v1](http://arxiv.org/abs/2210.04868v1)|**[link](https://github.com/riced2klab/audubon_f21)**|
 |**2022-10-10**|**Tracking changes using Kullback-Leibler divergence for the continual learning**|Sebastián Basterrech et.al.|[2210.04865v1](http://arxiv.org/abs/2210.04865v1)|null|
