@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-12**|**Interactive Language: Talking to Robots in Real Time**|Corey Lynch et.al.|[2210.06407v1](http://arxiv.org/abs/2210.06407v1)|null|
+|**2022-10-12**|**A chemomechanical model of sperm locomotion reveals two modes of swimming**|Chenji Li et.al.|[2210.06343v1](http://arxiv.org/abs/2210.06343v1)|null|
+|**2022-10-11**|**The evolution of AI approaches for motor imagery EEG-based BCIs**|Aurora Saibene et.al.|[2210.06290v1](http://arxiv.org/abs/2210.06290v1)|null|
+|**2022-10-07**|**An Energy-Efficient Spiking Neural Network for Finger Velocity Decoding for Implantable Brain-Machine Interface**|Jiawei Liao et.al.|[2210.06287v1](http://arxiv.org/abs/2210.06287v1)|null|
+|**2022-10-11**|**A Bimodal Hydrostatic Actuator for Robotic Legs with Compliant Fast Motion and High Lifting Force**|Alex Lecavalier et.al.|[2210.05765v1](http://arxiv.org/abs/2210.05765v1)|null|
 |**2022-10-11**|**EnsembleMOT: A Step towards Ensemble Learning of Multiple Object Tracking**|Yunhao Du et.al.|[2210.05278v1](http://arxiv.org/abs/2210.05278v1)|**[link](https://github.com/dyhbupt/ensemblemot)**|
 |**2022-10-11**|**A Copula-Based family of Bivariate Composite Models for Claim Severity Modelling**|Girish Aradhye et.al.|[2210.05091v1](http://arxiv.org/abs/2210.05091v1)|null|
 |**2022-10-10**|**In-Hand Object Rotation via Rapid Motor Adaptation**|Haozhi Qi et.al.|[2210.04887v1](http://arxiv.org/abs/2210.04887v1)|null|
@@ -102,6 +107,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-12**|**Frustratingly Simple Entity Tracking with Effective Use of Multi-Task Learning Models**|Janvijay Singh et.al.|[2210.06444v1](http://arxiv.org/abs/2210.06444v1)|null|
+|**2022-10-12**|**Good Intentions, Bad Inventions: How Employees Judge Pervasive Technologies in the Workplace**|Marios Constantinides et.al.|[2210.06381v1](http://arxiv.org/abs/2210.06381v1)|null|
+|**2022-10-12**|**A Generalist Framework for Panoptic Segmentation of Images and Videos**|Ting Chen et.al.|[2210.06366v1](http://arxiv.org/abs/2210.06366v1)|null|
+|**2022-10-12**|**ViewBirdiformer: Learning to recover ground-plane crowd trajectories and ego-motion from a single ego-centric view**|Mai Nishimura et.al.|[2210.06332v1](http://arxiv.org/abs/2210.06332v1)|null|
+|**2022-10-12**|**Use of Superfluid Helium to Observe Directionality of Galactic Dark Matter**|George M. Seidel et.al.|[2210.06283v1](http://arxiv.org/abs/2210.06283v1)|null|
+|**2022-10-12**|**Retirement spending problem under Habit Formation Model**|S. Kirusheva et.al.|[2210.06255v1](http://arxiv.org/abs/2210.06255v1)|null|
+|**2022-10-12**|**Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video**|Xuan Gao et.al.|[2210.06108v1](http://arxiv.org/abs/2210.06108v1)|null|
+|**2022-10-12**|**M$^3$Video: Masked Motion Modeling for Self-Supervised Video Representation Learning**|Xinyu Sun et.al.|[2210.06096v1](http://arxiv.org/abs/2210.06096v1)|null|
+|**2022-10-12**|**Outlier-Insensitive Kalman Filtering Using NUV Priors**|Shunit Truzman et.al.|[2210.06083v1](http://arxiv.org/abs/2210.06083v1)|null|
+|**2022-10-12**|**ControlVAE: Model-Based Learning of Generative Controllers for Physics-Based Characters**|Heyuan Yao et.al.|[2210.06063v1](http://arxiv.org/abs/2210.06063v1)|null|
 |**2022-10-11**|**HiFECap: Monocular High-Fidelity and Expressive Capture of Human Performances**|Yue Jiang et.al.|[2210.05665v1](http://arxiv.org/abs/2210.05665v1)|null|
 |**2022-10-12**|**Magnetotransport of Sm$_2$Ir$_2$O$_7$ across the pressure-induced quantum-critical phase boundary**|M. J. Coak et.al.|[2210.05641v2](http://arxiv.org/abs/2210.05641v2)|null|
 |**2022-10-11**|**Zero-Order One-Point Estimate with Distributed Stochastic Gradient-Tracking Technique**|Elissa Mhanna et.al.|[2210.05618v1](http://arxiv.org/abs/2210.05618v1)|null|
