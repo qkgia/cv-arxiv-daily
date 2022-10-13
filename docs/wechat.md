@@ -1,4 +1,4 @@
-> Updated on 2022.10.12
+> Updated on 2022.10.13
 
 ## SLAM
 
@@ -561,14 +561,14 @@
 ## Object Tracking
 
 - 2022-10-11, **HiFECap: Monocular High-Fidelity and Expressive Capture of Human Performances**, Yue Jiang et.al., Paper: [http://arxiv.org/abs/2210.05665v1](http://arxiv.org/abs/2210.05665v1)
-- 2022-10-11, **Magnetotransport of Sm$_2$Ir$_2$O$_7$ across the pressure-induced quantum-critical phase boundary**, M. J. Coak et.al., Paper: [http://arxiv.org/abs/2210.05641v1](http://arxiv.org/abs/2210.05641v1)
+- 2022-10-12, **Magnetotransport of Sm$_2$Ir$_2$O$_7$ across the pressure-induced quantum-critical phase boundary**, M. J. Coak et.al., Paper: [http://arxiv.org/abs/2210.05641v2](http://arxiv.org/abs/2210.05641v2)
 - 2022-10-11, **Zero-Order One-Point Estimate with Distributed Stochastic Gradient-Tracking Technique**, Elissa Mhanna et.al., Paper: [http://arxiv.org/abs/2210.05618v1](http://arxiv.org/abs/2210.05618v1)
 - 2022-10-11, **Autonomous Asteroid Characterization Through Nanosatellite Swarming**, Kaitlin Dennison et.al., Paper: [http://arxiv.org/abs/2210.05518v1](http://arxiv.org/abs/2210.05518v1)
 - 2022-10-11, **Extracting Meaningful Attention on Source Code: An Empirical Study of Developer and Neural Model Code Exploration**, Matteo Paltenghi et.al., Paper: [http://arxiv.org/abs/2210.05506v1](http://arxiv.org/abs/2210.05506v1)
 - 2022-10-11, **Installation, Commissioning and Performance of Phase Reference Line for LCLS-II**, Shreeharshini Dharanesh Murthy et.al., Paper: [http://arxiv.org/abs/2210.05441v1](http://arxiv.org/abs/2210.05441v1)
 - 2022-10-11, **Sympletic tracking methods for insertion devices: a Robinson wiggler example**, Ji Li et.al., Paper: [http://arxiv.org/abs/2210.05345v1](http://arxiv.org/abs/2210.05345v1)
 - 2022-10-11, **Stochastic circular persistent currents of exciton polaritons**, J. Borat et.al., Paper: [http://arxiv.org/abs/2210.05299v1](http://arxiv.org/abs/2210.05299v1)
-- 2022-10-11, **Revisiting and Advancing Chinese Natural Language Understanding with Accelerated Heterogeneous Knowledge Pre-training**, Taolin Zhang et.al., Paper: [http://arxiv.org/abs/2210.05287v1](http://arxiv.org/abs/2210.05287v1)
+- 2022-10-12, **Revisiting and Advancing Chinese Natural Language Understanding with Accelerated Heterogeneous Knowledge Pre-training**, Taolin Zhang et.al., Paper: [http://arxiv.org/abs/2210.05287v2](http://arxiv.org/abs/2210.05287v2)
 - 2022-10-11, **EnsembleMOT: A Step towards Ensemble Learning of Multiple Object Tracking**, Yunhao Du et.al., Paper: [http://arxiv.org/abs/2210.05278v1](http://arxiv.org/abs/2210.05278v1), Code: **[https://github.com/dyhbupt/ensemblemot](https://github.com/dyhbupt/ensemblemot)**
 - 2022-10-10, **Forward silicon tracking detector developments for the future Electron-Ion Collider**, Xuan Li et.al., Paper: [http://arxiv.org/abs/2210.04879v1](http://arxiv.org/abs/2210.04879v1)
 - 2022-10-10, **Deep object detection for waterbird monitoring using aerial imagery**, Krish Kabra et.al., Paper: [http://arxiv.org/abs/2210.04868v1](http://arxiv.org/abs/2210.04868v1), Code: **[https://github.com/riced2klab/audubon_f21](https://github.com/riced2klab/audubon_f21)**
