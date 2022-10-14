@@ -577,6 +577,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-13**|**Visual Reinforcement Learning with Self-Supervised 3D Representations**|Yanjie Ze et.al.|[2210.07241v1](http://arxiv.org/abs/2210.07241v1)|null|
+|**2022-10-12**|**QDTrack: Quasi-Dense Similarity Learning for Appearance-Only Multiple Object Tracking**|Tobias Fischer et.al.|[2210.06984v1](http://arxiv.org/abs/2210.06984v1)|null|
 |**2022-10-12**|**Interactive Language: Talking to Robots in Real Time**|Corey Lynch et.al.|[2210.06407v1](http://arxiv.org/abs/2210.06407v1)|null|
 |**2022-10-12**|**A chemomechanical model of sperm locomotion reveals two modes of swimming**|Chenji Li et.al.|[2210.06343v1](http://arxiv.org/abs/2210.06343v1)|null|
 |**2022-10-11**|**The evolution of AI approaches for motor imagery EEG-based BCIs**|Aurora Saibene et.al.|[2210.06290v1](http://arxiv.org/abs/2210.06290v1)|null|
@@ -680,6 +682,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-13**|**OpenOOD: Benchmarking Generalized Out-of-Distribution Detection**|Jingkang Yang et.al.|[2210.07242v1](http://arxiv.org/abs/2210.07242v1)|**[link](https://github.com/jingkang50/openood)**|
+|**2022-10-13**|**Mathematical modernity, goal or problem? The opposing views of Felix Hausdorff and Hermann Weyl**|Erhard Scholz et.al.|[2210.07220v1](http://arxiv.org/abs/2210.07220v1)|null|
+|**2022-10-13**|**Best Practices in the Creation and Use of Emotion Lexicons**|Saif M. Mohammad et.al.|[2210.07206v1](http://arxiv.org/abs/2210.07206v1)|null|
+|**2022-10-13**|**PDEBENCH: An Extensive Benchmark for Scientific Machine Learning**|Makoto Takamoto et.al.|[2210.07182v1](http://arxiv.org/abs/2210.07182v1)|**[link](https://github.com/pdebench/pdebench)**|
+|**2022-10-13**|**Forecast Hedging and Calibration**|Dean P. Foster et.al.|[2210.07169v1](http://arxiv.org/abs/2210.07169v1)|null|
+|**2022-10-13**|**Dungeons and Dragons as a Dialog Challenge for Artificial Intelligence**|Chris Callison-Burch et.al.|[2210.07109v1](http://arxiv.org/abs/2210.07109v1)|null|
+|**2022-10-13**|**Imaging-based 3D Particle Tracking System for Field Characterization of Particle Dynamics in Atmospheric Flows**|Nathaniel Bristow et.al.|[2210.07106v1](http://arxiv.org/abs/2210.07106v1)|null|
+|**2022-10-13**|**CORL: Research-oriented Deep Offline Reinforcement Learning Library**|Denis Tarasov et.al.|[2210.07105v1](http://arxiv.org/abs/2210.07105v1)|**[link](https://github.com/tinkoff-ai/CORL)**|
+|**2022-10-13**|**Rebalanced Zero-shot Learning**|Zihan Ye et.al.|[2210.07031v1](http://arxiv.org/abs/2210.07031v1)|null|
+|**2022-10-13**|**Evaluating Data-Driven Co-Speech Gestures of Embodied Conversational Agents through Real-Time Interaction**|Yuan He et.al.|[2210.06974v1](http://arxiv.org/abs/2210.06974v1)|null|
 |**2022-10-12**|**Frustratingly Simple Entity Tracking with Effective Use of Multi-Task Learning Models**|Janvijay Singh et.al.|[2210.06444v1](http://arxiv.org/abs/2210.06444v1)|null|
 |**2022-10-13**|**Good Intentions, Bad Inventions: How Employees Judge Pervasive Technologies in the Workplace**|Marios Constantinides et.al.|[2210.06381v2](http://arxiv.org/abs/2210.06381v2)|null|
 |**2022-10-12**|**A Generalist Framework for Panoptic Segmentation of Images and Videos**|Ting Chen et.al.|[2210.06366v1](http://arxiv.org/abs/2210.06366v1)|null|
