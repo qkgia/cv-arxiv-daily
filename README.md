@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-14**|**Learning to Autonomously Reach Objects with NICO and Grow-When-Required Networks**|Nima Rahrakhshan et.al.|[2210.07851v1](http://arxiv.org/abs/2210.07851v1)|null|
+|**2022-10-14**|**Bandwidth-efficient distributed neural network architectures with application to body sensor networks**|Thomas Strypsteen et.al.|[2210.07750v1](http://arxiv.org/abs/2210.07750v1)|null|
 |**2022-10-13**|**Visual Reinforcement Learning with Self-Supervised 3D Representations**|Yanjie Ze et.al.|[2210.07241v1](http://arxiv.org/abs/2210.07241v1)|null|
 |**2022-10-12**|**QDTrack: Quasi-Dense Similarity Learning for Appearance-Only Multiple Object Tracking**|Tobias Fischer et.al.|[2210.06984v1](http://arxiv.org/abs/2210.06984v1)|null|
 |**2022-10-12**|**Interactive Language: Talking to Robots in Real Time**|Corey Lynch et.al.|[2210.06407v1](http://arxiv.org/abs/2210.06407v1)|null|
@@ -109,6 +111,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-14**|**Communication-Efficient Topologies for Decentralized Learning with $O(1)$ Consensus Rate**|Zhuoqing Song et.al.|[2210.07881v1](http://arxiv.org/abs/2210.07881v1)|**[link](https://github.com/kexinjinnn/equitopo)**|
+|**2022-10-14**|**Statistical Inference for Complete and Incomplete Mobility Trajectories under the Flight-Pause Model**|Marcin Jurek et.al.|[2210.07870v1](http://arxiv.org/abs/2210.07870v1)|null|
+|**2022-10-14**|**Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue**|Yingxiu Zhao et.al.|[2210.07783v1](http://arxiv.org/abs/2210.07783v1)|null|
+|**2022-10-14**|**Federated Best Arm Identification with Heterogeneous Clients**|Zhirui Chen et.al.|[2210.07780v1](http://arxiv.org/abs/2210.07780v1)|null|
+|**2022-10-14**|**The CMS Outer Tracker for the High-Luminosity LHC**|Erik Butz et.al.|[2210.07766v1](http://arxiv.org/abs/2210.07766v1)|null|
+|**2022-10-14**|**Quo Vadis: Is Trajectory Forecasting the Key Towards Long-Term Multi-Object Tracking?**|Patrick Dendorfer et.al.|[2210.07681v1](http://arxiv.org/abs/2210.07681v1)|null|
+|**2022-10-14**|**DART: Articulated Hand Model with Diverse Accessories and Rich Textures**|Daiheng Gao et.al.|[2210.07650v1](http://arxiv.org/abs/2210.07650v1)|null|
+|**2022-10-14**|**Tunable plasmonic topological transitions in WTe2 van der Waals films**|Yuangang Xie et.al.|[2210.07605v1](http://arxiv.org/abs/2210.07605v1)|null|
+|**2022-10-14**|**A Survey of Parameters Associated with the Quality of Benchmarks in NLP**|Swaroop Mishra et.al.|[2210.07566v1](http://arxiv.org/abs/2210.07566v1)|null|
+|**2022-10-14**|**Performance Evaluation of Wireless Multi-Carrier (MC) Communication Systems**|Mohamed S. Elbakry et.al.|[2210.07243v1](http://arxiv.org/abs/2210.07243v1)|null|
 |**2022-10-13**|**OpenOOD: Benchmarking Generalized Out-of-Distribution Detection**|Jingkang Yang et.al.|[2210.07242v1](http://arxiv.org/abs/2210.07242v1)|**[link](https://github.com/jingkang50/openood)**|
 |**2022-10-13**|**Mathematical modernity, goal or problem? The opposing views of Felix Hausdorff and Hermann Weyl**|Erhard Scholz et.al.|[2210.07220v1](http://arxiv.org/abs/2210.07220v1)|null|
 |**2022-10-13**|**Best Practices in the Creation and Use of Emotion Lexicons**|Saif M. Mohammad et.al.|[2210.07206v1](http://arxiv.org/abs/2210.07206v1)|null|
