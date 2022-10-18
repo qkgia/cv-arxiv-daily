@@ -464,6 +464,11 @@
 
 ## MOT
 
+- 2022-10-13, **Virtual-Reality based Vestibular Ocular Motor Screening for Concussion Detection using Machine-Learning**, Khondker Fariha Hossain et.al., Paper: [http://arxiv.org/abs/2210.09295v1](http://arxiv.org/abs/2210.09295v1)
+- 2022-10-17, **Self-Supervised Learning Through Efference Copies**, Franz Scherr et.al., Paper: [http://arxiv.org/abs/2210.09224v1](http://arxiv.org/abs/2210.09224v1)
+- 2022-10-16, **Grip force as a functional window to somatosensory cognition**, Birgitta Dresp-Langley et.al., Paper: [http://arxiv.org/abs/2210.08583v1](http://arxiv.org/abs/2210.08583v1)
+- 2022-10-16, **OST: Efficient One-stream Network for 3D Single Object Tracking in Point Clouds**, Xiantong Zhao et.al., Paper: [http://arxiv.org/abs/2210.08518v1](http://arxiv.org/abs/2210.08518v1)
+- 2022-10-14, **Learning Skills from Demonstrations: A Trend from Motion Primitives to Experience Abstraction**, Mehrdad Tavassoli et.al., Paper: [http://arxiv.org/abs/2210.08060v1](http://arxiv.org/abs/2210.08060v1)
 - 2022-10-17, **Learning to Autonomously Reach Objects with NICO and Grow-When-Required Networks**, Nima Rahrakhshan et.al., Paper: [http://arxiv.org/abs/2210.07851v2](http://arxiv.org/abs/2210.07851v2)
 - 2022-10-14, **Bandwidth-efficient distributed neural network architectures with application to body sensor networks**, Thomas Strypsteen et.al., Paper: [http://arxiv.org/abs/2210.07750v1](http://arxiv.org/abs/2210.07750v1)
 - 2022-10-13, **Visual Reinforcement Learning with Self-Supervised 3D Representations**, Yanjie Ze et.al., Paper: [http://arxiv.org/abs/2210.07241v1](http://arxiv.org/abs/2210.07241v1)
@@ -569,6 +574,16 @@
 
 ## Object Tracking
 
+- 2022-10-17, **Neural Contact Fields: Tracking Extrinsic Contact with Tactile Sensing**, Carolina Higuera et.al., Paper: [http://arxiv.org/abs/2210.09297v1](http://arxiv.org/abs/2210.09297v1), Code: **[https://github.com/carolinahiguera/ncf](https://github.com/carolinahiguera/ncf)**
+- 2022-10-17, **High-efficiency Blockchain-based Supply Chain Traceability**, Hanqing Wu et.al., Paper: [http://arxiv.org/abs/2210.09202v1](http://arxiv.org/abs/2210.09202v1)
+- 2022-10-17, **SmartProduct: a prototype platform for product monitoring-as-a-service, leveraging IoT technologies and the EPCIS standard**, Petros Zervoudakis et.al., Paper: [http://arxiv.org/abs/2210.09140v1](http://arxiv.org/abs/2210.09140v1)
+- 2022-10-17, **SPICA-FT: The new fringe tracker of the CHARA array**, Cyril Pannetier et.al., Paper: [http://arxiv.org/abs/2210.09042v1](http://arxiv.org/abs/2210.09042v1)
+- 2022-10-17, **The Role of User Reviews in App Updates: A Preliminary Investigation on App Release Notes**, Chong Wang et.al., Paper: [http://arxiv.org/abs/2210.08904v1](http://arxiv.org/abs/2210.08904v1)
+- 2022-10-17, **Semi-Supervised Knowledge-Grounded Pre-training for Task-Oriented Dialog Systems**, Weihao Zeng et.al., Paper: [http://arxiv.org/abs/2210.08873v1](http://arxiv.org/abs/2210.08873v1)
+- 2022-10-17, **Sample-efficient Model Predictive Control Design of Soft Robotics by Bayesian Optimization**, Anuj Pal et.al., Paper: [http://arxiv.org/abs/2210.08780v1](http://arxiv.org/abs/2210.08780v1)
+- 2022-10-17, **Keep Me Updated! Memory Management in Long-term Conversations**, Sanghwan Bae et.al., Paper: [http://arxiv.org/abs/2210.08750v1](http://arxiv.org/abs/2210.08750v1)
+- 2022-10-17, **Temporal and Contextual Transformer for Multi-Camera Editing of TV Shows**, Anyi Rao et.al., Paper: [http://arxiv.org/abs/2210.08737v1](http://arxiv.org/abs/2210.08737v1)
+- 2022-10-17, **A Generative User Simulator with GPT-based Architecture and Goal State Tracking for Reinforced Multi-Domain Dialog Systems**, Hong Liu et.al., Paper: [http://arxiv.org/abs/2210.08692v1](http://arxiv.org/abs/2210.08692v1), Code: **[https://github.com/thu-spmi/gus](https://github.com/thu-spmi/gus)**
 - 2022-10-14, **Communication-Efficient Topologies for Decentralized Learning with $O(1)$ Consensus Rate**, Zhuoqing Song et.al., Paper: [http://arxiv.org/abs/2210.07881v1](http://arxiv.org/abs/2210.07881v1), Code: **[https://github.com/kexinjinnn/equitopo](https://github.com/kexinjinnn/equitopo)**
 - 2022-10-14, **Statistical Inference for Complete and Incomplete Mobility Trajectories under the Flight-Pause Model**, Marcin Jurek et.al., Paper: [http://arxiv.org/abs/2210.07870v1](http://arxiv.org/abs/2210.07870v1)
 - 2022-10-14, **Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue**, Yingxiu Zhao et.al., Paper: [http://arxiv.org/abs/2210.07783v1](http://arxiv.org/abs/2210.07783v1)
@@ -1020,6 +1035,7 @@
 
 ## Multi-camera
 
+- 2022-10-17, **Temporal and Contextual Transformer for Multi-Camera Editing of TV Shows**, Anyi Rao et.al., Paper: [http://arxiv.org/abs/2210.08737v1](http://arxiv.org/abs/2210.08737v1)
 - 2022-09-28, **Online Multi Camera-IMU Calibration**, Jacob Hartzer et.al., Paper: [http://arxiv.org/abs/2209.13821v1](http://arxiv.org/abs/2209.13821v1), Code: **[https://github.com/unmannedlab/multi-cam-imu-cal](https://github.com/unmannedlab/multi-cam-imu-cal)**
 - 2022-09-05, **MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**, Pavel Karpyshev et.al., Paper: [http://arxiv.org/abs/2209.01936v1](http://arxiv.org/abs/2209.01936v1)
 - 2022-08-30, **Synthehicle: Multi-Vehicle Multi-Camera Tracking in Virtual Cities**, Fabian Herzog et.al., Paper: [http://arxiv.org/abs/2208.14167v1](http://arxiv.org/abs/2208.14167v1), Code: **[https://github.com/fubel/synthehicle](https://github.com/fubel/synthehicle)**
