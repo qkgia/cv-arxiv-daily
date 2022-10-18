@@ -1,4 +1,4 @@
-> Updated on 2022.10.17
+> Updated on 2022.10.18
 
 ## SLAM
 
@@ -464,7 +464,7 @@
 
 ## MOT
 
-- 2022-10-14, **Learning to Autonomously Reach Objects with NICO and Grow-When-Required Networks**, Nima Rahrakhshan et.al., Paper: [http://arxiv.org/abs/2210.07851v1](http://arxiv.org/abs/2210.07851v1)
+- 2022-10-17, **Learning to Autonomously Reach Objects with NICO and Grow-When-Required Networks**, Nima Rahrakhshan et.al., Paper: [http://arxiv.org/abs/2210.07851v2](http://arxiv.org/abs/2210.07851v2)
 - 2022-10-14, **Bandwidth-efficient distributed neural network architectures with application to body sensor networks**, Thomas Strypsteen et.al., Paper: [http://arxiv.org/abs/2210.07750v1](http://arxiv.org/abs/2210.07750v1)
 - 2022-10-13, **Visual Reinforcement Learning with Self-Supervised 3D Representations**, Yanjie Ze et.al., Paper: [http://arxiv.org/abs/2210.07241v1](http://arxiv.org/abs/2210.07241v1)
 - 2022-10-12, **QDTrack: Quasi-Dense Similarity Learning for Appearance-Only Multiple Object Tracking**, Tobias Fischer et.al., Paper: [http://arxiv.org/abs/2210.06984v1](http://arxiv.org/abs/2210.06984v1)
@@ -572,7 +572,7 @@
 - 2022-10-14, **Communication-Efficient Topologies for Decentralized Learning with $O(1)$ Consensus Rate**, Zhuoqing Song et.al., Paper: [http://arxiv.org/abs/2210.07881v1](http://arxiv.org/abs/2210.07881v1), Code: **[https://github.com/kexinjinnn/equitopo](https://github.com/kexinjinnn/equitopo)**
 - 2022-10-14, **Statistical Inference for Complete and Incomplete Mobility Trajectories under the Flight-Pause Model**, Marcin Jurek et.al., Paper: [http://arxiv.org/abs/2210.07870v1](http://arxiv.org/abs/2210.07870v1)
 - 2022-10-14, **Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue**, Yingxiu Zhao et.al., Paper: [http://arxiv.org/abs/2210.07783v1](http://arxiv.org/abs/2210.07783v1)
-- 2022-10-14, **Federated Best Arm Identification with Heterogeneous Clients**, Zhirui Chen et.al., Paper: [http://arxiv.org/abs/2210.07780v1](http://arxiv.org/abs/2210.07780v1)
+- 2022-10-17, **Federated Best Arm Identification with Heterogeneous Clients**, Zhirui Chen et.al., Paper: [http://arxiv.org/abs/2210.07780v2](http://arxiv.org/abs/2210.07780v2)
 - 2022-10-14, **The CMS Outer Tracker for the High-Luminosity LHC**, Erik Butz et.al., Paper: [http://arxiv.org/abs/2210.07766v1](http://arxiv.org/abs/2210.07766v1)
 - 2022-10-14, **Quo Vadis: Is Trajectory Forecasting the Key Towards Long-Term Multi-Object Tracking?**, Patrick Dendorfer et.al., Paper: [http://arxiv.org/abs/2210.07681v1](http://arxiv.org/abs/2210.07681v1)
 - 2022-10-14, **DART: Articulated Hand Model with Diverse Accessories and Rich Textures**, Daiheng Gao et.al., Paper: [http://arxiv.org/abs/2210.07650v1](http://arxiv.org/abs/2210.07650v1)
@@ -1020,7 +1020,7 @@
 
 ## Multi-camera
 
-- 2022-09-28, **Online Multi Camera-IMU Calibration**, Jacob Hartzer et.al., Paper: [http://arxiv.org/abs/2209.13821v1](http://arxiv.org/abs/2209.13821v1)
+- 2022-09-28, **Online Multi Camera-IMU Calibration**, Jacob Hartzer et.al., Paper: [http://arxiv.org/abs/2209.13821v1](http://arxiv.org/abs/2209.13821v1), Code: **[https://github.com/unmannedlab/multi-cam-imu-cal](https://github.com/unmannedlab/multi-cam-imu-cal)**
 - 2022-09-05, **MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**, Pavel Karpyshev et.al., Paper: [http://arxiv.org/abs/2209.01936v1](http://arxiv.org/abs/2209.01936v1)
 - 2022-08-30, **Synthehicle: Multi-Vehicle Multi-Camera Tracking in Virtual Cities**, Fabian Herzog et.al., Paper: [http://arxiv.org/abs/2208.14167v1](http://arxiv.org/abs/2208.14167v1), Code: **[https://github.com/fubel/synthehicle](https://github.com/fubel/synthehicle)**
 - 2022-10-03, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v2](http://arxiv.org/abs/2208.05963v2)
