@@ -1,4 +1,4 @@
-## Updated on 2022.10.18
+## Updated on 2022.10.19
 
 ## MOT
 
@@ -125,7 +125,7 @@
 |**2022-10-17**|**Sample-efficient Model Predictive Control Design of Soft Robotics by Bayesian Optimization**|Anuj Pal et.al.|[2210.08780v1](http://arxiv.org/abs/2210.08780v1)|null|
 |**2022-10-17**|**Keep Me Updated! Memory Management in Long-term Conversations**|Sanghwan Bae et.al.|[2210.08750v1](http://arxiv.org/abs/2210.08750v1)|null|
 |**2022-10-17**|**Temporal and Contextual Transformer for Multi-Camera Editing of TV Shows**|Anyi Rao et.al.|[2210.08737v1](http://arxiv.org/abs/2210.08737v1)|null|
-|**2022-10-17**|**A Generative User Simulator with GPT-based Architecture and Goal State Tracking for Reinforced Multi-Domain Dialog Systems**|Hong Liu et.al.|[2210.08692v1](http://arxiv.org/abs/2210.08692v1)|**[link](https://github.com/thu-spmi/gus)**|
+|**2022-10-18**|**A Generative User Simulator with GPT-based Architecture and Goal State Tracking for Reinforced Multi-Domain Dialog Systems**|Hong Liu et.al.|[2210.08692v2](http://arxiv.org/abs/2210.08692v2)|**[link](https://github.com/thu-spmi/gus)**|
 |**2022-10-14**|**Communication-Efficient Topologies for Decentralized Learning with $O(1)$ Consensus Rate**|Zhuoqing Song et.al.|[2210.07881v1](http://arxiv.org/abs/2210.07881v1)|**[link](https://github.com/kexinjinnn/equitopo)**|
 |**2022-10-14**|**Statistical Inference for Complete and Incomplete Mobility Trajectories under the Flight-Pause Model**|Marcin Jurek et.al.|[2210.07870v1](http://arxiv.org/abs/2210.07870v1)|null|
 |**2022-10-14**|**Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue**|Yingxiu Zhao et.al.|[2210.07783v1](http://arxiv.org/abs/2210.07783v1)|null|
