@@ -577,6 +577,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-18**|**Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion**|Zipeng Fu et.al.|[2210.10044v1](http://arxiv.org/abs/2210.10044v1)|null|
+|**2022-10-18**|**Simple Emergent Action Representations from Multi-Task Policy Training**|Pu Hua et.al.|[2210.09566v1](http://arxiv.org/abs/2210.09566v1)|null|
+|**2022-10-18**|**The Brain-Inspired Cooperative Shared Control for Brain-Machine Interface**|Shengjie Zheng et.al.|[2210.09531v1](http://arxiv.org/abs/2210.09531v1)|null|
+|**2022-10-17**|**TorchDIVA: An Extensible Computational Model of Speech Production built on an Open-Source Machine Learning Library**|Sean Kinahan et.al.|[2210.09334v1](http://arxiv.org/abs/2210.09334v1)|**[link](https://github.com/skinahan/diva_pytorch)**|
 |**2022-10-13**|**Virtual-Reality based Vestibular Ocular Motor Screening for Concussion Detection using Machine-Learning**|Khondker Fariha Hossain et.al.|[2210.09295v1](http://arxiv.org/abs/2210.09295v1)|null|
 |**2022-10-17**|**Self-Supervised Learning Through Efference Copies**|Franz Scherr et.al.|[2210.09224v1](http://arxiv.org/abs/2210.09224v1)|null|
 |**2022-10-16**|**Grip force as a functional window to somatosensory cognition**|Birgitta Dresp-Langley et.al.|[2210.08583v1](http://arxiv.org/abs/2210.08583v1)|null|
@@ -689,6 +693,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-18**|**Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion**|Zipeng Fu et.al.|[2210.10044v1](http://arxiv.org/abs/2210.10044v1)|null|
+|**2022-10-18**|**Edge-based Monocular Thermal-Inertial Odometry in Visually Degraded Environments**|Yu Wang et.al.|[2210.10033v1](http://arxiv.org/abs/2210.10033v1)|null|
+|**2022-10-18**|**Eye-tracking based classification of Mandarin Chinese readers with and without dyslexia using neural sequence models**|Patrick Haller et.al.|[2210.09819v1](http://arxiv.org/abs/2210.09819v1)|**[link](https://github.com/hallerp/dyslexia-seqmod)**|
+|**2022-10-18**|**Identifying Operation Equilibrium in Integrated Electricity, Natural Gas, and Carbon-Emission Markets**|Yijie Yang et.al.|[2210.09813v1](http://arxiv.org/abs/2210.09813v1)|null|
+|**2022-10-18**|**Towards a New Generation of Monolithic Active Pixel Sensors**|Ankur Chauhan et.al.|[2210.09810v1](http://arxiv.org/abs/2210.09810v1)|null|
+|**2022-10-18**|**Physically interacting humans regulate muscle coactivation to improve visuo-haptic perception**|Hendrik Borner et.al.|[2210.09742v1](http://arxiv.org/abs/2210.09742v1)|null|
+|**2022-10-18**|**Study on the filters of atmospheric contamination in ground based CMB observation**|Yi-Wen Wu et.al.|[2210.09711v1](http://arxiv.org/abs/2210.09711v1)|null|
+|**2022-10-18**|**A crack in the track of the Hubble Constant**|Marie Gueguen et.al.|[2210.09661v1](http://arxiv.org/abs/2210.09661v1)|null|
+|**2022-10-18**|**Tencent's Multilingual Machine Translation System for WMT22 Large-Scale African Languages**|Wenxiang Jiao et.al.|[2210.09644v1](http://arxiv.org/abs/2210.09644v1)|**[link](https://github.com/wxjiao/wmt2022-large-scale-african)**|
+|**2022-10-18**|**1st Place Solutions for the UVO Challenge 2022**|Jiajun Zhang et.al.|[2210.09629v1](http://arxiv.org/abs/2210.09629v1)|null|
 |**2022-10-17**|**Neural Contact Fields: Tracking Extrinsic Contact with Tactile Sensing**|Carolina Higuera et.al.|[2210.09297v1](http://arxiv.org/abs/2210.09297v1)|**[link](https://github.com/carolinahiguera/ncf)**|
 |**2022-10-17**|**High-efficiency Blockchain-based Supply Chain Traceability**|Hanqing Wu et.al.|[2210.09202v1](http://arxiv.org/abs/2210.09202v1)|null|
 |**2022-10-17**|**SmartProduct: a prototype platform for product monitoring-as-a-service, leveraging IoT technologies and the EPCIS standard**|Petros Zervoudakis et.al.|[2210.09140v1](http://arxiv.org/abs/2210.09140v1)|null|
