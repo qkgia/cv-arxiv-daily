@@ -120,6 +120,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-19**|**Multi-view Tracking Using Weakly Supervised Human Motion Prediction**|Martin Engilberge et.al.|[2210.10771v1](http://arxiv.org/abs/2210.10771v1)|**[link](https://github.com/cvlab-epfl/mvflow)**|
+|**2022-10-19**|**End-to-End Integration of Speech Recognition, Dereverberation, Beamforming, and Self-Supervised Learning Representation**|Yoshiki Masuyama et.al.|[2210.10742v1](http://arxiv.org/abs/2210.10742v1)|null|
+|**2022-10-19**|**Robot Navigation with Reinforcement Learned Path Generation and Fine-Tuned Motion Control**|Longyuan Zhang et.al.|[2210.10639v1](http://arxiv.org/abs/2210.10639v1)|null|
+|**2022-10-19**|**Red supergiant stars in IC 1613 and metallicity-dependent mixing length in the evolutionary model**|Sang-Hyun Chun et.al.|[2210.10608v1](http://arxiv.org/abs/2210.10608v1)|null|
+|**2022-10-19**|**RLM-Tracking: Online Multi-Pedestrian Tracking Supported by Relative Location Mapping**|Kai Ren et.al.|[2210.10477v1](http://arxiv.org/abs/2210.10477v1)|null|
+|**2022-10-19**|**MC-hands-1M: A glove-wearing hand dataset for pose estimation**|Prodromos Boutis et.al.|[2210.10428v1](http://arxiv.org/abs/2210.10428v1)|null|
+|**2022-10-19**|**The role of Pop III stars and early black holes in the 21cm signal from Cosmic Dawn**|Emanuele M. Ventura et.al.|[2210.10281v1](http://arxiv.org/abs/2210.10281v1)|null|
+|**2022-10-19**|**Discovering Limitations of Image Quality Assessments with Noised Deep Learning Image Sets**|Wei Dai et.al.|[2210.10249v1](http://arxiv.org/abs/2210.10249v1)|null|
+|**2022-10-19**|**CLUTR: Curriculum Learning via Unsupervised Task Representation Learning**|Abdus Salam Azad et.al.|[2210.10243v1](http://arxiv.org/abs/2210.10243v1)|null|
+|**2022-10-19**|**Towards Exact Interaction Force Control for Underactuated Quadrupedal Systems with Orthogonal Projection and Quadratic Programming**|Shengzhi Wang et.al.|[2210.10238v1](http://arxiv.org/abs/2210.10238v1)|null|
 |**2022-10-18**|**Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion**|Zipeng Fu et.al.|[2210.10044v1](http://arxiv.org/abs/2210.10044v1)|null|
 |**2022-10-18**|**Edge-based Monocular Thermal-Inertial Odometry in Visually Degraded Environments**|Yu Wang et.al.|[2210.10033v1](http://arxiv.org/abs/2210.10033v1)|null|
 |**2022-10-18**|**Eye-tracking based classification of Mandarin Chinese readers with and without dyslexia using neural sequence models**|Patrick Haller et.al.|[2210.09819v1](http://arxiv.org/abs/2210.09819v1)|**[link](https://github.com/hallerp/dyslexia-seqmod)**|
