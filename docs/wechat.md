@@ -464,6 +464,7 @@
 
 ## MOT
 
+- 2022-10-20, **Cell tracking for live-cell microscopy using an activity-prioritized assignment strategy**, Karina Ruzaeva et.al., Paper: [http://arxiv.org/abs/2210.11441v1](http://arxiv.org/abs/2210.11441v1), Code: **[https://github.com/kruzaeva/activity-cell-tracking](https://github.com/kruzaeva/activity-cell-tracking)**
 - 2022-10-18, **Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion**, Zipeng Fu et.al., Paper: [http://arxiv.org/abs/2210.10044v1](http://arxiv.org/abs/2210.10044v1)
 - 2022-10-18, **Simple Emergent Action Representations from Multi-Task Policy Training**, Pu Hua et.al., Paper: [http://arxiv.org/abs/2210.09566v1](http://arxiv.org/abs/2210.09566v1)
 - 2022-10-18, **The Brain-Inspired Cooperative Shared Control for Brain-Machine Interface**, Shengjie Zheng et.al., Paper: [http://arxiv.org/abs/2210.09531v1](http://arxiv.org/abs/2210.09531v1)
@@ -578,6 +579,16 @@
 
 ## Object Tracking
 
+- 2022-10-20, **Self-Supervised Learning via Maximum Entropy Coding**, Xin Liu et.al., Paper: [http://arxiv.org/abs/2210.11464v1](http://arxiv.org/abs/2210.11464v1), Code: **[https://github.com/xinliu20/mec](https://github.com/xinliu20/mec)**
+- 2022-10-20, **Breaking Bad: A Dataset for Geometric Fracture and Reassembly**, Silvia Sellán et.al., Paper: [http://arxiv.org/abs/2210.11463v1](http://arxiv.org/abs/2210.11463v1)
+- 2022-10-20, **Closed-loop Control of Catalytic Janus Microrobots**, Max Sokolich et.al., Paper: [http://arxiv.org/abs/2210.11460v1](http://arxiv.org/abs/2210.11460v1)
+- 2022-10-20, **Cell tracking for live-cell microscopy using an activity-prioritized assignment strategy**, Karina Ruzaeva et.al., Paper: [http://arxiv.org/abs/2210.11441v1](http://arxiv.org/abs/2210.11441v1), Code: **[https://github.com/kruzaeva/activity-cell-tracking](https://github.com/kruzaeva/activity-cell-tracking)**
+- 2022-10-20, **Meeting Decision Tracker: Making Meeting Minutes with De-Contextualized Utterances**, Shumpei Inoue et.al., Paper: [http://arxiv.org/abs/2210.11374v1](http://arxiv.org/abs/2210.11374v1)
+- 2022-10-20, **Responsive Operations for Key Services (ROKS): A Modular, Low SWaP Quantum Communications Payload**, Craig D. Colquhoun et.al., Paper: [http://arxiv.org/abs/2210.11285v1](http://arxiv.org/abs/2210.11285v1)
+- 2022-10-20, **Robust Multitask Diffusion Normalized M-estimate Subband Adaptive Filtering Algorithm Over Adaptive Networks**, Wenjing Xu et.al., Paper: [http://arxiv.org/abs/2210.11284v1](http://arxiv.org/abs/2210.11284v1)
+- 2022-10-20, **VideoPipe 2022 Challenge: Real-World Video Understanding for Urban Pipe Inspection**, Yi Liu et.al., Paper: [http://arxiv.org/abs/2210.11158v1](http://arxiv.org/abs/2210.11158v1)
+- 2022-10-20, **Co-Training an Observer and an Evading Target**, André Brandenburger et.al., Paper: [http://arxiv.org/abs/2210.11126v1](http://arxiv.org/abs/2210.11126v1)
+- 2022-10-20, **Doc2Bot: Accessing Heterogeneous Documents via Conversational Bots**, Haomin Fu et.al., Paper: [http://arxiv.org/abs/2210.11060v1](http://arxiv.org/abs/2210.11060v1)
 - 2022-10-19, **Multi-view Tracking Using Weakly Supervised Human Motion Prediction**, Martin Engilberge et.al., Paper: [http://arxiv.org/abs/2210.10771v1](http://arxiv.org/abs/2210.10771v1), Code: **[https://github.com/cvlab-epfl/mvflow](https://github.com/cvlab-epfl/mvflow)**
 - 2022-10-19, **End-to-End Integration of Speech Recognition, Dereverberation, Beamforming, and Self-Supervised Learning Representation**, Yoshiki Masuyama et.al., Paper: [http://arxiv.org/abs/2210.10742v1](http://arxiv.org/abs/2210.10742v1)
 - 2022-10-19, **Robot Navigation with Reinforcement Learned Path Generation and Fine-Tuned Motion Control**, Longyuan Zhang et.al., Paper: [http://arxiv.org/abs/2210.10639v1](http://arxiv.org/abs/2210.10639v1)
