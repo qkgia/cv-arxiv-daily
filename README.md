@@ -122,7 +122,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-10-20**|**Self-Supervised Learning via Maximum Entropy Coding**|Xin Liu et.al.|[2210.11464v1](http://arxiv.org/abs/2210.11464v1)|**[link](https://github.com/xinliu20/mec)**|
-|**2022-10-20**|**Breaking Bad: A Dataset for Geometric Fracture and Reassembly**|Silvia Sellán et.al.|[2210.11463v1](http://arxiv.org/abs/2210.11463v1)|null|
+|**2022-10-20**|**Breaking Bad: A Dataset for Geometric Fracture and Reassembly**|Silvia Sellán et.al.|[2210.11463v1](http://arxiv.org/abs/2210.11463v1)|**[link](https://github.com/wuziyi616/multi_part_assembly)**|
 |**2022-10-20**|**Closed-loop Control of Catalytic Janus Microrobots**|Max Sokolich et.al.|[2210.11460v1](http://arxiv.org/abs/2210.11460v1)|null|
 |**2022-10-20**|**Cell tracking for live-cell microscopy using an activity-prioritized assignment strategy**|Karina Ruzaeva et.al.|[2210.11441v1](http://arxiv.org/abs/2210.11441v1)|**[link](https://github.com/kruzaeva/activity-cell-tracking)**|
 |**2022-10-20**|**Meeting Decision Tracker: Making Meeting Minutes with De-Contextualized Utterances**|Shumpei Inoue et.al.|[2210.11374v1](http://arxiv.org/abs/2210.11374v1)|null|

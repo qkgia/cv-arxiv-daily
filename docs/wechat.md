@@ -580,7 +580,7 @@
 ## Object Tracking
 
 - 2022-10-20, **Self-Supervised Learning via Maximum Entropy Coding**, Xin Liu et.al., Paper: [http://arxiv.org/abs/2210.11464v1](http://arxiv.org/abs/2210.11464v1), Code: **[https://github.com/xinliu20/mec](https://github.com/xinliu20/mec)**
-- 2022-10-20, **Breaking Bad: A Dataset for Geometric Fracture and Reassembly**, Silvia Sellán et.al., Paper: [http://arxiv.org/abs/2210.11463v1](http://arxiv.org/abs/2210.11463v1)
+- 2022-10-20, **Breaking Bad: A Dataset for Geometric Fracture and Reassembly**, Silvia Sellán et.al., Paper: [http://arxiv.org/abs/2210.11463v1](http://arxiv.org/abs/2210.11463v1), Code: **[https://github.com/wuziyi616/multi_part_assembly](https://github.com/wuziyi616/multi_part_assembly)**
 - 2022-10-20, **Closed-loop Control of Catalytic Janus Microrobots**, Max Sokolich et.al., Paper: [http://arxiv.org/abs/2210.11460v1](http://arxiv.org/abs/2210.11460v1)
 - 2022-10-20, **Cell tracking for live-cell microscopy using an activity-prioritized assignment strategy**, Karina Ruzaeva et.al., Paper: [http://arxiv.org/abs/2210.11441v1](http://arxiv.org/abs/2210.11441v1), Code: **[https://github.com/kruzaeva/activity-cell-tracking](https://github.com/kruzaeva/activity-cell-tracking)**
 - 2022-10-20, **Meeting Decision Tracker: Making Meeting Minutes with De-Contextualized Utterances**, Shumpei Inoue et.al., Paper: [http://arxiv.org/abs/2210.11374v1](http://arxiv.org/abs/2210.11374v1)
