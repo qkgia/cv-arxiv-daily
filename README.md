@@ -121,6 +121,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-21**|**Online Feedback Equilibrium Seeking**|Giuseppe Belgioioso et.al.|[2210.12088v1](http://arxiv.org/abs/2210.12088v1)|null|
+|**2022-10-21**|**Do Vision-and-Language Transformers Learn Grounded Predicate-Noun Dependencies?**|Mitja Nikolaus et.al.|[2210.12079v1](http://arxiv.org/abs/2210.12079v1)|**[link](https://github.com/mitjanikolaus/multimodal-predicate-noun-dependencies)**|
+|**2022-10-21**|**Exponentially Stable Adaptive Control Under Semi-PE Condition**|Anton Glushchenko et.al.|[2210.12037v1](http://arxiv.org/abs/2210.12037v1)|null|
+|**2022-10-21**|**Real-Time Constrained 6D Object-Pose Tracking of An In-Hand Suture Needle for Minimally Invasive Robotic Surgery**|Zih-Yun Chiu et.al.|[2210.11973v1](http://arxiv.org/abs/2210.11973v1)|null|
+|**2022-10-21**|**Modeling human observer detection in undersampled magnetic resonance imaging (MRI) reconstruction with total variation and wavelet sparsity regularization**|Alexandra G. O'Neill et.al.|[2210.11965v1](http://arxiv.org/abs/2210.11965v1)|null|
+|**2022-10-21**|**Adjoint-based Control of Three Dimensional Stokes Droplets**|Alexandru Fikl et.al.|[2210.11916v1](http://arxiv.org/abs/2210.11916v1)|null|
+|**2022-10-21**|**STAR: SQL Guided Pre-Training for Context-dependent Text-to-SQL Parsing**|Zefeng Cai et.al.|[2210.11888v1](http://arxiv.org/abs/2210.11888v1)|**[link](https://github.com/alibabaresearch/damo-convai)**|
+|**2022-10-21**|**3D Human Pose Estimation in Multi-View Operating Room Videos Using Differentiable Camera Projections**|Beerend G. A. Gerats et.al.|[2210.11826v1](http://arxiv.org/abs/2210.11826v1)|null|
+|**2022-10-21**|**Postural balance asymmetry and subsequent noncontact lower extremity musculoskeletal injuries among Tunisian soccer players with groin pain: A prospective case control study**|Fatma Chaari et.al.|[2210.11802v1](http://arxiv.org/abs/2210.11802v1)|null|
+|**2022-10-21**|**University of Cape Town's WMT22 System: Multilingual Machine Translation for Southern African Languages**|Khalid N. Elmadani et.al.|[2210.11757v1](http://arxiv.org/abs/2210.11757v1)|null|
 |**2022-10-20**|**Self-Supervised Learning via Maximum Entropy Coding**|Xin Liu et.al.|[2210.11464v1](http://arxiv.org/abs/2210.11464v1)|**[link](https://github.com/xinliu20/mec)**|
 |**2022-10-20**|**Breaking Bad: A Dataset for Geometric Fracture and Reassembly**|Silvia Sellán et.al.|[2210.11463v1](http://arxiv.org/abs/2210.11463v1)|**[link](https://github.com/wuziyi616/multi_part_assembly)**|
 |**2022-10-20**|**Closed-loop Control of Catalytic Janus Microrobots**|Max Sokolich et.al.|[2210.11460v1](http://arxiv.org/abs/2210.11460v1)|null|
@@ -614,6 +624,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-21**|**3D Human Pose Estimation in Multi-View Operating Room Videos Using Differentiable Camera Projections**|Beerend G. A. Gerats et.al.|[2210.11826v1](http://arxiv.org/abs/2210.11826v1)|null|
 |**2022-10-17**|**Temporal and Contextual Transformer for Multi-Camera Editing of TV Shows**|Anyi Rao et.al.|[2210.08737v1](http://arxiv.org/abs/2210.08737v1)|null|
 |**2022-09-28**|**Online Multi Camera-IMU Calibration**|Jacob Hartzer et.al.|[2209.13821v1](http://arxiv.org/abs/2209.13821v1)|**[link](https://github.com/unmannedlab/multi-cam-imu-cal)**|
 |**2022-09-05**|**MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**|Pavel Karpyshev et.al.|[2209.01936v1](http://arxiv.org/abs/2209.01936v1)|null|
