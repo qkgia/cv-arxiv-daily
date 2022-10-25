@@ -464,6 +464,7 @@
 
 ## MOT
 
+- 2022-10-24, **If You Are Careful, So Am I! How Robot Communicative Motions Can Influence Human Approach in a Joint Task**, Linda Lastrico et.al., Paper: [http://arxiv.org/abs/2210.13290v1](http://arxiv.org/abs/2210.13290v1)
 - 2022-10-20, **Cell tracking for live-cell microscopy using an activity-prioritized assignment strategy**, Karina Ruzaeva et.al., Paper: [http://arxiv.org/abs/2210.11441v1](http://arxiv.org/abs/2210.11441v1), Code: **[https://github.com/kruzaeva/activity-cell-tracking](https://github.com/kruzaeva/activity-cell-tracking)**
 - 2022-10-18, **Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion**, Zipeng Fu et.al., Paper: [http://arxiv.org/abs/2210.10044v1](http://arxiv.org/abs/2210.10044v1)
 - 2022-10-18, **Simple Emergent Action Representations from Multi-Task Policy Training**, Pu Hua et.al., Paper: [http://arxiv.org/abs/2210.09566v1](http://arxiv.org/abs/2210.09566v1)
@@ -579,6 +580,16 @@
 
 ## Object Tracking
 
+- 2022-10-24, **Cascading Biases: Investigating the Effect of Heuristic Annotation Strategies on Data and Models**, Chaitanya Malaviya et.al., Paper: [http://arxiv.org/abs/2210.13439v1](http://arxiv.org/abs/2210.13439v1), Code: **[https://github.com/chaitanyamalaviya/annotator-heuristics](https://github.com/chaitanyamalaviya/annotator-heuristics)**
+- 2022-10-24, **Instruction-Following Agents with Jointly Pre-Trained Vision-Language Models**, Hao Liu et.al., Paper: [http://arxiv.org/abs/2210.13431v1](http://arxiv.org/abs/2210.13431v1)
+- 2022-10-24, **Twitter Users' Behavioral Response to Toxic Replies**, Ana Aleksandric et.al., Paper: [http://arxiv.org/abs/2210.13420v1](http://arxiv.org/abs/2210.13420v1)
+- 2022-10-24, **Standardly embedded train tracks and pseudo-Anosov maps with minimum expansion factor**, Eriko Hironaka et.al., Paper: [http://arxiv.org/abs/2210.13418v1](http://arxiv.org/abs/2210.13418v1)
+- 2022-10-24, **Time-Varying ALIP Model and Robust Foot-Placement Control for Underactuated Bipedal Robot Walking on a Swaying Rigid Surface**, Yuan Gao et.al., Paper: [http://arxiv.org/abs/2210.13371v1](http://arxiv.org/abs/2210.13371v1)
+- 2022-10-24, **Spin State Evolution of (99942) Apophis during its 2029 Earth Encounter**, C. J. Benson et.al., Paper: [http://arxiv.org/abs/2210.13365v1](http://arxiv.org/abs/2210.13365v1)
+- 2022-10-24, **A Comparative Study of Compartmental Models for COVID-19 Transmission in Ontario, Canada**, Yuxuan Zhao et.al., Paper: [http://arxiv.org/abs/2210.13323v1](http://arxiv.org/abs/2210.13323v1)
+- 2022-10-24, **The influence of flux rope heating models on solar prominence formation**, N. Brughmans et.al., Paper: [http://arxiv.org/abs/2210.13195v1](http://arxiv.org/abs/2210.13195v1)
+- 2022-10-24, **Cipherfix: Mitigating Ciphertext Side-Channel Attacks in Software**, Jan Wichelmann et.al., Paper: [http://arxiv.org/abs/2210.13124v1](http://arxiv.org/abs/2210.13124v1)
+- 2022-10-24, **Track reconstruction at the LUXE experiment using quantum algorithms**, Arianna Crippa et.al., Paper: [http://arxiv.org/abs/2210.13021v1](http://arxiv.org/abs/2210.13021v1)
 - 2022-10-21, **Online Feedback Equilibrium Seeking**, Giuseppe Belgioioso et.al., Paper: [http://arxiv.org/abs/2210.12088v1](http://arxiv.org/abs/2210.12088v1)
 - 2022-10-21, **Do Vision-and-Language Transformers Learn Grounded Predicate-Noun Dependencies?**, Mitja Nikolaus et.al., Paper: [http://arxiv.org/abs/2210.12079v1](http://arxiv.org/abs/2210.12079v1), Code: **[https://github.com/mitjanikolaus/multimodal-predicate-noun-dependencies](https://github.com/mitjanikolaus/multimodal-predicate-noun-dependencies)**
 - 2022-10-21, **Exponentially Stable Adaptive Control Under Semi-PE Condition**, Anton Glushchenko et.al., Paper: [http://arxiv.org/abs/2210.12037v1](http://arxiv.org/abs/2210.12037v1)
@@ -1080,6 +1091,7 @@
 
 ## Multi-camera
 
+- 2022-10-23, **IDD-3D: Indian Driving Dataset for 3D Unstructured Road Scenes**, Shubham Dokania et.al., Paper: [http://arxiv.org/abs/2210.12878v1](http://arxiv.org/abs/2210.12878v1)
 - 2022-10-21, **3D Human Pose Estimation in Multi-View Operating Room Videos Using Differentiable Camera Projections**, Beerend G. A. Gerats et.al., Paper: [http://arxiv.org/abs/2210.11826v1](http://arxiv.org/abs/2210.11826v1)
 - 2022-10-17, **Temporal and Contextual Transformer for Multi-Camera Editing of TV Shows**, Anyi Rao et.al., Paper: [http://arxiv.org/abs/2210.08737v1](http://arxiv.org/abs/2210.08737v1)
 - 2022-09-28, **Online Multi Camera-IMU Calibration**, Jacob Hartzer et.al., Paper: [http://arxiv.org/abs/2209.13821v1](http://arxiv.org/abs/2209.13821v1), Code: **[https://github.com/unmannedlab/multi-cam-imu-cal](https://github.com/unmannedlab/multi-cam-imu-cal)**
