@@ -577,7 +577,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-10-24**|**Strong-TransCenter: Improved Multi-Object Tracking based on Transformers with Dense Representations**|Amit Galor et.al.|[2210.13570v1](http://arxiv.org/abs/2210.13570v1)|null|
+|**2022-10-24**|**Strong-TransCenter: Improved Multi-Object Tracking based on Transformers with Dense Representations**|Amit Galor et.al.|[2210.13570v1](http://arxiv.org/abs/2210.13570v1)|**[link](https://github.com/amitgalor18/stc_tracker)**|
 |**2022-10-24**|**If You Are Careful, So Am I! How Robot Communicative Motions Can Influence Human Approach in a Joint Task**|Linda Lastrico et.al.|[2210.13290v1](http://arxiv.org/abs/2210.13290v1)|null|
 |**2022-10-20**|**Cell tracking for live-cell microscopy using an activity-prioritized assignment strategy**|Karina Ruzaeva et.al.|[2210.11441v1](http://arxiv.org/abs/2210.11441v1)|**[link](https://github.com/kruzaeva/activity-cell-tracking)**|
 |**2022-10-18**|**Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion**|Zipeng Fu et.al.|[2210.10044v1](http://arxiv.org/abs/2210.10044v1)|null|
@@ -705,7 +705,7 @@ layout: default
 |**2022-10-25**|**Single crystal growth and magnetism of Sr3NaIrO6 and Sr3AgIrO6: tracking the J = 0 ground state of Ir5+**|Peng-Bo Song et.al.|[2210.13828v1](http://arxiv.org/abs/2210.13828v1)|null|
 |**2022-10-24**|**Filming Enhanced Ionization in an Ultrafast Triatomic Slingshot**|A. J. Howard et.al.|[2210.13645v1](http://arxiv.org/abs/2210.13645v1)|null|
 |**2022-10-24**|**Large-scale optical characterization of solid-state quantum emitters**|Madison Sutula et.al.|[2210.13643v1](http://arxiv.org/abs/2210.13643v1)|null|
-|**2022-10-24**|**Strong-TransCenter: Improved Multi-Object Tracking based on Transformers with Dense Representations**|Amit Galor et.al.|[2210.13570v1](http://arxiv.org/abs/2210.13570v1)|null|
+|**2022-10-24**|**Strong-TransCenter: Improved Multi-Object Tracking based on Transformers with Dense Representations**|Amit Galor et.al.|[2210.13570v1](http://arxiv.org/abs/2210.13570v1)|**[link](https://github.com/amitgalor18/stc_tracker)**|
 |**2022-10-24**|**Cascading Biases: Investigating the Effect of Heuristic Annotation Strategies on Data and Models**|Chaitanya Malaviya et.al.|[2210.13439v1](http://arxiv.org/abs/2210.13439v1)|**[link](https://github.com/chaitanyamalaviya/annotator-heuristics)**|
 |**2022-10-24**|**Instruction-Following Agents with Jointly Pre-Trained Vision-Language Models**|Hao Liu et.al.|[2210.13431v1](http://arxiv.org/abs/2210.13431v1)|null|
 |**2022-10-24**|**Twitter Users' Behavioral Response to Toxic Replies**|Ana Aleksandric et.al.|[2210.13420v1](http://arxiv.org/abs/2210.13420v1)|null|
