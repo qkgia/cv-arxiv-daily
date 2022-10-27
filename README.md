@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-26**|**ClipBot: an educational, physically impaired robot that learns to walk via genetic algorithm optimization**|Diego Ulisse Pizzagalli et.al.|[2210.14703v1](http://arxiv.org/abs/2210.14703v1)|null|
+|**2022-10-26**|**Stochastic Control of Launch Vehicle Upper Stage with Minimum-Variance Splash-Down**|Boris Benedikter et.al.|[2210.14610v1](http://arxiv.org/abs/2210.14610v1)|null|
+|**2022-10-26**|**End-to-end Tracking with a Multi-query Transformer**|Bruno Korbar et.al.|[2210.14601v1](http://arxiv.org/abs/2210.14601v1)|null|
 |**2022-10-24**|**Strong-TransCenter: Improved Multi-Object Tracking based on Transformers with Dense Representations**|Amit Galor et.al.|[2210.13570v1](http://arxiv.org/abs/2210.13570v1)|**[link](https://github.com/amitgalor18/stc_tracker)**|
 |**2022-10-24**|**If You Are Careful, So Am I! How Robot Communicative Motions Can Influence Human Approach in a Joint Task**|Linda Lastrico et.al.|[2210.13290v1](http://arxiv.org/abs/2210.13290v1)|null|
 |**2022-10-20**|**Cell tracking for live-cell microscopy using an activity-prioritized assignment strategy**|Karina Ruzaeva et.al.|[2210.11441v1](http://arxiv.org/abs/2210.11441v1)|**[link](https://github.com/kruzaeva/activity-cell-tracking)**|
@@ -123,6 +126,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-26**|**Continuum Robot State Estimation Using Gaussian Process Regression on $SE(3)$**|Sven Lilge et.al.|[2210.14842v1](http://arxiv.org/abs/2210.14842v1)|null|
+|**2022-10-26**|**The Contribution of Human Body Capacitance/Body-Area Electric Field To Individual and Collaborative Activity Recognition**|Sizhen Bian et.al.|[2210.14794v1](http://arxiv.org/abs/2210.14794v1)|null|
+|**2022-10-26**|**Privacy Analysis of Samsung's Crowd-Sourced Bluetooth Location Tracking System**|Tingfeng Yu et.al.|[2210.14702v1](http://arxiv.org/abs/2210.14702v1)|null|
+|**2022-10-26**|**End-to-end Tracking with a Multi-query Transformer**|Bruno Korbar et.al.|[2210.14601v1](http://arxiv.org/abs/2210.14601v1)|null|
+|**2022-10-26**|**Tracking-based distributed equilibrium seeking for aggregative games**|Guido Carnevale et.al.|[2210.14547v1](http://arxiv.org/abs/2210.14547v1)|null|
+|**2022-10-26**|**Position tracking of a varying number of sound sources with sliding permutation invariant training**|David Diaz-Guerra et.al.|[2210.14536v1](http://arxiv.org/abs/2210.14536v1)|null|
+|**2022-10-26**|**Uncertainty-based Meta-Reinforcement Learning for Robust Radar Tracking**|Julius Ott et.al.|[2210.14532v1](http://arxiv.org/abs/2210.14532v1)|null|
+|**2022-10-26**|**Callisto's atmosphere: First evidence for H2 and constraints on H2O**|Shane R. Carberry Mogan et.al.|[2210.14511v1](http://arxiv.org/abs/2210.14511v1)|null|
+|**2022-10-26**|**SimpleDG: Simple Domain Generalization Baseline without Bells and Whistles**|Zhi Lv et.al.|[2210.14507v1](http://arxiv.org/abs/2210.14507v1)|**[link](https://github.com/megvii-research/simpledg)**|
+|**2022-10-26**|**Can Transformer Attention Spread Give Insights Into Uncertainty of Detected and Tracked Objects?**|Felicia Ruppel et.al.|[2210.14391v1](http://arxiv.org/abs/2210.14391v1)|null|
 |**2022-10-25**|**Influence Functions for Sequence Tagging Models**|Sarthak Jain et.al.|[2210.14177v1](http://arxiv.org/abs/2210.14177v1)|null|
 |**2022-10-25**|**Pair Production Detectors for Gamma-ray Astrophysics**|David J. Thompson et.al.|[2210.14121v1](http://arxiv.org/abs/2210.14121v1)|null|
 |**2022-10-25**|**KnowGL: Knowledge Generation and Linking from Text**|Gaetano Rossiello et.al.|[2210.13952v1](http://arxiv.org/abs/2210.13952v1)|null|
