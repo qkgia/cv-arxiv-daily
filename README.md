@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-27**|**The 1st-place Solution for ECCV 2022 Multiple People Tracking in Group Dance Challenge**|Yuang Zhang et.al.|[2210.15281v1](http://arxiv.org/abs/2210.15281v1)|null|
 |**2022-10-26**|**ClipBot: an educational, physically impaired robot that learns to walk via genetic algorithm optimization**|Diego Ulisse Pizzagalli et.al.|[2210.14703v1](http://arxiv.org/abs/2210.14703v1)|null|
 |**2022-10-26**|**Stochastic Control of Launch Vehicle Upper Stage with Minimum-Variance Splash-Down**|Boris Benedikter et.al.|[2210.14610v1](http://arxiv.org/abs/2210.14610v1)|null|
 |**2022-10-26**|**End-to-end Tracking with a Multi-query Transformer**|Bruno Korbar et.al.|[2210.14601v1](http://arxiv.org/abs/2210.14601v1)|null|
@@ -126,6 +127,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-27**|**Deep Generative Models on 3D Representations: A Survey**|Zifan Shi et.al.|[2210.15663v1](http://arxiv.org/abs/2210.15663v1)|null|
+|**2022-10-27**|**Aerial Manipulation Using a Novel Unmanned Aerial Vehicle Cyber-Physical System**|Caiwu Ding et.al.|[2210.15632v1](http://arxiv.org/abs/2210.15632v1)|null|
+|**2022-10-27**|**Deep Convolutional Neural Networks for Multi-Target Tracking: A Transfer Learning Approach**|Damian Owerko et.al.|[2210.15539v1](http://arxiv.org/abs/2210.15539v1)|**[link](https://github.com/damowerko/mtt)**|
+|**2022-10-27**|**Learning Location from Shared Elevation Profiles in Fitness Apps: A Privacy Perspective**|Ulku Meteriz-Yildiran et.al.|[2210.15529v1](http://arxiv.org/abs/2210.15529v1)|null|
+|**2022-10-27**|**Point-Voxel Adaptive Feature Abstraction for Robust Point Cloud Classification**|Lifa Zhu et.al.|[2210.15514v1](http://arxiv.org/abs/2210.15514v1)|**[link](https://github.com/zhulf0804/pv-ada)**|
+|**2022-10-27**|**ProContEXT: Exploring Progressive Context Transformer for Tracking**|Jin-Peng Lan et.al.|[2210.15511v1](http://arxiv.org/abs/2210.15511v1)|null|
+|**2022-10-27**|**The 1st-place Solution for ECCV 2022 Multiple People Tracking in Group Dance Challenge**|Yuang Zhang et.al.|[2210.15281v1](http://arxiv.org/abs/2210.15281v1)|null|
+|**2022-10-27**|**A Fast and Accurate Pitch Estimation Algorithm Based on the Pseudo Wigner-Ville Distribution**|Yisi Liu et.al.|[2210.15272v1](http://arxiv.org/abs/2210.15272v1)|null|
+|**2022-10-27**|**Masked Autoencoders Are Articulatory Learners**|Ahmed Adel Attia et.al.|[2210.15195v1](http://arxiv.org/abs/2210.15195v1)|null|
+|**2022-10-27**|**Too Brittle To Touch: Comparing the Stability of Quantization and Distillation Towards Developing Lightweight Low-Resource MT Models**|Harshita Diddee et.al.|[2210.15184v1](http://arxiv.org/abs/2210.15184v1)|null|
 |**2022-10-26**|**Continuum Robot State Estimation Using Gaussian Process Regression on $SE(3)$**|Sven Lilge et.al.|[2210.14842v1](http://arxiv.org/abs/2210.14842v1)|null|
 |**2022-10-26**|**The Contribution of Human Body Capacitance/Body-Area Electric Field To Individual and Collaborative Activity Recognition**|Sizhen Bian et.al.|[2210.14794v1](http://arxiv.org/abs/2210.14794v1)|null|
 |**2022-10-26**|**Privacy Analysis of Samsung's Crowd-Sourced Bluetooth Location Tracking System**|Tingfeng Yu et.al.|[2210.14702v1](http://arxiv.org/abs/2210.14702v1)|null|
