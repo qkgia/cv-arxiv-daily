@@ -1,4 +1,4 @@
-> Updated on 2022.10.28
+> Updated on 2022.10.29
 
 ## SLAM
 
@@ -594,7 +594,7 @@
 - 2022-10-27, **The 1st-place Solution for ECCV 2022 Multiple People Tracking in Group Dance Challenge**, Yuang Zhang et.al., Paper: [http://arxiv.org/abs/2210.15281v1](http://arxiv.org/abs/2210.15281v1)
 - 2022-10-27, **A Fast and Accurate Pitch Estimation Algorithm Based on the Pseudo Wigner-Ville Distribution**, Yisi Liu et.al., Paper: [http://arxiv.org/abs/2210.15272v1](http://arxiv.org/abs/2210.15272v1)
 - 2022-10-27, **Masked Autoencoders Are Articulatory Learners**, Ahmed Adel Attia et.al., Paper: [http://arxiv.org/abs/2210.15195v1](http://arxiv.org/abs/2210.15195v1)
-- 2022-10-27, **Too Brittle To Touch: Comparing the Stability of Quantization and Distillation Towards Developing Lightweight Low-Resource MT Models**, Harshita Diddee et.al., Paper: [http://arxiv.org/abs/2210.15184v1](http://arxiv.org/abs/2210.15184v1)
+- 2022-10-27, **Too Brittle To Touch: Comparing the Stability of Quantization and Distillation Towards Developing Lightweight Low-Resource MT Models**, Harshita Diddee et.al., Paper: [http://arxiv.org/abs/2210.15184v1](http://arxiv.org/abs/2210.15184v1), Code: **[https://github.com/microsoft/inmt-lite](https://github.com/microsoft/inmt-lite)**
 - 2022-10-26, **Continuum Robot State Estimation Using Gaussian Process Regression on $SE(3)$**, Sven Lilge et.al., Paper: [http://arxiv.org/abs/2210.14842v1](http://arxiv.org/abs/2210.14842v1)
 - 2022-10-26, **The Contribution of Human Body Capacitance/Body-Area Electric Field To Individual and Collaborative Activity Recognition**, Sizhen Bian et.al., Paper: [http://arxiv.org/abs/2210.14794v1](http://arxiv.org/abs/2210.14794v1)
 - 2022-10-26, **Privacy Analysis of Samsung's Crowd-Sourced Bluetooth Location Tracking System**, Tingfeng Yu et.al., Paper: [http://arxiv.org/abs/2210.14702v1](http://arxiv.org/abs/2210.14702v1)
