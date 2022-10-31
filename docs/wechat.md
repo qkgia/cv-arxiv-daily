@@ -585,6 +585,16 @@
 
 ## Object Tracking
 
+- 2022-10-28, **ALICE upgrades for Run 4 and Run 5**, A. Ferretti et.al., Paper: [http://arxiv.org/abs/2210.16241v1](http://arxiv.org/abs/2210.16241v1)
+- 2022-10-28, **System Integration of ATLAS ITK Pixel DCS ASICs**, A. Qamesh et.al., Paper: [http://arxiv.org/abs/2210.16210v1](http://arxiv.org/abs/2210.16210v1)
+- 2022-10-28, **TripletTrack: 3D Object Tracking using Triplet Embeddings and LSTM**, Nicola Marinello et.al., Paper: [http://arxiv.org/abs/2210.16204v1](http://arxiv.org/abs/2210.16204v1)
+- 2022-10-28, **Target-Speaker Voice Activity Detection via Sequence-to-Sequence Prediction**, Ming Cheng et.al., Paper: [http://arxiv.org/abs/2210.16127v1](http://arxiv.org/abs/2210.16127v1)
+- 2022-10-28, **Precise Estimate of Charged Wino Decay Rate**, Masahiro Ibe et.al., Paper: [http://arxiv.org/abs/2210.16035v1](http://arxiv.org/abs/2210.16035v1)
+- 2022-10-28, **Generalized Laplacian Positional Encoding for Graph Representation Learning**, Sohir Maskey et.al., Paper: [http://arxiv.org/abs/2210.15956v1](http://arxiv.org/abs/2210.15956v1)
+- 2022-10-28, **Lyapunov-based Nonlinear Model Predictive Control for Attitude Trajectory Tracking of Unmanned Aerial Vehicles**, Duy Nam Bui et.al., Paper: [http://arxiv.org/abs/2210.15930v1](http://arxiv.org/abs/2210.15930v1)
+- 2022-10-28, **Phase II of the Keck Planet Imager and Characterizer: system-level laboratory characterization and preliminary on-sky commissioning**, Daniel Echeverri et.al., Paper: [http://arxiv.org/abs/2210.15915v1](http://arxiv.org/abs/2210.15915v1)
+- 2022-10-28, **Domain Adaptation of Machine Translation with Crowdworkers**, Makoto Morishita et.al., Paper: [http://arxiv.org/abs/2210.15861v1](http://arxiv.org/abs/2210.15861v1)
+- 2022-10-28, **Vox-Fusion: Dense Tracking and Mapping with Voxel-based Neural Implicit Representation**, Xingrui Yang et.al., Paper: [http://arxiv.org/abs/2210.15858v1](http://arxiv.org/abs/2210.15858v1), Code: **[https://github.com/zju3dv/vox-fusion](https://github.com/zju3dv/vox-fusion)**
 - 2022-10-27, **Deep Generative Models on 3D Representations: A Survey**, Zifan Shi et.al., Paper: [http://arxiv.org/abs/2210.15663v1](http://arxiv.org/abs/2210.15663v1)
 - 2022-10-27, **Aerial Manipulation Using a Novel Unmanned Aerial Vehicle Cyber-Physical System**, Caiwu Ding et.al., Paper: [http://arxiv.org/abs/2210.15632v1](http://arxiv.org/abs/2210.15632v1)
 - 2022-10-28, **Deep Convolutional Neural Networks for Multi-Target Tracking: A Transfer Learning Approach**, Damian Owerko et.al., Paper: [http://arxiv.org/abs/2210.15539v2](http://arxiv.org/abs/2210.15539v2), Code: **[https://github.com/damowerko/mtt](https://github.com/damowerko/mtt)**
