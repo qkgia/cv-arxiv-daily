@@ -464,6 +464,9 @@
 
 ## MOT
 
+- 2022-10-31, **Learning Modular Robot Visual-motor Locomotion Policies**, Julian Whitman et.al., Paper: [http://arxiv.org/abs/2210.17486v1](http://arxiv.org/abs/2210.17486v1)
+- 2022-10-29, **SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features**, Zhong-Min Tsai et.al., Paper: [http://arxiv.org/abs/2210.16572v1](http://arxiv.org/abs/2210.16572v1), Code: **[https://github.com/qa276390/searchtrack](https://github.com/qa276390/searchtrack)**
+- 2022-10-29, **Learning to Compute the Articulatory Representations of Speech with the MIRRORNET**, Yashish M. Siriwardena et.al., Paper: [http://arxiv.org/abs/2210.16454v1](http://arxiv.org/abs/2210.16454v1)
 - 2022-10-27, **The 1st-place Solution for ECCV 2022 Multiple People Tracking in Group Dance Challenge**, Yuang Zhang et.al., Paper: [http://arxiv.org/abs/2210.15281v1](http://arxiv.org/abs/2210.15281v1)
 - 2022-10-26, **ClipBot: an educational, physically impaired robot that learns to walk via genetic algorithm optimization**, Diego Ulisse Pizzagalli et.al., Paper: [http://arxiv.org/abs/2210.14703v1](http://arxiv.org/abs/2210.14703v1)
 - 2022-10-26, **Stochastic Control of Launch Vehicle Upper Stage with Minimum-Variance Splash-Down**, Boris Benedikter et.al., Paper: [http://arxiv.org/abs/2210.14610v1](http://arxiv.org/abs/2210.14610v1)
@@ -585,6 +588,16 @@
 
 ## Object Tracking
 
+- 2022-10-31, **Convergence Guarantees of a Distributed Network Equivalence Algorithm for Distribution-OPF**, Yunqi Luo et.al., Paper: [http://arxiv.org/abs/2210.17465v1](http://arxiv.org/abs/2210.17465v1)
+- 2022-10-31, **A proton-recoil track imaging system for fast neutrons: the RIPTIDE detector**, P. Console Camprini et.al., Paper: [http://arxiv.org/abs/2210.17431v1](http://arxiv.org/abs/2210.17431v1)
+- 2022-10-31, **RIS-Based Steerable Beamforming Antenna with Near-Field Eigenmode Feeder**, Krishan K. Tiwari et.al., Paper: [http://arxiv.org/abs/2210.17239v1](http://arxiv.org/abs/2210.17239v1)
+- 2022-10-31, **Lipschitz regularized gradient flows and latent generative particles**, Hyemin Gu et.al., Paper: [http://arxiv.org/abs/2210.17230v1](http://arxiv.org/abs/2210.17230v1), Code: **[https://github.com/hyemingu/lipschitz_regularized_generative_particles_algorithm](https://github.com/hyemingu/lipschitz_regularized_generative_particles_algorithm)**
+- 2022-10-31, **Mapping Extended Landmarks for Radar SLAM**, Shuai Sun et.al., Paper: [http://arxiv.org/abs/2210.17207v1](http://arxiv.org/abs/2210.17207v1)
+- 2022-10-31, **Investigation of the neutron imaging applications using fine-grained nuclear emulsion**, Abdul Muneem et.al., Paper: [http://arxiv.org/abs/2210.17026v1](http://arxiv.org/abs/2210.17026v1)
+- 2022-10-31, **GotFlow3D: Recurrent Graph Optimal Transport for Learning 3D Flow Motion in Particle Tracking**, Jiaming Liang et.al., Paper: [http://arxiv.org/abs/2210.17012v1](http://arxiv.org/abs/2210.17012v1)
+- 2022-10-31, **Ultrasonic imaging in highly heterogeneous backgrounds**, Fatemeh Pourahmadian et.al., Paper: [http://arxiv.org/abs/2210.16995v1](http://arxiv.org/abs/2210.16995v1)
+- 2022-10-30, **Translocation through conical pores: A direction-dependent process**, Andri Sharma et.al., Paper: [http://arxiv.org/abs/2210.16990v1](http://arxiv.org/abs/2210.16990v1)
+- 2022-10-30, **Foreign Object Debris Detection for Airport Pavement Images based on Self-supervised Localization and Vision Transformer**, Travis Munyer et.al., Paper: [http://arxiv.org/abs/2210.16901v1](http://arxiv.org/abs/2210.16901v1)
 - 2022-10-28, **ALICE upgrades for Run 4 and Run 5**, A. Ferretti et.al., Paper: [http://arxiv.org/abs/2210.16241v1](http://arxiv.org/abs/2210.16241v1)
 - 2022-10-28, **System Integration of ATLAS ITK Pixel DCS ASICs**, A. Qamesh et.al., Paper: [http://arxiv.org/abs/2210.16210v1](http://arxiv.org/abs/2210.16210v1)
 - 2022-10-28, **TripletTrack: 3D Object Tracking using Triplet Embeddings and LSTM**, Nicola Marinello et.al., Paper: [http://arxiv.org/abs/2210.16204v1](http://arxiv.org/abs/2210.16204v1)
