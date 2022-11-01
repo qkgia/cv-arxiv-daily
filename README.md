@@ -1,4 +1,4 @@
-## Updated on 2022.10.31
+## Updated on 2022.11.01
 
 ## MOT
 
@@ -683,7 +683,7 @@
 |**2022-10-23**|**IDD-3D: Indian Driving Dataset for 3D Unstructured Road Scenes**|Shubham Dokania et.al.|[2210.12878v1](http://arxiv.org/abs/2210.12878v1)|null|
 |**2022-10-21**|**3D Human Pose Estimation in Multi-View Operating Room Videos Using Differentiable Camera Projections**|Beerend G. A. Gerats et.al.|[2210.11826v1](http://arxiv.org/abs/2210.11826v1)|null|
 |**2022-10-17**|**Temporal and Contextual Transformer for Multi-Camera Editing of TV Shows**|Anyi Rao et.al.|[2210.08737v1](http://arxiv.org/abs/2210.08737v1)|null|
-|**2022-09-28**|**Online Multi Camera-IMU Calibration**|Jacob Hartzer et.al.|[2209.13821v1](http://arxiv.org/abs/2209.13821v1)|**[link](https://github.com/unmannedlab/multi-cam-imu-cal)**|
+|**2022-10-30**|**Online Multi Camera-IMU Calibration**|Jacob Hartzer et.al.|[2209.13821v2](http://arxiv.org/abs/2209.13821v2)|**[link](https://github.com/unmannedlab/multi-cam-imu-cal)**|
 |**2022-09-05**|**MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**|Pavel Karpyshev et.al.|[2209.01936v1](http://arxiv.org/abs/2209.01936v1)|null|
 |**2022-08-30**|**Synthehicle: Multi-Vehicle Multi-Camera Tracking in Virtual Cities**|Fabian Herzog et.al.|[2208.14167v1](http://arxiv.org/abs/2208.14167v1)|**[link](https://github.com/fubel/synthehicle)**|
 |**2022-10-03**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v2](http://arxiv.org/abs/2208.05963v2)|null|
