@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.01
+## Updated on 2022.11.02
 
 ## SLAM
 
@@ -705,7 +705,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-10-31**|**Convergence Guarantees of a Distributed Network Equivalence Algorithm for Distribution-OPF**|Yunqi Luo et.al.|[2210.17465v1](http://arxiv.org/abs/2210.17465v1)|null|
 |**2022-10-31**|**A proton-recoil track imaging system for fast neutrons: the RIPTIDE detector**|P. Console Camprini et.al.|[2210.17431v1](http://arxiv.org/abs/2210.17431v1)|null|
-|**2022-10-31**|**RIS-Based Steerable Beamforming Antenna with Near-Field Eigenmode Feeder**|Krishan K. Tiwari et.al.|[2210.17239v1](http://arxiv.org/abs/2210.17239v1)|null|
+|**2022-11-01**|**RIS-Based Steerable Beamforming Antenna with Near-Field Eigenmode Feeder**|Krishan K. Tiwari et.al.|[2210.17239v2](http://arxiv.org/abs/2210.17239v2)|null|
 |**2022-10-31**|**Lipschitz regularized gradient flows and latent generative particles**|Hyemin Gu et.al.|[2210.17230v1](http://arxiv.org/abs/2210.17230v1)|**[link](https://github.com/hyemingu/lipschitz_regularized_generative_particles_algorithm)**|
 |**2022-10-31**|**Mapping Extended Landmarks for Radar SLAM**|Shuai Sun et.al.|[2210.17207v1](http://arxiv.org/abs/2210.17207v1)|null|
 |**2022-10-31**|**Investigation of the neutron imaging applications using fine-grained nuclear emulsion**|Abdul Muneem et.al.|[2210.17026v1](http://arxiv.org/abs/2210.17026v1)|null|
