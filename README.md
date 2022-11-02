@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-01**|**Focal and Connectomic Mapping of Transiently Disrupted Brain Function**|Michael S. Elmalem et.al.|[2211.00393v1](http://arxiv.org/abs/2211.00393v1)|null|
 |**2022-10-31**|**Learning Modular Robot Visual-motor Locomotion Policies**|Julian Whitman et.al.|[2210.17486v1](http://arxiv.org/abs/2210.17486v1)|null|
 |**2022-10-29**|**SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features**|Zhong-Min Tsai et.al.|[2210.16572v1](http://arxiv.org/abs/2210.16572v1)|**[link](https://github.com/qa276390/searchtrack)**|
 |**2022-10-29**|**Learning to Compute the Articulatory Representations of Speech with the MIRRORNET**|Yashish M. Siriwardena et.al.|[2210.16454v1](http://arxiv.org/abs/2210.16454v1)|null|
@@ -130,6 +131,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-01**|**Dungeons and Data: A Large-Scale NetHack Dataset**|Eric Hambro et.al.|[2211.00539v1](http://arxiv.org/abs/2211.00539v1)|null|
+|**2022-11-01**|**Phase-based Ranging in Narrowband Systems with Missing/Interfered Tones**|Alireza Sheikh et.al.|[2211.00502v1](http://arxiv.org/abs/2211.00502v1)|null|
+|**2022-11-01**|**Real-time image-guided treatment of mobile tumors in proton therapy by a library of treatment plans: a simulation study**|Valentin Hamaide et.al.|[2211.00389v1](http://arxiv.org/abs/2211.00389v1)|null|
+|**2022-11-01**|**Seg&Struct: The Interplay Between Part Segmentation and Structure Inference for 3D Shape Parsing**|Jeonghyun Kim et.al.|[2211.00382v1](http://arxiv.org/abs/2211.00382v1)|null|
+|**2022-11-01**|**What drives a goalkeepers' decisions?**|Samer Fatayri et.al.|[2211.00374v1](http://arxiv.org/abs/2211.00374v1)|null|
+|**2022-11-01**|**Carbon Footprints on Inter-Domain Paths: Uncovering CO2 Tracks on Global Networks**|Seyedali Tabaeiaghdaei et.al.|[2211.00347v1](http://arxiv.org/abs/2211.00347v1)|null|
+|**2022-11-01**|**Comparative analysis of PV configurations for agrivoltaic systems in Europe**|Kamran Ali Khan Niazi et.al.|[2211.00331v1](http://arxiv.org/abs/2211.00331v1)|null|
+|**2022-11-01**|**Electroencephalography and mild cognitive impairment research: A scoping review and bibliometric analysis (ScoRBA)**|Adi Wijaya et.al.|[2211.00302v1](http://arxiv.org/abs/2211.00302v1)|null|
+|**2022-11-01**|**RF-CHORD: Towards Deployable RFID Localization System for Logistics Network**|Bo Liang et.al.|[2211.00272v1](http://arxiv.org/abs/2211.00272v1)|null|
+|**2022-11-01**|**Optimization of convolutional neural networks for background suppression in the PandaX-III experiment**|Shangning Xia et.al.|[2211.00237v1](http://arxiv.org/abs/2211.00237v1)|null|
 |**2022-10-31**|**Convergence Guarantees of a Distributed Network Equivalence Algorithm for Distribution-OPF**|Yunqi Luo et.al.|[2210.17465v1](http://arxiv.org/abs/2210.17465v1)|null|
 |**2022-10-31**|**A proton-recoil track imaging system for fast neutrons: the RIPTIDE detector**|P. Console Camprini et.al.|[2210.17431v1](http://arxiv.org/abs/2210.17431v1)|null|
 |**2022-11-01**|**RIS-Based Steerable Beamforming Antenna with Near-Field Eigenmode Feeder**|Krishan K. Tiwari et.al.|[2210.17239v2](http://arxiv.org/abs/2210.17239v2)|null|
