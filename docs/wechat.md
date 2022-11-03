@@ -464,6 +464,7 @@
 
 ## MOT
 
+- 2022-11-02, **The effects of delay on the HKB model of human motor coordination**, Lara I. Allen et.al., Paper: [http://arxiv.org/abs/2211.01273v1](http://arxiv.org/abs/2211.01273v1)
 - 2022-11-01, **Focal and Connectomic Mapping of Transiently Disrupted Brain Function**, Michael S. Elmalem et.al., Paper: [http://arxiv.org/abs/2211.00393v1](http://arxiv.org/abs/2211.00393v1)
 - 2022-10-31, **Learning Modular Robot Visual-motor Locomotion Policies**, Julian Whitman et.al., Paper: [http://arxiv.org/abs/2210.17486v1](http://arxiv.org/abs/2210.17486v1)
 - 2022-10-29, **SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features**, Zhong-Min Tsai et.al., Paper: [http://arxiv.org/abs/2210.16572v1](http://arxiv.org/abs/2210.16572v1), Code: **[https://github.com/qa276390/searchtrack](https://github.com/qa276390/searchtrack)**
@@ -589,6 +590,16 @@
 
 ## Object Tracking
 
+- 2022-11-02, **Executable Models and Instance Tracking for Decentralized Applications -- Towards an Architecture Based on Blockchains and Cloud Platforms**, Felix Härer et.al., Paper: [http://arxiv.org/abs/2211.01260v1](http://arxiv.org/abs/2211.01260v1)
+- 2022-11-02, **Road Markings Segmentation from LIDAR Point Clouds using Reflectivity Information**, Novel Certad et.al., Paper: [http://arxiv.org/abs/2211.01105v1](http://arxiv.org/abs/2211.01105v1)
+- 2022-11-02, **Track-based alignment for the BESIII CGEM detector in the cosmic-ray test**, A. Q. Guo et.al., Paper: [http://arxiv.org/abs/2211.01101v1](http://arxiv.org/abs/2211.01101v1)
+- 2022-11-02, **ADPTriage: Approximate Dynamic Programming for Bug Triage**, Hadi Jahanshahi et.al., Paper: [http://arxiv.org/abs/2211.00872v1](http://arxiv.org/abs/2211.00872v1), Code: **[https://github.com/hadijahanshahi/adptriage](https://github.com/hadijahanshahi/adptriage)**
+- 2022-11-02, **A sample-position-autocorrection system with precision better than 1 \um~in angle-resolved photoemission experiments**, Shaofeng Duan et.al., Paper: [http://arxiv.org/abs/2211.00823v1](http://arxiv.org/abs/2211.00823v1)
+- 2022-11-02, **Build a SRE Challenge System: Lessons from VoxSRC 2022 and CNSRC 2022**, Zhengyang Chen et.al., Paper: [http://arxiv.org/abs/2211.00815v1](http://arxiv.org/abs/2211.00815v1)
+- 2022-11-01, **Exploration of different parameter optimization algorithms within the context of ACTS software framework**, Rocky Bala Garg et.al., Paper: [http://arxiv.org/abs/2211.00764v1](http://arxiv.org/abs/2211.00764v1)
+- 2022-11-01, **Neuromorphic Twins for Networked Control and Decision-Making**, Holger Boche et.al., Paper: [http://arxiv.org/abs/2211.00755v1](http://arxiv.org/abs/2211.00755v1)
+- 2022-11-01, **BUbble Flow Field: a Simulation Framework for Evaluating Ultrasound Localization Microscopy Algorithms**, Marcelo Lerendegui et.al., Paper: [http://arxiv.org/abs/2211.00754v1](http://arxiv.org/abs/2211.00754v1)
+- 2022-11-01, **3DMODT: Attention-Guided Affinities for Joint Detection & Tracking in 3D Point Clouds**, Jyoti Kini et.al., Paper: [http://arxiv.org/abs/2211.00746v1](http://arxiv.org/abs/2211.00746v1)
 - 2022-11-01, **Dungeons and Data: A Large-Scale NetHack Dataset**, Eric Hambro et.al., Paper: [http://arxiv.org/abs/2211.00539v1](http://arxiv.org/abs/2211.00539v1)
 - 2022-11-01, **Phase-based Ranging in Narrowband Systems with Missing/Interfered Tones**, Alireza Sheikh et.al., Paper: [http://arxiv.org/abs/2211.00502v1](http://arxiv.org/abs/2211.00502v1)
 - 2022-11-01, **Real-time image-guided treatment of mobile tumors in proton therapy by a library of treatment plans: a simulation study**, Valentin Hamaide et.al., Paper: [http://arxiv.org/abs/2211.00389v1](http://arxiv.org/abs/2211.00389v1)
