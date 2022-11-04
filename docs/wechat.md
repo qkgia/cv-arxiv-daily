@@ -464,6 +464,10 @@
 
 ## MOT
 
+- 2022-11-03, **Extending the analogy between intracellular motion in mammalian cells and glassy dynamics**, B. Corci et.al., Paper: [http://arxiv.org/abs/2211.02019v1](http://arxiv.org/abs/2211.02019v1)
+- 2022-11-03, **Discussion of Features for Acoustic Anomaly Detection under Industrial Disturbing Noise in an End-of-Line Test of Geared Motors**, Peter Wissbrock et.al., Paper: [http://arxiv.org/abs/2211.01716v1](http://arxiv.org/abs/2211.01716v1)
+- 2022-11-03, **Cutting Through the Noise: An Empirical Comparison of Psychoacoustic and Envelope-based Features for Machinery Fault Detection**, Peter Wißbrock et.al., Paper: [http://arxiv.org/abs/2211.01704v1](http://arxiv.org/abs/2211.01704v1)
+- 2022-11-03, **Adversarial Data Augmentation Using VAE-GAN for Disordered Speech Recognition**, Zengrui Jin et.al., Paper: [http://arxiv.org/abs/2211.01646v1](http://arxiv.org/abs/2211.01646v1)
 - 2022-11-02, **The effects of delay on the HKB model of human motor coordination**, Lara I. Allen et.al., Paper: [http://arxiv.org/abs/2211.01273v1](http://arxiv.org/abs/2211.01273v1)
 - 2022-11-01, **Focal and Connectomic Mapping of Transiently Disrupted Brain Function**, Michael S. Elmalem et.al., Paper: [http://arxiv.org/abs/2211.00393v1](http://arxiv.org/abs/2211.00393v1)
 - 2022-10-31, **Learning Modular Robot Visual-motor Locomotion Policies**, Julian Whitman et.al., Paper: [http://arxiv.org/abs/2210.17486v1](http://arxiv.org/abs/2210.17486v1)
@@ -590,6 +594,16 @@
 
 ## Object Tracking
 
+- 2022-11-03, **Carbon Monitor Europe, near-real-time daily CO$_2$ emissions for 27 EU countries and the United Kingdom**, Piyu Ke et.al., Paper: [http://arxiv.org/abs/2211.01944v1](http://arxiv.org/abs/2211.01944v1)
+- 2022-11-03, **DyOb-SLAM : Dynamic Object Tracking SLAM System**, Rushmian Annoy Wadud et.al., Paper: [http://arxiv.org/abs/2211.01941v1](http://arxiv.org/abs/2211.01941v1)
+- 2022-11-03, **Seeing the Unseen: Errors and Bias in Visual Datasets**, Hongrui Jin et.al., Paper: [http://arxiv.org/abs/2211.01847v1](http://arxiv.org/abs/2211.01847v1)
+- 2022-11-03, **Video Event Extraction via Tracking Visual States of Arguments**, Guang Yang et.al., Paper: [http://arxiv.org/abs/2211.01781v1](http://arxiv.org/abs/2211.01781v1)
+- 2022-11-03, **An Empirical Bayes Analysis of Vehicle Trajectory Models**, Yue Yao et.al., Paper: [http://arxiv.org/abs/2211.01696v1](http://arxiv.org/abs/2211.01696v1)
+- 2022-11-03, **Study on the reusability of fluorescent nuclear track detectors using optical bleaching**, Abdul Muneem et.al., Paper: [http://arxiv.org/abs/2211.01606v1](http://arxiv.org/abs/2211.01606v1)
+- 2022-11-03, **The ISCSLP 2022 Intelligent Cockpit Speech Recognition Challenge (ICSRC): Dataset, Tracks, Baseline and Results**, Ao Zhang et.al., Paper: [http://arxiv.org/abs/2211.01585v1](http://arxiv.org/abs/2211.01585v1)
+- 2022-11-03, **Sensor Control for Information Gain in Dynamic, Sparse and Partially Observed Environments**, J. Brian Burns et.al., Paper: [http://arxiv.org/abs/2211.01527v1](http://arxiv.org/abs/2211.01527v1)
+- 2022-11-02, **The Cosmic-Ray Induced Sputtering Process On Icy Grains**, Arslan Özgün et.al., Paper: [http://arxiv.org/abs/2211.01511v1](http://arxiv.org/abs/2211.01511v1)
+- 2022-11-02, **The fate of discrete torsion on resolved heterotic Z2xZ2 orbifolds using (0,2) GLSMs**, A. E. Faraggi et.al., Paper: [http://arxiv.org/abs/2211.01397v1](http://arxiv.org/abs/2211.01397v1)
 - 2022-11-02, **Executable Models and Instance Tracking for Decentralized Applications -- Towards an Architecture Based on Blockchains and Cloud Platforms**, Felix Härer et.al., Paper: [http://arxiv.org/abs/2211.01260v1](http://arxiv.org/abs/2211.01260v1)
 - 2022-11-02, **Road Markings Segmentation from LIDAR Point Clouds using Reflectivity Information**, Novel Certad et.al., Paper: [http://arxiv.org/abs/2211.01105v1](http://arxiv.org/abs/2211.01105v1)
 - 2022-11-02, **Track-based alignment for the BESIII CGEM detector in the cosmic-ray test**, A. Q. Guo et.al., Paper: [http://arxiv.org/abs/2211.01101v1](http://arxiv.org/abs/2211.01101v1)
