@@ -1,4 +1,4 @@
-> Updated on 2022.11.03
+> Updated on 2022.11.04
 
 ## SLAM
 
@@ -596,7 +596,7 @@
 - 2022-11-02, **ADPTriage: Approximate Dynamic Programming for Bug Triage**, Hadi Jahanshahi et.al., Paper: [http://arxiv.org/abs/2211.00872v1](http://arxiv.org/abs/2211.00872v1), Code: **[https://github.com/hadijahanshahi/adptriage](https://github.com/hadijahanshahi/adptriage)**
 - 2022-11-02, **A sample-position-autocorrection system with precision better than 1 \um~in angle-resolved photoemission experiments**, Shaofeng Duan et.al., Paper: [http://arxiv.org/abs/2211.00823v1](http://arxiv.org/abs/2211.00823v1)
 - 2022-11-02, **Build a SRE Challenge System: Lessons from VoxSRC 2022 and CNSRC 2022**, Zhengyang Chen et.al., Paper: [http://arxiv.org/abs/2211.00815v1](http://arxiv.org/abs/2211.00815v1)
-- 2022-11-01, **Exploration of different parameter optimization algorithms within the context of ACTS software framework**, Rocky Bala Garg et.al., Paper: [http://arxiv.org/abs/2211.00764v1](http://arxiv.org/abs/2211.00764v1)
+- 2022-11-03, **Exploration of different parameter optimization algorithms within the context of ACTS software framework**, Rocky Bala Garg et.al., Paper: [http://arxiv.org/abs/2211.00764v2](http://arxiv.org/abs/2211.00764v2)
 - 2022-11-01, **Neuromorphic Twins for Networked Control and Decision-Making**, Holger Boche et.al., Paper: [http://arxiv.org/abs/2211.00755v1](http://arxiv.org/abs/2211.00755v1)
 - 2022-11-01, **BUbble Flow Field: a Simulation Framework for Evaluating Ultrasound Localization Microscopy Algorithms**, Marcelo Lerendegui et.al., Paper: [http://arxiv.org/abs/2211.00754v1](http://arxiv.org/abs/2211.00754v1)
 - 2022-11-01, **3DMODT: Attention-Guided Affinities for Joint Detection & Tracking in 3D Point Clouds**, Jyoti Kini et.al., Paper: [http://arxiv.org/abs/2211.00746v1](http://arxiv.org/abs/2211.00746v1)
