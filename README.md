@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-07**|**Heavy-Tailed Loss Frequencies from Mixtures of Negative Binomial and Poisson Counts**|Jiansheng Dai et.al.|[2211.03611v1](http://arxiv.org/abs/2211.03611v1)|null|
+|**2022-11-07**|**Realisation of Bullard's disc dynamo**|R. A. Avalos-Zúñiga et.al.|[2211.03377v1](http://arxiv.org/abs/2211.03377v1)|null|
 |**2022-10-28**|**Spatial Graph Signal Interpolation with an Application for Merging BCI Datasets with Various Dimensionalities**|Yassine El Ouahidi et.al.|[2211.02624v1](http://arxiv.org/abs/2211.02624v1)|null|
 |**2022-11-03**|**Extending the analogy between intracellular motion in mammalian cells and glassy dynamics**|B. Corci et.al.|[2211.02019v1](http://arxiv.org/abs/2211.02019v1)|null|
 |**2022-11-03**|**Discussion of Features for Acoustic Anomaly Detection under Industrial Disturbing Noise in an End-of-Line Test of Geared Motors**|Peter Wissbrock et.al.|[2211.01716v1](http://arxiv.org/abs/2211.01716v1)|null|
@@ -137,6 +139,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-07**|**Novel Muscle Monitoring by Radiomyography(RMG) and Application to Hand Gesture Recognition**|Zijing Zhang et.al.|[2211.03767v1](http://arxiv.org/abs/2211.03767v1)|null|
+|**2022-11-07**|**TAP-Vid: A Benchmark for Tracking Any Point in a Video**|Carl Doersch et.al.|[2211.03726v1](http://arxiv.org/abs/2211.03726v1)|null|
+|**2022-11-07**|**Counting States: A Combinatorial Analysis of SQM Fragmentation**|A. Bernardo et.al.|[2211.03687v1](http://arxiv.org/abs/2211.03687v1)|null|
+|**2022-11-07**|**Channel Tracking for RIS-aided mmWave Communications Under High Mobility Scenarios**|Yu Liu et.al.|[2211.03671v1](http://arxiv.org/abs/2211.03671v1)|null|
+|**2022-11-07**|**Towards Devising A Fund Management System Using Blockchain**|Nibula Bente Rashid et.al.|[2211.03613v1](http://arxiv.org/abs/2211.03613v1)|null|
+|**2022-11-07**|**ATLAS: Deployment, Control Platform and First RSO Measurements**|João Pandeirada et.al.|[2211.03586v1](http://arxiv.org/abs/2211.03586v1)|null|
+|**2022-11-07**|**Spatiotemporal forecasting of track geometry irregularities with exogenous factors**|Katsuya Kosukegawa et.al.|[2211.03549v1](http://arxiv.org/abs/2211.03549v1)|**[link](https://github.com/kosukatsu/track_irregularity_forecasting)**|
+|**2022-11-07**|**Non-Line-of-Sight Passive Acoustic Localization Around Corners**|Jeremy Boger-Lombard et.al.|[2211.03453v1](http://arxiv.org/abs/2211.03453v1)|null|
+|**2022-11-07**|**XAI-BayesHAR: A novel Framework for Human Activity Recognition with Integrated Uncertainty and Shapely Values**|Anand Dubey et.al.|[2211.03451v1](http://arxiv.org/abs/2211.03451v1)|null|
+|**2022-11-07**|**How to Coordinate Edge Devices for Over-the-Air Federated Learning?**|Mohammad Ali Sedaghat et.al.|[2211.03449v1](http://arxiv.org/abs/2211.03449v1)|null|
 |**2022-11-04**|**HoloLens 2 Sensor Streaming**|Juan C. Dibene et.al.|[2211.02648v1](http://arxiv.org/abs/2211.02648v1)|null|
 |**2022-11-04**|**A Large-Scale Study of a Sleep Tracking and Improving Device with Closed-loop and Personalized Real-time Acoustic Stimulation**|Anh Nguyen et.al.|[2211.02592v1](http://arxiv.org/abs/2211.02592v1)|null|
 |**2022-11-04**|**Space-time finite element methods for distributed optimal control of the wave equation**|Richard Löscher et.al.|[2211.02562v1](http://arxiv.org/abs/2211.02562v1)|null|
