@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.11.08
+## Updated on 2022.11.09
 
 ## SLAM
 
@@ -713,7 +713,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-11-07**|**Novel Muscle Monitoring by Radiomyography(RMG) and Application to Hand Gesture Recognition**|Zijing Zhang et.al.|[2211.03767v1](http://arxiv.org/abs/2211.03767v1)|null|
-|**2022-11-07**|**TAP-Vid: A Benchmark for Tracking Any Point in a Video**|Carl Doersch et.al.|[2211.03726v1](http://arxiv.org/abs/2211.03726v1)|null|
+|**2022-11-07**|**TAP-Vid: A Benchmark for Tracking Any Point in a Video**|Carl Doersch et.al.|[2211.03726v1](http://arxiv.org/abs/2211.03726v1)|**[link](https://github.com/deepmind/tapnet)**|
 |**2022-11-07**|**Counting States: A Combinatorial Analysis of SQM Fragmentation**|A. Bernardo et.al.|[2211.03687v1](http://arxiv.org/abs/2211.03687v1)|null|
 |**2022-11-07**|**Channel Tracking for RIS-aided mmWave Communications Under High Mobility Scenarios**|Yu Liu et.al.|[2211.03671v1](http://arxiv.org/abs/2211.03671v1)|null|
 |**2022-11-07**|**Towards Devising A Fund Management System Using Blockchain**|Nibula Bente Rashid et.al.|[2211.03613v1](http://arxiv.org/abs/2211.03613v1)|null|
@@ -721,7 +721,7 @@ layout: default
 |**2022-11-07**|**Spatiotemporal forecasting of track geometry irregularities with exogenous factors**|Katsuya Kosukegawa et.al.|[2211.03549v1](http://arxiv.org/abs/2211.03549v1)|**[link](https://github.com/kosukatsu/track_irregularity_forecasting)**|
 |**2022-11-07**|**Non-Line-of-Sight Passive Acoustic Localization Around Corners**|Jeremy Boger-Lombard et.al.|[2211.03453v1](http://arxiv.org/abs/2211.03453v1)|null|
 |**2022-11-07**|**XAI-BayesHAR: A novel Framework for Human Activity Recognition with Integrated Uncertainty and Shapely Values**|Anand Dubey et.al.|[2211.03451v1](http://arxiv.org/abs/2211.03451v1)|null|
-|**2022-11-07**|**How to Coordinate Edge Devices for Over-the-Air Federated Learning?**|Mohammad Ali Sedaghat et.al.|[2211.03449v1](http://arxiv.org/abs/2211.03449v1)|null|
+|**2022-11-08**|**How to Coordinate Edge Devices for Over-the-Air Federated Learning?**|Mohammad Ali Sedaghat et.al.|[2211.03449v2](http://arxiv.org/abs/2211.03449v2)|null|
 |**2022-11-04**|**HoloLens 2 Sensor Streaming**|Juan C. Dibene et.al.|[2211.02648v1](http://arxiv.org/abs/2211.02648v1)|null|
 |**2022-11-04**|**A Large-Scale Study of a Sleep Tracking and Improving Device with Closed-loop and Personalized Real-time Acoustic Stimulation**|Anh Nguyen et.al.|[2211.02592v1](http://arxiv.org/abs/2211.02592v1)|null|
 |**2022-11-04**|**Space-time finite element methods for distributed optimal control of the wave equation**|Richard Löscher et.al.|[2211.02562v1](http://arxiv.org/abs/2211.02562v1)|null|
