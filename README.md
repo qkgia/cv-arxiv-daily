@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-08**|**Effective Diffusion and transport coherence in presence of inhomogeneous temeprature: Piecewise linear potential**|Ronald Benjamin et.al.|[2211.04421v1](http://arxiv.org/abs/2211.04421v1)|null|
+|**2022-11-08**|**Two-photon real-time device for single-particle holographic tracking (red shot)**|Florian Semmer et.al.|[2211.04114v1](http://arxiv.org/abs/2211.04114v1)|null|
+|**2022-11-07**|**Adiabatic monoparametric autonomous motors enabled by self-induced nonconservative forces**|Arkady Kurnosov et.al.|[2211.03841v1](http://arxiv.org/abs/2211.03841v1)|null|
 |**2022-11-07**|**Heavy-Tailed Loss Frequencies from Mixtures of Negative Binomial and Poisson Counts**|Jiansheng Dai et.al.|[2211.03611v1](http://arxiv.org/abs/2211.03611v1)|null|
 |**2022-11-07**|**Realisation of Bullard's disc dynamo**|R. A. Avalos-Zúñiga et.al.|[2211.03377v1](http://arxiv.org/abs/2211.03377v1)|null|
 |**2022-10-28**|**Spatial Graph Signal Interpolation with an Application for Merging BCI Datasets with Various Dimensionalities**|Yassine El Ouahidi et.al.|[2211.02624v1](http://arxiv.org/abs/2211.02624v1)|null|
@@ -139,6 +142,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-08**|**Quantum Persistent Homology for Time Series**|Bernardo Ameneyro et.al.|[2211.04465v1](http://arxiv.org/abs/2211.04465v1)|null|
+|**2022-11-08**|**SLATE: A Sequence Labeling Approach for Task Extraction from Free-form Inked Content**|Apurva Gandhi et.al.|[2211.04454v1](http://arxiv.org/abs/2211.04454v1)|**[link](https://github.com/slateauthors/slate)**|
+|**2022-11-08**|**Developing a data fusion concept for radar and optical ground based SST station**|Bruno Coelho et.al.|[2211.04443v1](http://arxiv.org/abs/2211.04443v1)|null|
+|**2022-11-08**|**Review and Analysis of Pain Research Literature through Keyword Co-occurrence Networks**|Burcu Ozek et.al.|[2211.04289v1](http://arxiv.org/abs/2211.04289v1)|null|
+|**2022-11-08**|**Particle identification with the cluster counting technique for the IDEA drift chamber**|Claudio Caputo et.al.|[2211.04220v1](http://arxiv.org/abs/2211.04220v1)|null|
+|**2022-11-08**|**Intelligent Surface Enabled Sensing-Assisted Communication**|Kaitao Meng et.al.|[2211.04200v1](http://arxiv.org/abs/2211.04200v1)|null|
+|**2022-11-08**|**The nature of anomalous period increase in the pulsating variable V725 Sgr**|Yuri A. Fadeyev et.al.|[2211.04147v1](http://arxiv.org/abs/2211.04147v1)|null|
+|**2022-11-08**|**Two-photon real-time device for single-particle holographic tracking (red shot)**|Florian Semmer et.al.|[2211.04114v1](http://arxiv.org/abs/2211.04114v1)|null|
+|**2022-11-08**|**ShaSTA: Modeling Shape and Spatio-Temporal Affinities for 3D Multi-Object Tracking**|Tara Sadjadpour et.al.|[2211.03919v1](http://arxiv.org/abs/2211.03919v1)|null|
+|**2022-11-07**|**Models for Metal-Poor Stars with Different Initial Abundances of C, N, O, Mg, and Si. III. Grids of Isochrones for $-2.5 \le$ [Fe/H] $\le -0.5$ and Helium Abundances $Y = 0.25$ and $0.29$ at Each Metallicity**|Don A. VandenBerg et.al.|[2211.03913v1](http://arxiv.org/abs/2211.03913v1)|null|
 |**2022-11-07**|**Novel Muscle Monitoring by Radiomyography(RMG) and Application to Hand Gesture Recognition**|Zijing Zhang et.al.|[2211.03767v1](http://arxiv.org/abs/2211.03767v1)|null|
 |**2022-11-07**|**TAP-Vid: A Benchmark for Tracking Any Point in a Video**|Carl Doersch et.al.|[2211.03726v1](http://arxiv.org/abs/2211.03726v1)|**[link](https://github.com/deepmind/tapnet)**|
 |**2022-11-07**|**Counting States: A Combinatorial Analysis of SQM Fragmentation**|A. Bernardo et.al.|[2211.03687v1](http://arxiv.org/abs/2211.03687v1)|null|
