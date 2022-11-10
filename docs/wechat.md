@@ -600,6 +600,16 @@
 
 ## Object Tracking
 
+- 2022-11-09, **A pre-time-zero spatiotemporal microscopy technique for the ultrasensitive determination of the thermal diffusivity of thin films**, Sebin Varghese et.al., Paper: [http://arxiv.org/abs/2211.04999v1](http://arxiv.org/abs/2211.04999v1)
+- 2022-11-09, **RL-DWA Omnidirectional Motion Planning for Person Following in Domestic Assistance and Monitoring**, Andrea Eirale et.al., Paper: [http://arxiv.org/abs/2211.04993v1](http://arxiv.org/abs/2211.04993v1)
+- 2022-11-09, **Artificial intelligence for improved fitting of trajectories of elementary particles in inhomogeneous dense materials immersed in a magnetic field**, Saúl Alonso-Monsalve et.al., Paper: [http://arxiv.org/abs/2211.04890v1](http://arxiv.org/abs/2211.04890v1)
+- 2022-11-09, **ART/ATK: A research platform for assessing and mitigating the sim-to-real gap in robotics and autonomous vehicle engineering**, Asher Elmquist et.al., Paper: [http://arxiv.org/abs/2211.04886v1](http://arxiv.org/abs/2211.04886v1)
+- 2022-11-09, **Trackerless freehand ultrasound with sequence modelling and auxiliary transformation over past and future frames**, Qi Li et.al., Paper: [http://arxiv.org/abs/2211.04867v1](http://arxiv.org/abs/2211.04867v1), Code: **[https://github.com/ucl-candi/freehand](https://github.com/ucl-candi/freehand)**
+- 2022-11-09, **Future ALICE upgrades for Run 4 and Beyond**, H. Sebastian Scheid et.al., Paper: [http://arxiv.org/abs/2211.04802v1](http://arxiv.org/abs/2211.04802v1)
+- 2022-11-09, **Bayesian deep learning for error estimation in the analysis of anomalous diffusion**, Henrik Seckler et.al., Paper: [http://arxiv.org/abs/2211.04779v1](http://arxiv.org/abs/2211.04779v1)
+- 2022-11-09, **Dynamic Slicing by On-demand Re-execution**, Ivan Postolski et.al., Paper: [http://arxiv.org/abs/2211.04683v1](http://arxiv.org/abs/2211.04683v1)
+- 2022-11-09, **Gaussian Process Learning-Based Model Predictive Control for Safe Interactions of a Platoon of Autonomous and Human-Driven Vehicles**, Jie Wang et.al., Paper: [http://arxiv.org/abs/2211.04665v1](http://arxiv.org/abs/2211.04665v1)
+- 2022-11-09, **MEVID: Multi-view Extended Videos with Identities for Video Person Re-Identification**, Daniel Davila et.al., Paper: [http://arxiv.org/abs/2211.04656v1](http://arxiv.org/abs/2211.04656v1)
 - 2022-11-08, **Quantum Persistent Homology for Time Series**, Bernardo Ameneyro et.al., Paper: [http://arxiv.org/abs/2211.04465v1](http://arxiv.org/abs/2211.04465v1)
 - 2022-11-08, **SLATE: A Sequence Labeling Approach for Task Extraction from Free-form Inked Content**, Apurva Gandhi et.al., Paper: [http://arxiv.org/abs/2211.04454v1](http://arxiv.org/abs/2211.04454v1), Code: **[https://github.com/slateauthors/slate](https://github.com/slateauthors/slate)**
 - 2022-11-08, **Developing a data fusion concept for radar and optical ground based SST station**, Bruno Coelho et.al., Paper: [http://arxiv.org/abs/2211.04443v1](http://arxiv.org/abs/2211.04443v1)
