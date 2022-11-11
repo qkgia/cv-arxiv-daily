@@ -1,4 +1,4 @@
-> Updated on 2022.11.10
+> Updated on 2022.11.11
 
 ## SLAM
 
@@ -467,7 +467,7 @@
 - 2022-11-08, **Effective Diffusion and transport coherence in presence of inhomogeneous temeprature: Piecewise linear potential**, Ronald Benjamin et.al., Paper: [http://arxiv.org/abs/2211.04421v1](http://arxiv.org/abs/2211.04421v1)
 - 2022-11-08, **Two-photon real-time device for single-particle holographic tracking (red shot)**, Florian Semmer et.al., Paper: [http://arxiv.org/abs/2211.04114v1](http://arxiv.org/abs/2211.04114v1)
 - 2022-11-07, **Adiabatic monoparametric autonomous motors enabled by self-induced nonconservative forces**, Arkady Kurnosov et.al., Paper: [http://arxiv.org/abs/2211.03841v1](http://arxiv.org/abs/2211.03841v1)
-- 2022-11-07, **Heavy-Tailed Loss Frequencies from Mixtures of Negative Binomial and Poisson Counts**, Jiansheng Dai et.al., Paper: [http://arxiv.org/abs/2211.03611v1](http://arxiv.org/abs/2211.03611v1)
+- 2022-11-10, **Heavy-Tailed Loss Frequencies from Mixtures of Negative Binomial and Poisson Counts**, Jiansheng Dai et.al., Paper: [http://arxiv.org/abs/2211.03611v2](http://arxiv.org/abs/2211.03611v2)
 - 2022-11-07, **Realisation of Bullard's disc dynamo**, R. A. Avalos-Zúñiga et.al., Paper: [http://arxiv.org/abs/2211.03377v1](http://arxiv.org/abs/2211.03377v1)
 - 2022-10-28, **Spatial Graph Signal Interpolation with an Application for Merging BCI Datasets with Various Dimensionalities**, Yassine El Ouahidi et.al., Paper: [http://arxiv.org/abs/2211.02624v1](http://arxiv.org/abs/2211.02624v1)
 - 2022-11-03, **Extending the analogy between intracellular motion in mammalian cells and glassy dynamics**, B. Corci et.al., Paper: [http://arxiv.org/abs/2211.02019v1](http://arxiv.org/abs/2211.02019v1)
@@ -600,7 +600,7 @@
 
 ## Object Tracking
 
-- 2022-11-09, **A pre-time-zero spatiotemporal microscopy technique for the ultrasensitive determination of the thermal diffusivity of thin films**, Sebin Varghese et.al., Paper: [http://arxiv.org/abs/2211.04999v1](http://arxiv.org/abs/2211.04999v1)
+- 2022-11-10, **A pre-time-zero spatiotemporal microscopy technique for the ultrasensitive determination of the thermal diffusivity of thin films**, Sebin Varghese et.al., Paper: [http://arxiv.org/abs/2211.04999v2](http://arxiv.org/abs/2211.04999v2)
 - 2022-11-09, **RL-DWA Omnidirectional Motion Planning for Person Following in Domestic Assistance and Monitoring**, Andrea Eirale et.al., Paper: [http://arxiv.org/abs/2211.04993v1](http://arxiv.org/abs/2211.04993v1)
 - 2022-11-09, **Artificial intelligence for improved fitting of trajectories of elementary particles in inhomogeneous dense materials immersed in a magnetic field**, Saúl Alonso-Monsalve et.al., Paper: [http://arxiv.org/abs/2211.04890v1](http://arxiv.org/abs/2211.04890v1)
 - 2022-11-09, **ART/ATK: A research platform for assessing and mitigating the sim-to-real gap in robotics and autonomous vehicle engineering**, Asher Elmquist et.al., Paper: [http://arxiv.org/abs/2211.04886v1](http://arxiv.org/abs/2211.04886v1)
@@ -609,7 +609,7 @@
 - 2022-11-09, **Bayesian deep learning for error estimation in the analysis of anomalous diffusion**, Henrik Seckler et.al., Paper: [http://arxiv.org/abs/2211.04779v1](http://arxiv.org/abs/2211.04779v1)
 - 2022-11-09, **Dynamic Slicing by On-demand Re-execution**, Ivan Postolski et.al., Paper: [http://arxiv.org/abs/2211.04683v1](http://arxiv.org/abs/2211.04683v1)
 - 2022-11-09, **Gaussian Process Learning-Based Model Predictive Control for Safe Interactions of a Platoon of Autonomous and Human-Driven Vehicles**, Jie Wang et.al., Paper: [http://arxiv.org/abs/2211.04665v1](http://arxiv.org/abs/2211.04665v1)
-- 2022-11-09, **MEVID: Multi-view Extended Videos with Identities for Video Person Re-Identification**, Daniel Davila et.al., Paper: [http://arxiv.org/abs/2211.04656v1](http://arxiv.org/abs/2211.04656v1)
+- 2022-11-10, **MEVID: Multi-view Extended Videos with Identities for Video Person Re-Identification**, Daniel Davila et.al., Paper: [http://arxiv.org/abs/2211.04656v2](http://arxiv.org/abs/2211.04656v2)
 - 2022-11-08, **Quantum Persistent Homology for Time Series**, Bernardo Ameneyro et.al., Paper: [http://arxiv.org/abs/2211.04465v1](http://arxiv.org/abs/2211.04465v1)
 - 2022-11-08, **SLATE: A Sequence Labeling Approach for Task Extraction from Free-form Inked Content**, Apurva Gandhi et.al., Paper: [http://arxiv.org/abs/2211.04454v1](http://arxiv.org/abs/2211.04454v1), Code: **[https://github.com/slateauthors/slate](https://github.com/slateauthors/slate)**
 - 2022-11-08, **Developing a data fusion concept for radar and optical ground based SST station**, Bruno Coelho et.al., Paper: [http://arxiv.org/abs/2211.04443v1](http://arxiv.org/abs/2211.04443v1)
