@@ -577,6 +577,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-10**|**Multi-objective optimization via evolutionary algorithm (MOVEA) for high-definition transcranial electrical stimulation of the human brain**|Mo Wang et.al.|[2211.05658v1](http://arxiv.org/abs/2211.05658v1)|null|
+|**2022-11-09**|**Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**|Siddharth Sagar Nijhawan et.al.|[2211.05654v1](http://arxiv.org/abs/2211.05654v1)|null|
+|**2022-11-09**|**Single-Fingered Reconfigurable Robotic Gripper With a Folding Mechanism for Narrow Working Spaces**|Toshihiro Nishimura et.al.|[2211.05257v1](http://arxiv.org/abs/2211.05257v1)|null|
 |**2022-11-08**|**Effective Diffusion and transport coherence in presence of inhomogeneous temeprature: Piecewise linear potential**|Ronald Benjamin et.al.|[2211.04421v1](http://arxiv.org/abs/2211.04421v1)|null|
 |**2022-11-08**|**Two-photon real-time device for single-particle holographic tracking (red shot)**|Florian Semmer et.al.|[2211.04114v1](http://arxiv.org/abs/2211.04114v1)|null|
 |**2022-11-07**|**Adiabatic monoparametric autonomous motors enabled by self-induced nonconservative forces**|Arkady Kurnosov et.al.|[2211.03841v1](http://arxiv.org/abs/2211.03841v1)|null|
@@ -715,6 +718,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-10**|**Ultrafast formation of topological defects in a 2D charge density wave**|Yun Cheng et.al.|[2211.05748v1](http://arxiv.org/abs/2211.05748v1)|null|
+|**2022-11-10**|**Optimizing Trigger-Level Track Reconstruction for Sensitivity to Exotic Signatures**|K. F. Di Petrillo et.al.|[2211.05720v1](http://arxiv.org/abs/2211.05720v1)|null|
+|**2022-11-10**|**Event-based imaging velocimetry using pulsed illumination**|Christian E. Willert et.al.|[2211.05710v1](http://arxiv.org/abs/2211.05710v1)|null|
+|**2022-11-10**|**AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies**|Li Siyao et.al.|[2211.05709v1](http://arxiv.org/abs/2211.05709v1)|**[link](https://github.com/lisiyao21/animerun)**|
+|**2022-11-10**|**Estimating Soft Labels for Out-of-Domain Intent Detection**|Hao Lang et.al.|[2211.05561v1](http://arxiv.org/abs/2211.05561v1)|null|
+|**2022-11-10**|**MoNET: Tackle State Momentum via Noise-Enhanced Training for Dialogue State Tracking**|Haoning Zhang et.al.|[2211.05503v1](http://arxiv.org/abs/2211.05503v1)|null|
+|**2022-11-10**|**A framework for high-fidelity particle tracking on massively parallel systems**|Patrick Kopper et.al.|[2211.05458v1](http://arxiv.org/abs/2211.05458v1)|null|
+|**2022-11-10**|**Non-Hermitian Hamiltonian Deformations in Quantum Mechanics**|Apollonas S. Matsoukas-Roubeas et.al.|[2211.05437v1](http://arxiv.org/abs/2211.05437v1)|null|
+|**2022-11-10**|**Zebra: Deeply Integrating System-Level Provenance Search and Tracking for Efficient Attack Investigation**|Xinyu Yang et.al.|[2211.05403v1](http://arxiv.org/abs/2211.05403v1)|null|
+|**2022-11-10**|**Assessment of fiducial motion in CBCT projections of the abdominal tumor using template matching and sequential stereo triangulation**|Oluwaseyi M. Oderinde et.al.|[2211.05380v1](http://arxiv.org/abs/2211.05380v1)|null|
 |**2022-11-10**|**A pre-time-zero spatiotemporal microscopy technique for the ultrasensitive determination of the thermal diffusivity of thin films**|Sebin Varghese et.al.|[2211.04999v2](http://arxiv.org/abs/2211.04999v2)|null|
 |**2022-11-09**|**RL-DWA Omnidirectional Motion Planning for Person Following in Domestic Assistance and Monitoring**|Andrea Eirale et.al.|[2211.04993v1](http://arxiv.org/abs/2211.04993v1)|null|
 |**2022-11-09**|**Artificial intelligence for improved fitting of trajectories of elementary particles in inhomogeneous dense materials immersed in a magnetic field**|Saúl Alonso-Monsalve et.al.|[2211.04890v1](http://arxiv.org/abs/2211.04890v1)|null|
