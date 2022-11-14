@@ -464,6 +464,8 @@
 
 ## MOT
 
+- 2022-11-11, **An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**, Yong Hong et.al., Paper: [http://arxiv.org/abs/2211.06001v1](http://arxiv.org/abs/2211.06001v1)
+- 2022-11-10, **Why internal feedback is necessary in the perception-action loop**, Jing Shuang Li et.al., Paper: [http://arxiv.org/abs/2211.05922v1](http://arxiv.org/abs/2211.05922v1)
 - 2022-11-10, **Multi-objective optimization via evolutionary algorithm (MOVEA) for high-definition transcranial electrical stimulation of the human brain**, Mo Wang et.al., Paper: [http://arxiv.org/abs/2211.05658v1](http://arxiv.org/abs/2211.05658v1)
 - 2022-11-09, **Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**, Siddharth Sagar Nijhawan et.al., Paper: [http://arxiv.org/abs/2211.05654v1](http://arxiv.org/abs/2211.05654v1)
 - 2022-11-09, **Single-Fingered Reconfigurable Robotic Gripper With a Folding Mechanism for Narrow Working Spaces**, Toshihiro Nishimura et.al., Paper: [http://arxiv.org/abs/2211.05257v1](http://arxiv.org/abs/2211.05257v1)
@@ -603,6 +605,16 @@
 
 ## Object Tracking
 
+- 2022-11-11, **Re-Analyze Gauss: Bounds for Private Matrix Approximation via Dyson Brownian Motion**, Oren Mangoubi et.al., Paper: [http://arxiv.org/abs/2211.06418v1](http://arxiv.org/abs/2211.06418v1)
+- 2022-11-11, **A Federated Approach to Predicting Emojis in Hindi Tweets**, Deep Gandhi et.al., Paper: [http://arxiv.org/abs/2211.06401v1](http://arxiv.org/abs/2211.06401v1)
+- 2022-11-11, **Discretizing advection equations with rough velocity fields on non-cartesian grids**, Pierre-Emmanuel Jabin et.al., Paper: [http://arxiv.org/abs/2211.06311v1](http://arxiv.org/abs/2211.06311v1)
+- 2022-11-11, **Micromechanical Experimental-Numerical Study Reveals Martensite Plasticity and Damage Competition in Dual-Phase Steel**, T. Vermeij et.al., Paper: [http://arxiv.org/abs/2211.06282v1](http://arxiv.org/abs/2211.06282v1)
+- 2022-11-11, **A geometric approach towards inverse kinematics of soft extensible pneumatic actuators intended for trajectory tracking**, Mahboubeh Keyvanara et.al., Paper: [http://arxiv.org/abs/2211.06259v1](http://arxiv.org/abs/2211.06259v1)
+- 2022-11-11, **An initial Theory to Understand and Manage Requirements Engineering Debt in Practice**, Julian Frattini et.al., Paper: [http://arxiv.org/abs/2211.06189v1](http://arxiv.org/abs/2211.06189v1)
+- 2022-11-11, **An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**, Yong Hong et.al., Paper: [http://arxiv.org/abs/2211.06001v1](http://arxiv.org/abs/2211.06001v1)
+- 2022-11-11, **Multi-domain Cooperative SLAM: The Enabler for Integrated Sensing and Communications**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2211.05982v1](http://arxiv.org/abs/2211.05982v1)
+- 2022-11-11, **Bayesian Detection of a Sinusoidal Signal with Randomly Varying Frequency**, Changrong Liu et.al., Paper: [http://arxiv.org/abs/2211.05977v1](http://arxiv.org/abs/2211.05977v1)
+- 2022-11-11, **Insonification Angle-based Ultrasound Volume Reconstruction for Spine Intervention**, Baichuan Jiang et.al., Paper: [http://arxiv.org/abs/2211.05971v1](http://arxiv.org/abs/2211.05971v1)
 - 2022-11-10, **Ultrafast formation of topological defects in a 2D charge density wave**, Yun Cheng et.al., Paper: [http://arxiv.org/abs/2211.05748v1](http://arxiv.org/abs/2211.05748v1)
 - 2022-11-10, **Optimizing Trigger-Level Track Reconstruction for Sensitivity to Exotic Signatures**, K. F. Di Petrillo et.al., Paper: [http://arxiv.org/abs/2211.05720v1](http://arxiv.org/abs/2211.05720v1)
 - 2022-11-10, **Event-based imaging velocimetry using pulsed illumination**, Christian E. Willert et.al., Paper: [http://arxiv.org/abs/2211.05710v1](http://arxiv.org/abs/2211.05710v1)
