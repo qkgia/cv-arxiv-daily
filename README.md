@@ -1,4 +1,4 @@
-## Updated on 2022.11.13
+## Updated on 2022.11.14
 
 ## MOT
 
@@ -150,7 +150,7 @@
 |**2022-11-10**|**Event-based imaging velocimetry using pulsed illumination**|Christian E. Willert et.al.|[2211.05710v1](http://arxiv.org/abs/2211.05710v1)|null|
 |**2022-11-10**|**AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies**|Li Siyao et.al.|[2211.05709v1](http://arxiv.org/abs/2211.05709v1)|**[link](https://github.com/lisiyao21/animerun)**|
 |**2022-11-10**|**Estimating Soft Labels for Out-of-Domain Intent Detection**|Hao Lang et.al.|[2211.05561v1](http://arxiv.org/abs/2211.05561v1)|null|
-|**2022-11-10**|**MoNET: Tackle State Momentum via Noise-Enhanced Training for Dialogue State Tracking**|Haoning Zhang et.al.|[2211.05503v1](http://arxiv.org/abs/2211.05503v1)|null|
+|**2022-11-11**|**MoNET: Tackle State Momentum via Noise-Enhanced Training for Dialogue State Tracking**|Haoning Zhang et.al.|[2211.05503v2](http://arxiv.org/abs/2211.05503v2)|null|
 |**2022-11-10**|**A framework for high-fidelity particle tracking on massively parallel systems**|Patrick Kopper et.al.|[2211.05458v1](http://arxiv.org/abs/2211.05458v1)|null|
 |**2022-11-10**|**Non-Hermitian Hamiltonian Deformations in Quantum Mechanics**|Apollonas S. Matsoukas-Roubeas et.al.|[2211.05437v1](http://arxiv.org/abs/2211.05437v1)|null|
 |**2022-11-10**|**Zebra: Deeply Integrating System-Level Provenance Search and Tracking for Efficient Attack Investigation**|Xinyu Yang et.al.|[2211.05403v1](http://arxiv.org/abs/2211.05403v1)|null|
