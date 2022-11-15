@@ -4,6 +4,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-14**|**High-Accuracy Machine Learning Techniques for Functional Connectome Fingerprinting and Cognitive State Decoding**|Andrew Hannum et.al.|[2211.07507v1](http://arxiv.org/abs/2211.07507v1)|null|
+|**2022-11-10**|**Multiresolution Dual-Polynomial Decomposition Approach for Optimized Characterization of Motor Intent in Myoelectric Control Systems**|Oluwarotimi Williams Samuel et.al.|[2211.07378v1](http://arxiv.org/abs/2211.07378v1)|null|
+|**2022-11-14**|**Using Machine Learning Hamiltonians To Compute Molecular Motor Barrier Heights**|Aaron Philip et.al.|[2211.07181v1](http://arxiv.org/abs/2211.07181v1)|null|
+|**2022-11-14**|**SportsTrack: An Innovative Method for Tracking Athletes in Sports Scenes**|Jie Wang et.al.|[2211.07173v1](http://arxiv.org/abs/2211.07173v1)|**[link](https://github.com/vghost2008/sportstrack)**|
+|**2022-11-13**|**ECE496Y Final Report: Edge Machine Learning for Detecting Freezing of Gait in Parkinson's Patients**|Purnoor Ghuman et.al.|[2211.06951v1](http://arxiv.org/abs/2211.06951v1)|null|
+|**2022-11-12**|**An algebraic approach to spike-time neural codes in the hippocampus**|Federico W. Pasini et.al.|[2211.06692v1](http://arxiv.org/abs/2211.06692v1)|null|
 |**2022-11-11**|**An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong et.al.|[2211.06001v1](http://arxiv.org/abs/2211.06001v1)|null|
 |**2022-11-10**|**Why internal feedback is necessary in the perception-action loop**|Jing Shuang Li et.al.|[2211.05922v1](http://arxiv.org/abs/2211.05922v1)|null|
 |**2022-11-10**|**Multi-objective optimization via evolutionary algorithm (MOVEA) for high-definition transcranial electrical stimulation of the human brain**|Mo Wang et.al.|[2211.05658v1](http://arxiv.org/abs/2211.05658v1)|null|
@@ -147,6 +153,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-14**|**AttenFace: A Real Time Attendance System using Face Recognition**|Ashwin Rao et.al.|[2211.07582v1](http://arxiv.org/abs/2211.07582v1)|null|
+|**2022-11-14**|**Disentangling Flaws in Linux DCTCP**|Joakim Misund et.al.|[2211.07581v1](http://arxiv.org/abs/2211.07581v1)|null|
+|**2022-11-14**|**Robust Real-Time Tracking of Axis-Symmetric Magnets via Neural Networks**|Mengfan Wu et.al.|[2211.07556v1](http://arxiv.org/abs/2211.07556v1)|null|
+|**2022-11-14**|**NeurIPS 2022 Competition: Driving SMARTS**|Amir Rasouli et.al.|[2211.07545v1](http://arxiv.org/abs/2211.07545v1)|null|
+|**2022-11-14**|**Discovering a Variety of Objects in Spatio-Temporal Human-Object Interactions**|Yong-Lu Li et.al.|[2211.07501v1](http://arxiv.org/abs/2211.07501v1)|**[link](https://github.com/dirtyharrylyl/hake-ava)**|
+|**2022-11-14**|**The CALICE SiW ECAL Technological Prototype -- Status and Outlook**|Roman Pöschl et.al.|[2211.07457v1](http://arxiv.org/abs/2211.07457v1)|null|
+|**2022-11-14**|**Dual-based Online Learning of Dynamic Network Topologies**|Seyed Saman Saboksayr et.al.|[2211.07449v1](http://arxiv.org/abs/2211.07449v1)|null|
+|**2022-11-14**|**Follow the Clairvoyant: an Imitation Learning Approach to Optimal Control**|Andrea Martin et.al.|[2211.07389v1](http://arxiv.org/abs/2211.07389v1)|**[link](https://github.com/decodepfl/followtheclairvoyant)**|
+|**2022-11-14**|**Exploiting Device and Audio Data to Tag Music with User-Aware Listening Contexts**|Karim M. Ibrahim et.al.|[2211.07250v1](http://arxiv.org/abs/2211.07250v1)|**[link](https://github.com/karimmibrahim/situational_session_generator)**|
+|**2022-11-14**|**Funnel Control for Langevin Dynamics**|Thomas Berger et.al.|[2211.07232v1](http://arxiv.org/abs/2211.07232v1)|null|
 |**2022-11-11**|**Re-Analyze Gauss: Bounds for Private Matrix Approximation via Dyson Brownian Motion**|Oren Mangoubi et.al.|[2211.06418v1](http://arxiv.org/abs/2211.06418v1)|null|
 |**2022-11-11**|**A Federated Approach to Predicting Emojis in Hindi Tweets**|Deep Gandhi et.al.|[2211.06401v1](http://arxiv.org/abs/2211.06401v1)|null|
 |**2022-11-11**|**Discretizing advection equations with rough velocity fields on non-cartesian grids**|Pierre-Emmanuel Jabin et.al.|[2211.06311v1](http://arxiv.org/abs/2211.06311v1)|null|
@@ -800,6 +816,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-11**|**StereoISP: Rethinking Image Signal Processing for Dual Camera Systems**|Ahmad Bin Rabiah et.al.|[2211.07390v1](http://arxiv.org/abs/2211.07390v1)|null|
 |**2022-11-03**|**Graph-Based Multi-Camera Soccer Player Tracker**|Jacek Komorowski et.al.|[2211.02125v1](http://arxiv.org/abs/2211.02125v1)|null|
 |**2022-10-23**|**IDD-3D: Indian Driving Dataset for 3D Unstructured Road Scenes**|Shubham Dokania et.al.|[2210.12878v1](http://arxiv.org/abs/2210.12878v1)|null|
 |**2022-10-21**|**3D Human Pose Estimation in Multi-View Operating Room Videos Using Differentiable Camera Projections**|Beerend G. A. Gerats et.al.|[2210.11826v1](http://arxiv.org/abs/2210.11826v1)|null|
