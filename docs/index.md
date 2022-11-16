@@ -577,6 +577,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-15**|**Motor imagery classification using EEG spectrograms**|Saadat Ullah Khan et.al.|[2211.08350v1](http://arxiv.org/abs/2211.08350v1)|null|
+|**2022-11-14**|**Thermodynamic limits of sperm swimming precision**|C. Maggi et.al.|[2211.07779v1](http://arxiv.org/abs/2211.07779v1)|null|
 |**2022-11-14**|**High-Accuracy Machine Learning Techniques for Functional Connectome Fingerprinting and Cognitive State Decoding**|Andrew Hannum et.al.|[2211.07507v1](http://arxiv.org/abs/2211.07507v1)|null|
 |**2022-11-10**|**Multiresolution Dual-Polynomial Decomposition Approach for Optimized Characterization of Motor Intent in Myoelectric Control Systems**|Oluwarotimi Williams Samuel et.al.|[2211.07378v1](http://arxiv.org/abs/2211.07378v1)|null|
 |**2022-11-14**|**Using Machine Learning Hamiltonians To Compute Molecular Motor Barrier Heights**|Aaron Philip et.al.|[2211.07181v1](http://arxiv.org/abs/2211.07181v1)|null|
@@ -726,6 +728,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-15**|**A study of the hydrostatic mass bias dependence and evolution within The Three Hundred clusters**|Giulia Gianfagna et.al.|[2211.08372v1](http://arxiv.org/abs/2211.08372v1)|null|
+|**2022-11-15**|**Improving AFL++ CmpLog: Tackling the bottlenecks**|Sander Wiebing et.al.|[2211.08357v1](http://arxiv.org/abs/2211.08357v1)|null|
+|**2022-11-15**|**Three-dimensional streaming around an obstacle in a Hele-Shaw cell**|Xirui Zhang et.al.|[2211.08335v1](http://arxiv.org/abs/2211.08335v1)|null|
+|**2022-11-15**|**Identification of medical devices using machine learning on distribution feeder data for informing power outage response**|Paraskevi Kourtza et.al.|[2211.08310v1](http://arxiv.org/abs/2211.08310v1)|null|
+|**2022-11-15**|**A New Simheuristic Approach for Stochastic Runway Scheduling**|Rob Shone et.al.|[2211.08307v1](http://arxiv.org/abs/2211.08307v1)|null|
+|**2022-11-15**|**Molecular strong coupling: an exploration employing open, half- and full planar cavities**|Kishan S. Menghrajani et.al.|[2211.08300v1](http://arxiv.org/abs/2211.08300v1)|null|
+|**2022-11-15**|**The ATLAS EventIndex: a BigData catalogue for all ATLAS experiment events**|Dario Barberis et.al.|[2211.08293v1](http://arxiv.org/abs/2211.08293v1)|null|
+|**2022-11-15**|**Loop Current influence on the connectivity of the West Florida Shelf and impacts on red tide events**|P. Miron et.al.|[2211.08231v1](http://arxiv.org/abs/2211.08231v1)|null|
+|**2022-11-15**|**A Tilt Instability in the Cosmological Principle**|Chethan Krishnan et.al.|[2211.08093v1](http://arxiv.org/abs/2211.08093v1)|null|
+|**2022-11-15**|**Deep Instance Segmentation and Visual Servoing to Play Jenga with a Cost-Effective Robotic System**|Luca Marchionna et.al.|[2211.07977v1](http://arxiv.org/abs/2211.07977v1)|null|
 |**2022-11-14**|**AttenFace: A Real Time Attendance System using Face Recognition**|Ashwin Rao et.al.|[2211.07582v1](http://arxiv.org/abs/2211.07582v1)|null|
 |**2022-11-14**|**Disentangling Flaws in Linux DCTCP**|Joakim Misund et.al.|[2211.07581v1](http://arxiv.org/abs/2211.07581v1)|null|
 |**2022-11-14**|**Robust Real-Time Tracking of Axis-Symmetric Magnets via Neural Networks**|Mengfan Wu et.al.|[2211.07556v1](http://arxiv.org/abs/2211.07556v1)|null|
@@ -1389,7 +1401,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-11-11**|**StereoISP: Rethinking Image Signal Processing for Dual Camera Systems**|Ahmad Bin Rabiah et.al.|[2211.07390v1](http://arxiv.org/abs/2211.07390v1)|null|
+|**2022-11-15**|**StereoISP: Rethinking Image Signal Processing for Dual Camera Systems**|Ahmad Bin Rabiah et.al.|[2211.07390v2](http://arxiv.org/abs/2211.07390v2)|null|
 |**2022-11-03**|**Graph-Based Multi-Camera Soccer Player Tracker**|Jacek Komorowski et.al.|[2211.02125v1](http://arxiv.org/abs/2211.02125v1)|null|
 |**2022-10-23**|**IDD-3D: Indian Driving Dataset for 3D Unstructured Road Scenes**|Shubham Dokania et.al.|[2210.12878v1](http://arxiv.org/abs/2210.12878v1)|null|
 |**2022-10-21**|**3D Human Pose Estimation in Multi-View Operating Room Videos Using Differentiable Camera Projections**|Beerend G. A. Gerats et.al.|[2210.11826v1](http://arxiv.org/abs/2210.11826v1)|null|
