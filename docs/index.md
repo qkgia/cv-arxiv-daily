@@ -577,6 +577,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-16**|**Psychophysiology-aided Perceptually Fluent Speech Analysis of Children Who Stutter**|Yi Xiao et.al.|[2211.09089v1](http://arxiv.org/abs/2211.09089v1)|null|
+|**2022-11-16**|**SMILEtrack: SiMIlarity LEarning for Multiple Object Tracking**|Yu-Hsiang Wang et.al.|[2211.08824v1](http://arxiv.org/abs/2211.08824v1)|null|
+|**2022-11-15**|**Omnidirectional robot modeling and simulation**|Sandro Costa Magalhães et.al.|[2211.08532v1](http://arxiv.org/abs/2211.08532v1)|null|
 |**2022-11-15**|**Motor imagery classification using EEG spectrograms**|Saadat Ullah Khan et.al.|[2211.08350v1](http://arxiv.org/abs/2211.08350v1)|null|
 |**2022-11-14**|**Thermodynamic limits of sperm swimming precision**|C. Maggi et.al.|[2211.07779v1](http://arxiv.org/abs/2211.07779v1)|null|
 |**2022-11-14**|**High-Accuracy Machine Learning Techniques for Functional Connectome Fingerprinting and Cognitive State Decoding**|Andrew Hannum et.al.|[2211.07507v1](http://arxiv.org/abs/2211.07507v1)|null|
@@ -728,6 +731,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-16**|**Rapidity and momentum distributions of 1D dipolar quantum gases**|Kuan-Yu Li et.al.|[2211.09118v1](http://arxiv.org/abs/2211.09118v1)|null|
+|**2022-11-16**|**Robust Online Video Instance Segmentation with Track Queries**|Zitong Zhan et.al.|[2211.09108v1](http://arxiv.org/abs/2211.09108v1)|null|
+|**2022-11-16**|**ATEAM: Knowledge Integration from Federated Datasets for Vehicle Feature Extraction using Annotation Team of Experts**|Abhijit Suprem et.al.|[2211.09098v1](http://arxiv.org/abs/2211.09098v1)|null|
+|**2022-11-16**|**Testing geometric representation hypotheses from simulated place cell recordings**|Thibault Niederhauser et.al.|[2211.09096v1](http://arxiv.org/abs/2211.09096v1)|null|
+|**2022-11-16**|**Online convex optimization for constrained control of linear systems using a reference governor**|Marko Nonhoff et.al.|[2211.09088v1](http://arxiv.org/abs/2211.09088v1)|null|
+|**2022-11-16**|**Complementary Textures. A Novel Approach to Object Alignment in Mixed Reality**|Alejandro Martin-Gomez et.al.|[2211.09037v1](http://arxiv.org/abs/2211.09037v1)|null|
+|**2022-11-16**|**Beam-Based Diagnostics of Electric Guide Fields and Lattice Parameters for Run-1 of the Muon g-2 Storage Ring at Fermilab**|David Tarazona et.al.|[2211.08951v1](http://arxiv.org/abs/2211.08951v1)|null|
+|**2022-11-16**|**Partitions with constrained ranks and lattice paths**|Sylvie Corteel et.al.|[2211.08933v1](http://arxiv.org/abs/2211.08933v1)|null|
+|**2022-11-16**|**RF-Annotate: Automatic RF-Supervised Image Annotation of Common Objects in Context**|Emerson Sie et.al.|[2211.08837v1](http://arxiv.org/abs/2211.08837v1)|null|
+|**2022-11-16**|**SMILEtrack: SiMIlarity LEarning for Multiple Object Tracking**|Yu-Hsiang Wang et.al.|[2211.08824v1](http://arxiv.org/abs/2211.08824v1)|null|
 |**2022-11-15**|**A study of the hydrostatic mass bias dependence and evolution within The Three Hundred clusters**|Giulia Gianfagna et.al.|[2211.08372v1](http://arxiv.org/abs/2211.08372v1)|null|
 |**2022-11-15**|**Improving AFL++ CmpLog: Tackling the bottlenecks**|Sander Wiebing et.al.|[2211.08357v1](http://arxiv.org/abs/2211.08357v1)|null|
 |**2022-11-15**|**Three-dimensional streaming around an obstacle in a Hele-Shaw cell**|Xirui Zhang et.al.|[2211.08335v1](http://arxiv.org/abs/2211.08335v1)|null|
