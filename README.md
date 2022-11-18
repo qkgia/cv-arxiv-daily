@@ -158,6 +158,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-17**|**MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors**|Yuang Zhang et.al.|[2211.09791v1](http://arxiv.org/abs/2211.09791v1)|**[link](https://github.com/megvii-research/MOTRv2)**|
+|**2022-11-17**|**Radiometric sensitivity and resolution of synthetic tracking imaging for orbital debris monitoring**|Hasan Bahcivan et.al.|[2211.09789v1](http://arxiv.org/abs/2211.09789v1)|null|
+|**2022-11-17**|**A unified model for the co-evolution of galaxies and their circumgalactic medium: the relative roles of turbulence and atomic cooling physics**|Viraj Pandya et.al.|[2211.09755v1](http://arxiv.org/abs/2211.09755v1)|null|
+|**2022-11-17**|**Zero-Shot Dynamic Quantization for Transformer Inference**|Yousef El-Kurdi et.al.|[2211.09744v1](http://arxiv.org/abs/2211.09744v1)|null|
+|**2022-11-17**|**Sources of performance variability in deep learning-based polyp detection**|Thuy Nuong Tran et.al.|[2211.09708v1](http://arxiv.org/abs/2211.09708v1)|null|
+|**2022-11-17**|**First survey of centimeter-scale AC-LGAD strip sensors with a 120 GeV proton beam**|Christopher Madrid et.al.|[2211.09698v1](http://arxiv.org/abs/2211.09698v1)|null|
+|**2022-11-17**|**Neutron polarisation transfer, $C_{x'}^n$, in $π^+$ photoproduction off the proton**|M. Bashkanov et.al.|[2211.09688v1](http://arxiv.org/abs/2211.09688v1)|null|
+|**2022-11-17**|**SNOWMASS Neutrino Frontier NF10 Topical Group Report: Neutrino Detectors**|Joshua R. Klein et.al.|[2211.09669v1](http://arxiv.org/abs/2211.09669v1)|null|
+|**2022-11-17**|**Multi-Camera Multi-Object Tracking on the Move via Single-Stage Global Association Approach**|Pha Nguyen et.al.|[2211.09663v1](http://arxiv.org/abs/2211.09663v1)|null|
+|**2022-11-17**|**Mechanical configurable nanopatterning of polar topological states and formation of post-skyrmion**|Lizhe Hu et.al.|[2211.09645v1](http://arxiv.org/abs/2211.09645v1)|null|
 |**2022-11-16**|**Rapidity and momentum distributions of 1D dipolar quantum gases**|Kuan-Yu Li et.al.|[2211.09118v1](http://arxiv.org/abs/2211.09118v1)|null|
 |**2022-11-16**|**Robust Online Video Instance Segmentation with Track Queries**|Zitong Zhan et.al.|[2211.09108v1](http://arxiv.org/abs/2211.09108v1)|null|
 |**2022-11-16**|**ATEAM: Knowledge Integration from Federated Datasets for Vehicle Feature Extraction using Annotation Team of Experts**|Abhijit Suprem et.al.|[2211.09098v1](http://arxiv.org/abs/2211.09098v1)|null|
