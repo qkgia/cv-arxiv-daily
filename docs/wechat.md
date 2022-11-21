@@ -464,6 +464,11 @@
 
 ## MOT
 
+- 2022-11-16, **A Neural Active Inference Model of Perceptual-Motor Learning**, Zhizhuo Yang et.al., Paper: [http://arxiv.org/abs/2211.10419v1](http://arxiv.org/abs/2211.10419v1)
+- 2022-11-18, **Sustainable and convenient: bi-modal public transit systems\\outperforming the private car**, Puneet Sharma et.al., Paper: [http://arxiv.org/abs/2211.10221v1](http://arxiv.org/abs/2211.10221v1)
+- 2022-11-18, **Adversarial Stimuli: Attacking Brain-Computer Interfaces via Perturbed Sensory Events**, Bibek Upadhayay et.al., Paper: [http://arxiv.org/abs/2211.10033v1](http://arxiv.org/abs/2211.10033v1)
+- 2022-11-18, **Energetics of Cytoskeletal Gel Contraction**, Matteo Ferraresso et.al., Paper: [http://arxiv.org/abs/2211.10021v1](http://arxiv.org/abs/2211.10021v1)
+- 2022-11-17, **Planning with Large Language Models via Corrective Re-prompting**, Shreyas Sundara Raman et.al., Paper: [http://arxiv.org/abs/2211.09935v1](http://arxiv.org/abs/2211.09935v1)
 - 2022-11-16, **Psychophysiology-aided Perceptually Fluent Speech Analysis of Children Who Stutter**, Yi Xiao et.al., Paper: [http://arxiv.org/abs/2211.09089v1](http://arxiv.org/abs/2211.09089v1)
 - 2022-11-16, **SMILEtrack: SiMIlarity LEarning for Multiple Object Tracking**, Yu-Hsiang Wang et.al., Paper: [http://arxiv.org/abs/2211.08824v1](http://arxiv.org/abs/2211.08824v1)
 - 2022-11-15, **Omnidirectional robot modeling and simulation**, Sandro Costa Magalhães et.al., Paper: [http://arxiv.org/abs/2211.08532v1](http://arxiv.org/abs/2211.08532v1)
@@ -616,6 +621,16 @@
 
 ## Object Tracking
 
+- 2022-11-18, **Thin-Film Rupture at the Atomic Scale**, Muhammad Rizwanur Rahman et.al., Paper: [http://arxiv.org/abs/2211.10358v1](http://arxiv.org/abs/2211.10358v1)
+- 2022-11-18, **A nation-wide experiment: fuel tax cuts and almost free public transport for three months in Germany -- Report 5 Insights into four months of mobility tracking**, Lennart Adenaw et.al., Paper: [http://arxiv.org/abs/2211.10328v1](http://arxiv.org/abs/2211.10328v1)
+- 2022-11-18, **Integrated Space Domain Awareness and Communication System**, Selen Gecgel Cetin et.al., Paper: [http://arxiv.org/abs/2211.10260v1](http://arxiv.org/abs/2211.10260v1)
+- 2022-11-18, **Modelling Heavy Neutral Leptons in Accelerator Beamlines**, Komninos-John Plows et.al., Paper: [http://arxiv.org/abs/2211.10210v1](http://arxiv.org/abs/2211.10210v1)
+- 2022-11-18, **Promoting Social Behaviour in Reducing Peak Electricity Consumption Using Multi-Agent Systems**, Nathan A. Brooks et.al., Paper: [http://arxiv.org/abs/2211.10198v1](http://arxiv.org/abs/2211.10198v1)
+- 2022-11-18, **Overview of the HASOC Subtrack at FIRE 2022: Offensive Language Identification in Marathi**, Tharindu Ranasinghe et.al., Paper: [http://arxiv.org/abs/2211.10163v1](http://arxiv.org/abs/2211.10163v1)
+- 2022-11-18, **A Novel Approach to Climate Resilience of Infrastructure Networks**, Qianqian Li et.al., Paper: [http://arxiv.org/abs/2211.10132v1](http://arxiv.org/abs/2211.10132v1)
+- 2022-11-18, **Intrusion Detection in Internet of Things using Convolutional Neural Networks**, Martin Kodys et.al., Paper: [http://arxiv.org/abs/2211.10062v1](http://arxiv.org/abs/2211.10062v1)
+- 2022-11-18, **A Survey on Detection, Tracking, and Classification of Aerial Threats using Radars and Communications Systems**, Wahab Khawaja et.al., Paper: [http://arxiv.org/abs/2211.10038v1](http://arxiv.org/abs/2211.10038v1)
+- 2022-11-18, **Prompt emission and early optical afterglow of VHE detected GRB 201015A and GRB 201216C: onset of the external forward shock**, Amit Kumar Ror et.al., Paper: [http://arxiv.org/abs/2211.10036v1](http://arxiv.org/abs/2211.10036v1)
 - 2022-11-17, **MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors**, Yuang Zhang et.al., Paper: [http://arxiv.org/abs/2211.09791v1](http://arxiv.org/abs/2211.09791v1), Code: **[https://github.com/megvii-research/MOTRv2](https://github.com/megvii-research/MOTRv2)**
 - 2022-11-17, **Radiometric sensitivity and resolution of synthetic tracking imaging for orbital debris monitoring**, Hasan Bahcivan et.al., Paper: [http://arxiv.org/abs/2211.09789v1](http://arxiv.org/abs/2211.09789v1)
 - 2022-11-17, **A unified model for the co-evolution of galaxies and their circumgalactic medium: the relative roles of turbulence and atomic cooling physics**, Viraj Pandya et.al., Paper: [http://arxiv.org/abs/2211.09755v1](http://arxiv.org/abs/2211.09755v1)
