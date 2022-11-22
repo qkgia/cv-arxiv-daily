@@ -4,13 +4,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-21**|**Motor Imagery Decoding Using Ensemble Curriculum Learning and Collaborative Training**|Georgios Zoumpourlis et.al.|[2211.11460v1](http://arxiv.org/abs/2211.11460v1)|**[link](https://github.com/gzoumpourlis/ensemble-mi)**|
+|**2022-11-18**|**System architecture of a four-wheel drive Formula Student vehicle**|Adriano Schommer et.al.|[2211.10476v1](http://arxiv.org/abs/2211.10476v1)|null|
+|**2022-11-19**|**Rastreo muscular móvil usando magnetomicrometría -- traducción al español del articulo "Untethered Muscle Tracking Using Magnetomicrometry" por el autor Cameron R. Taylor**|Cameron R. Taylor et.al.|[2211.10441v1](http://arxiv.org/abs/2211.10441v1)|null|
 |**2022-11-16**|**A Neural Active Inference Model of Perceptual-Motor Learning**|Zhizhuo Yang et.al.|[2211.10419v1](http://arxiv.org/abs/2211.10419v1)|null|
-|**2022-11-18**|**Sustainable and convenient: bi-modal public transit systems\\outperforming the private car**|Puneet Sharma et.al.|[2211.10221v1](http://arxiv.org/abs/2211.10221v1)|null|
+|**2022-11-21**|**Sustainable and convenient: bi-modal public transit systems outperforming the private car**|Puneet Sharma et.al.|[2211.10221v2](http://arxiv.org/abs/2211.10221v2)|null|
 |**2022-11-18**|**Adversarial Stimuli: Attacking Brain-Computer Interfaces via Perturbed Sensory Events**|Bibek Upadhayay et.al.|[2211.10033v1](http://arxiv.org/abs/2211.10033v1)|null|
 |**2022-11-18**|**Energetics of Cytoskeletal Gel Contraction**|Matteo Ferraresso et.al.|[2211.10021v1](http://arxiv.org/abs/2211.10021v1)|null|
 |**2022-11-17**|**Planning with Large Language Models via Corrective Re-prompting**|Shreyas Sundara Raman et.al.|[2211.09935v1](http://arxiv.org/abs/2211.09935v1)|null|
 |**2022-11-16**|**Psychophysiology-aided Perceptually Fluent Speech Analysis of Children Who Stutter**|Yi Xiao et.al.|[2211.09089v1](http://arxiv.org/abs/2211.09089v1)|null|
-|**2022-11-16**|**SMILEtrack: SiMIlarity LEarning for Multiple Object Tracking**|Yu-Hsiang Wang et.al.|[2211.08824v1](http://arxiv.org/abs/2211.08824v1)|null|
+|**2022-11-17**|**SMILEtrack: SiMIlarity LEarning for Multiple Object Tracking**|Yu-Hsiang Wang et.al.|[2211.08824v2](http://arxiv.org/abs/2211.08824v2)|null|
 |**2022-11-15**|**Omnidirectional robot modeling and simulation**|Sandro Costa Magalhães et.al.|[2211.08532v1](http://arxiv.org/abs/2211.08532v1)|null|
 |**2022-11-15**|**Motor imagery classification using EEG spectrograms**|Saadat Ullah Khan et.al.|[2211.08350v1](http://arxiv.org/abs/2211.08350v1)|null|
 |**2022-11-14**|**Thermodynamic limits of sperm swimming precision**|C. Maggi et.al.|[2211.07779v1](http://arxiv.org/abs/2211.07779v1)|null|
@@ -163,6 +166,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-21**|**SpeechNet: Weakly Supervised, End-to-End Speech Recognition at Industrial Scale**|Raphael Tang et.al.|[2211.11740v1](http://arxiv.org/abs/2211.11740v1)|null|
+|**2022-11-21**|**PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework**|Bowen Li et.al.|[2211.11629v1](http://arxiv.org/abs/2211.11629v1)|null|
+|**2022-11-21**|**Tilting refractive x-ray lenses for fine-tuning their focal length**|Rafael Celestre et.al.|[2211.11621v1](http://arxiv.org/abs/2211.11621v1)|null|
+|**2022-11-21**|**Timely Target Tracking in Cognitive Radar Networks**|William W. Howard et.al.|[2211.11587v1](http://arxiv.org/abs/2211.11587v1)|null|
+|**2022-11-21**|**ACHINOS: A Multi-Anode Read-Out for Position Reconstruction and Tracking with Spherical Proportional Counters**|I. Katsioulas et.al.|[2211.11569v1](http://arxiv.org/abs/2211.11569v1)|null|
+|**2022-11-21**|**Tracking locality in time evolution of disordered systems**|Tomasz Szołdra et.al.|[2211.11480v1](http://arxiv.org/abs/2211.11480v1)|null|
+|**2022-11-21**|**Sensing-Assisted Communication in Vehicular Networks with Intelligent Surface**|Kaitao Meng et.al.|[2211.11475v1](http://arxiv.org/abs/2211.11475v1)|null|
+|**2022-11-21**|**Measurement of substructure-dependent jet suppression in Pb+Pb collisions at 5.02 TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2211.11470v1](http://arxiv.org/abs/2211.11470v1)|null|
+|**2022-11-21**|**Object-level 3D Semantic Mapping using a Network of Smart Edge Sensors**|Julian Hau et.al.|[2211.11354v1](http://arxiv.org/abs/2211.11354v1)|null|
+|**2022-11-21**|**Safety-critical model predictive control with control barrier function for dynamic obstacle avoidance**|Nhat Nguyen Minh et.al.|[2211.11348v1](http://arxiv.org/abs/2211.11348v1)|null|
 |**2022-11-18**|**Thin-Film Rupture at the Atomic Scale**|Muhammad Rizwanur Rahman et.al.|[2211.10358v1](http://arxiv.org/abs/2211.10358v1)|null|
 |**2022-11-18**|**A nation-wide experiment: fuel tax cuts and almost free public transport for three months in Germany -- Report 5 Insights into four months of mobility tracking**|Lennart Adenaw et.al.|[2211.10328v1](http://arxiv.org/abs/2211.10328v1)|null|
 |**2022-11-18**|**Integrated Space Domain Awareness and Communication System**|Selen Gecgel Cetin et.al.|[2211.10260v1](http://arxiv.org/abs/2211.10260v1)|null|
