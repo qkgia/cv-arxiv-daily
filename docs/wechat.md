@@ -464,6 +464,8 @@
 
 ## MOT
 
+- 2022-11-22, **Bimanual Motor Strategies and Handedness Role During Human-Exoskeleton Haptic Interaction**, Elisa Galofaro et.al., Paper: [http://arxiv.org/abs/2211.12408v1](http://arxiv.org/abs/2211.12408v1)
+- 2022-11-21, **PreMa: Predictive Maintenance of Solenoid Valve in Real-Time at Embedded Edge-Level**, Prajwal BN et.al., Paper: [http://arxiv.org/abs/2211.12326v1](http://arxiv.org/abs/2211.12326v1)
 - 2022-11-21, **Motor Imagery Decoding Using Ensemble Curriculum Learning and Collaborative Training**, Georgios Zoumpourlis et.al., Paper: [http://arxiv.org/abs/2211.11460v1](http://arxiv.org/abs/2211.11460v1), Code: **[https://github.com/gzoumpourlis/ensemble-mi](https://github.com/gzoumpourlis/ensemble-mi)**
 - 2022-11-18, **System architecture of a four-wheel drive Formula Student vehicle**, Adriano Schommer et.al., Paper: [http://arxiv.org/abs/2211.10476v1](http://arxiv.org/abs/2211.10476v1)
 - 2022-11-19, **Rastreo muscular móvil usando magnetomicrometría -- traducción al español del articulo "Untethered Muscle Tracking Using Magnetomicrometry" por el autor Cameron R. Taylor**, Cameron R. Taylor et.al., Paper: [http://arxiv.org/abs/2211.10441v1](http://arxiv.org/abs/2211.10441v1)
@@ -624,6 +626,16 @@
 
 ## Object Tracking
 
+- 2022-11-22, **Touch and Go: Learning from Human-Collected Vision and Touch**, Fengyu Yang et.al., Paper: [http://arxiv.org/abs/2211.12498v1](http://arxiv.org/abs/2211.12498v1)
+- 2022-11-22, **Dynamics of Motility-Induced clusters: coarsening beyond Ostwald ripening**, Claudio B. Caporusso et.al., Paper: [http://arxiv.org/abs/2211.12361v1](http://arxiv.org/abs/2211.12361v1)
+- 2022-11-22, **Boosting Personalised Musculoskeletal Modelling with Physics-informed Knowledge Transfer**, Jie Zhang et.al., Paper: [http://arxiv.org/abs/2211.12315v1](http://arxiv.org/abs/2211.12315v1)
+- 2022-11-22, **BESS: Balanced Entity Sampling and Sharing for Large-Scale Knowledge Graph Completion**, Alberto Cattaneo et.al., Paper: [http://arxiv.org/abs/2211.12281v1](http://arxiv.org/abs/2211.12281v1), Code: **[https://github.com/graphcore/distributed-kge-poplar](https://github.com/graphcore/distributed-kge-poplar)**
+- 2022-11-22, **CHC-COMP 2022: Competition Report**, Emanuele De Angelis et.al., Paper: [http://arxiv.org/abs/2211.12231v1](http://arxiv.org/abs/2211.12231v1)
+- 2022-11-22, **Uncertainty-aware Vision-based Metric Cross-view Geolocalization**, Florian Fervers et.al., Paper: [http://arxiv.org/abs/2211.12145v1](http://arxiv.org/abs/2211.12145v1)
+- 2022-11-22, **Telling emissions apart in a multiphoton resonance: visualizing a conditional evolution**, Th. K. Mavrogordatos et.al., Paper: [http://arxiv.org/abs/2211.12144v1](http://arxiv.org/abs/2211.12144v1)
+- 2022-11-22, **Deep-Learning-Based Computer Vision Approach For The Segmentation Of Ball Deliveries And Tracking In Cricket**, Kumail Abbas et.al., Paper: [http://arxiv.org/abs/2211.12009v1](http://arxiv.org/abs/2211.12009v1), Code: **[https://github.com/theimad/cricket-image-segmentation](https://github.com/theimad/cricket-image-segmentation)**
+- 2022-11-22, **BotSIM: An End-to-End Bot Simulation Framework for Commercial Task-Oriented Dialog Systems**, Guangsen Wang et.al., Paper: [http://arxiv.org/abs/2211.11982v1](http://arxiv.org/abs/2211.11982v1)
+- 2022-11-22, **Practice Makes Perfect: an iterative approach to achieve precise tracking for legged robots**, Jing Cheng et.al., Paper: [http://arxiv.org/abs/2211.11922v1](http://arxiv.org/abs/2211.11922v1)
 - 2022-11-21, **SpeechNet: Weakly Supervised, End-to-End Speech Recognition at Industrial Scale**, Raphael Tang et.al., Paper: [http://arxiv.org/abs/2211.11740v1](http://arxiv.org/abs/2211.11740v1)
 - 2022-11-21, **PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework**, Bowen Li et.al., Paper: [http://arxiv.org/abs/2211.11629v1](http://arxiv.org/abs/2211.11629v1)
 - 2022-11-21, **Tilting refractive x-ray lenses for fine-tuning their focal length**, Rafael Celestre et.al., Paper: [http://arxiv.org/abs/2211.11621v1](http://arxiv.org/abs/2211.11621v1)
