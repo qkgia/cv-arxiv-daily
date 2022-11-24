@@ -464,6 +464,7 @@
 
 ## MOT
 
+- 2022-11-22, **A Novel Center-based Deep Contrastive Metric Learning Method for the Detection of Polymicrogyria in Pediatric Brain MRI**, Lingfeng Zhang et.al., Paper: [http://arxiv.org/abs/2211.12565v1](http://arxiv.org/abs/2211.12565v1), Code: **[https://github.com/richardchangca/deep-contrastive-metric-learning-method-to-detect-polymicrogyria-in-pediatric-brain-mri](https://github.com/richardchangca/deep-contrastive-metric-learning-method-to-detect-polymicrogyria-in-pediatric-brain-mri)**
 - 2022-11-22, **Bimanual Motor Strategies and Handedness Role During Human-Exoskeleton Haptic Interaction**, Elisa Galofaro et.al., Paper: [http://arxiv.org/abs/2211.12408v1](http://arxiv.org/abs/2211.12408v1)
 - 2022-11-21, **PreMa: Predictive Maintenance of Solenoid Valve in Real-Time at Embedded Edge-Level**, Prajwal BN et.al., Paper: [http://arxiv.org/abs/2211.12326v1](http://arxiv.org/abs/2211.12326v1)
 - 2022-11-21, **Motor Imagery Decoding Using Ensemble Curriculum Learning and Collaborative Training**, Georgios Zoumpourlis et.al., Paper: [http://arxiv.org/abs/2211.11460v1](http://arxiv.org/abs/2211.11460v1), Code: **[https://github.com/gzoumpourlis/ensemble-mi](https://github.com/gzoumpourlis/ensemble-mi)**
@@ -626,6 +627,16 @@
 
 ## Object Tracking
 
+- 2022-11-23, **This is the way: designing and compiling LEPISZCZE, a comprehensive NLP benchmark for Polish**, Łukasz Augustyniak et.al., Paper: [http://arxiv.org/abs/2211.13112v1](http://arxiv.org/abs/2211.13112v1), Code: **[https://github.com/clarin-pl/lepiszcze](https://github.com/clarin-pl/lepiszcze)**
+- 2022-11-23, **Waviness affects friction and abrasive wear**, Yulong Li et.al., Paper: [http://arxiv.org/abs/2211.13060v1](http://arxiv.org/abs/2211.13060v1)
+- 2022-11-23, **Inversion of sea surface currents from satellite-derived SST-SSH synergies with 4DVarNets**, Ronan Fablet et.al., Paper: [http://arxiv.org/abs/2211.13059v1](http://arxiv.org/abs/2211.13059v1)
+- 2022-11-23, **Space-Time Projection Optical Tomography: Search Space and Orbit Determination**, Hasan Bahcivan et.al., Paper: [http://arxiv.org/abs/2211.13040v1](http://arxiv.org/abs/2211.13040v1)
+- 2022-11-23, **Are micro-architectural features able to explain faulty executions in the presence of soft errors? A preliminary study**, Deniz Kasap et.al., Paper: [http://arxiv.org/abs/2211.13010v1](http://arxiv.org/abs/2211.13010v1)
+- 2022-11-23, **A Calculus for Amortized Expected Runtimes**, Kevin Batz et.al., Paper: [http://arxiv.org/abs/2211.12923v1](http://arxiv.org/abs/2211.12923v1)
+- 2022-11-23, **Assessment of Human Behavior in Virtual Reality by Eye Tracking**, Hong Gao et.al., Paper: [http://arxiv.org/abs/2211.12846v1](http://arxiv.org/abs/2211.12846v1)
+- 2022-11-23, **Video Instance Shadow Detection**, Zhenghao Xing et.al., Paper: [http://arxiv.org/abs/2211.12827v1](http://arxiv.org/abs/2211.12827v1)
+- 2022-11-23, **Data-driven Feature Tracking for Event Cameras**, Nico Messikommer et.al., Paper: [http://arxiv.org/abs/2211.12826v1](http://arxiv.org/abs/2211.12826v1)
+- 2022-11-23, **Tracking biomedical articles along the translational continuum: a measure based on biomedical knowledge representation**, Xin Li et.al., Paper: [http://arxiv.org/abs/2211.12819v1](http://arxiv.org/abs/2211.12819v1)
 - 2022-11-22, **Touch and Go: Learning from Human-Collected Vision and Touch**, Fengyu Yang et.al., Paper: [http://arxiv.org/abs/2211.12498v1](http://arxiv.org/abs/2211.12498v1)
 - 2022-11-22, **Dynamics of Motility-Induced clusters: coarsening beyond Ostwald ripening**, Claudio B. Caporusso et.al., Paper: [http://arxiv.org/abs/2211.12361v1](http://arxiv.org/abs/2211.12361v1)
 - 2022-11-22, **Boosting Personalised Musculoskeletal Modelling with Physics-informed Knowledge Transfer**, Jie Zhang et.al., Paper: [http://arxiv.org/abs/2211.12315v1](http://arxiv.org/abs/2211.12315v1)
