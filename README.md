@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-25**|**Assistive Teaching of Motor Control Tasks to Humans**|Megha Srivastava et.al.|[2211.14003v1](http://arxiv.org/abs/2211.14003v1)|**[link](https://github.com/stanford-iliad/teaching)**|
 |**2022-11-22**|**A Novel Center-based Deep Contrastive Metric Learning Method for the Detection of Polymicrogyria in Pediatric Brain MRI**|Lingfeng Zhang et.al.|[2211.12565v1](http://arxiv.org/abs/2211.12565v1)|**[link](https://github.com/richardchangca/deep-contrastive-metric-learning-method-to-detect-polymicrogyria-in-pediatric-brain-mri)**|
 |**2022-11-22**|**Bimanual Motor Strategies and Handedness Role During Human-Exoskeleton Haptic Interaction**|Elisa Galofaro et.al.|[2211.12408v1](http://arxiv.org/abs/2211.12408v1)|null|
 |**2022-11-21**|**PreMa: Predictive Maintenance of Solenoid Valve in Real-Time at Embedded Edge-Level**|Prajwal BN et.al.|[2211.12326v1](http://arxiv.org/abs/2211.12326v1)|null|
@@ -169,6 +170,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-25**|**On the Effect of Anticipation on Reading Times**|Tiago Pimentel et.al.|[2211.14301v1](http://arxiv.org/abs/2211.14301v1)|null|
+|**2022-11-25**|**Wild-Time: A Benchmark of in-the-Wild Distribution Shift over Time**|Huaxiu Yao et.al.|[2211.14238v1](http://arxiv.org/abs/2211.14238v1)|**[link](https://github.com/huaxiuyao/wild-time)**|
+|**2022-11-25**|**Searches for Neutrinos from LHAASO ultra-high-energy γ-ray sources using the IceCube Neutrino Observatory**|R. Abbasi et.al.|[2211.14184v1](http://arxiv.org/abs/2211.14184v1)|null|
+|**2022-11-25**|**Contactless Haptic Display Through Magnetic Field Control**|Xiong Lu et.al.|[2211.14163v1](http://arxiv.org/abs/2211.14163v1)|null|
+|**2022-11-25**|**A Gaussian Process Regression based Dynamical Models Learning Algorithm for Target Tracking**|Mengwei Sun et.al.|[2211.14162v1](http://arxiv.org/abs/2211.14162v1)|null|
+|**2022-11-25**|**hmmTMB: Hidden Markov models with flexible covariate effects in R**|Théo Michelot et.al.|[2211.14139v1](http://arxiv.org/abs/2211.14139v1)|null|
+|**2022-11-25**|**Automating Cobb Angle Measurement for Adolescent Idiopathic Scoliosis using Instance Segmentation**|Chaojun Chen et.al.|[2211.14122v1](http://arxiv.org/abs/2211.14122v1)|null|
+|**2022-11-25**|**Enhanced Tracking and Beamforming Codebook Design for Wideband Terahertz Massive MIMO System**|Xu Shi et.al.|[2211.13933v1](http://arxiv.org/abs/2211.13933v1)|null|
+|**2022-11-25**|**The Magic of Slow-to-Fast and Constant: Evaluating Time Perception of Progress Bars by Bayesian Model**|Qihan Wang et.al.|[2211.13909v1](http://arxiv.org/abs/2211.13909v1)|null|
+|**2022-11-24**|**Multi-Template Temporal Siamese Network for Long-Term Object Tracking**|Ali Sekhavati et.al.|[2211.13812v1](http://arxiv.org/abs/2211.13812v1)|null|
 |**2022-11-23**|**This is the way: designing and compiling LEPISZCZE, a comprehensive NLP benchmark for Polish**|Łukasz Augustyniak et.al.|[2211.13112v1](http://arxiv.org/abs/2211.13112v1)|**[link](https://github.com/clarin-pl/lepiszcze)**|
 |**2022-11-23**|**Waviness affects friction and abrasive wear**|Yulong Li et.al.|[2211.13060v1](http://arxiv.org/abs/2211.13060v1)|null|
 |**2022-11-23**|**Inversion of sea surface currents from satellite-derived SST-SSH synergies with 4DVarNets**|Ronan Fablet et.al.|[2211.13059v1](http://arxiv.org/abs/2211.13059v1)|null|
