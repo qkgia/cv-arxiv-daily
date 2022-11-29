@@ -577,6 +577,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-28**|**How nanoporous silicon-polypyrrole hybrids flex their muscles in aqueous electrolytes: In operando high-resolution x-ray diffraction and electron tomography-based micromechanical computer simulations**|Manuel Brinker et.al.|[2211.15496v1](http://arxiv.org/abs/2211.15496v1)|null|
+|**2022-11-28**|**Shoupa: An AI System for Early Diagnosis of Parkinson's Disease**|Jingwei Li et.al.|[2211.15234v1](http://arxiv.org/abs/2211.15234v1)|null|
+|**2022-11-24**|**Hard to Track Objects with Irregular Motions and Similar Appearances? Make It Easier by Buffering the Matching Space**|Fan Yang et.al.|[2211.14317v1](http://arxiv.org/abs/2211.14317v1)|null|
 |**2022-11-25**|**Assistive Teaching of Motor Control Tasks to Humans**|Megha Srivastava et.al.|[2211.14003v1](http://arxiv.org/abs/2211.14003v1)|**[link](https://github.com/stanford-iliad/teaching)**|
 |**2022-11-22**|**A Novel Center-based Deep Contrastive Metric Learning Method for the Detection of Polymicrogyria in Pediatric Brain MRI**|Lingfeng Zhang et.al.|[2211.12565v1](http://arxiv.org/abs/2211.12565v1)|**[link](https://github.com/richardchangca/deep-contrastive-metric-learning-method-to-detect-polymicrogyria-in-pediatric-brain-mri)**|
 |**2022-11-22**|**Bimanual Motor Strategies and Handedness Role During Human-Exoskeleton Haptic Interaction**|Elisa Galofaro et.al.|[2211.12408v1](http://arxiv.org/abs/2211.12408v1)|null|
@@ -743,6 +746,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-28**|**Satlas: A Large-Scale, Multi-Task Dataset for Remote Sensing Image Understanding**|Favyen Bastani et.al.|[2211.15660v1](http://arxiv.org/abs/2211.15660v1)|null|
+|**2022-11-28**|**Machine Learning for Health symposium 2022 -- Extended Abstract track**|Antonio Parziale et.al.|[2211.15564v1](http://arxiv.org/abs/2211.15564v1)|null|
+|**2022-11-28**|**Graph Convolutional Network for Multi-Target Multi-Camera Vehicle Tracking**|Elena Luna et.al.|[2211.15538v1](http://arxiv.org/abs/2211.15538v1)|null|
+|**2022-11-28**|**Proactive Robot Assistance via Spatio-Temporal Object Modeling**|Maithili Patel et.al.|[2211.15501v1](http://arxiv.org/abs/2211.15501v1)|**[link](https://github.com/maithili/spatiotemporalobjecttracking)**|
+|**2022-11-28**|**A Family of Multivariate Limit Theorems for Combinatorial Parameters via ACSV**|Stephen Melczer et.al.|[2211.15492v1](http://arxiv.org/abs/2211.15492v1)|null|
+|**2022-11-28**|**P4Testgen: An Extensible Test Oracle For P4**|Fabian Ruffy et.al.|[2211.15300v1](http://arxiv.org/abs/2211.15300v1)|null|
+|**2022-11-28**|**FLOWViZ: Framework for Phylogenetic Processing**|Miguel Luis et.al.|[2211.15282v1](http://arxiv.org/abs/2211.15282v1)|null|
+|**2022-11-28**|**Pixel data real time processing as a next step for HL-LHC upgrades and beyond**|Junho Kim et.al.|[2211.15276v1](http://arxiv.org/abs/2211.15276v1)|null|
+|**2022-11-28**|**Global Depths for Irregularly Observed Multivariate Functional Data**|Zhuo Qu et.al.|[2211.15125v1](http://arxiv.org/abs/2211.15125v1)|null|
+|**2022-11-28**|**Improved Representation of Asymmetrical Distances with Interval Quasimetric Embeddings**|Tongzhou Wang et.al.|[2211.15120v1](http://arxiv.org/abs/2211.15120v1)|**[link](https://github.com/quasimetric-learning/torch-quasimetric)**|
 |**2022-11-25**|**On the Effect of Anticipation on Reading Times**|Tiago Pimentel et.al.|[2211.14301v1](http://arxiv.org/abs/2211.14301v1)|null|
 |**2022-11-25**|**Wild-Time: A Benchmark of in-the-Wild Distribution Shift over Time**|Huaxiu Yao et.al.|[2211.14238v1](http://arxiv.org/abs/2211.14238v1)|**[link](https://github.com/huaxiuyao/wild-time)**|
 |**2022-11-25**|**Searches for Neutrinos from LHAASO ultra-high-energy γ-ray sources using the IceCube Neutrino Observatory**|R. Abbasi et.al.|[2211.14184v1](http://arxiv.org/abs/2211.14184v1)|null|
@@ -1486,6 +1499,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-21**|**Hyperspectral Demosaicing of Snapshot Camera Images Using Deep Learning**|Eric L. Wisotzky et.al.|[2211.15435v1](http://arxiv.org/abs/2211.15435v1)|null|
 |**2022-11-15**|**StereoISP: Rethinking Image Signal Processing for Dual Camera Systems**|Ahmad Bin Rabiah et.al.|[2211.07390v2](http://arxiv.org/abs/2211.07390v2)|null|
 |**2022-11-03**|**Graph-Based Multi-Camera Soccer Player Tracker**|Jacek Komorowski et.al.|[2211.02125v1](http://arxiv.org/abs/2211.02125v1)|null|
 |**2022-10-23**|**IDD-3D: Indian Driving Dataset for 3D Unstructured Road Scenes**|Shubham Dokania et.al.|[2210.12878v1](http://arxiv.org/abs/2210.12878v1)|null|
