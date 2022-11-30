@@ -464,6 +464,8 @@
 
 ## MOT
 
+- 2022-11-29, **Robust design optimization taking into account manufacturing uncertainties of a permanent magnet assisted synchronous reluctance motor**, Adán Reyes et.al., Paper: [http://arxiv.org/abs/2211.16136v1](http://arxiv.org/abs/2211.16136v1)
+- 2022-11-29, **Improving estimation of entropy production rate for run-and-tumble particle systems by high-order thermodynamic uncertainty relation**, Ruicheng Bao et.al., Paper: [http://arxiv.org/abs/2211.15973v1](http://arxiv.org/abs/2211.15973v1)
 - 2022-11-28, **How nanoporous silicon-polypyrrole hybrids flex their muscles in aqueous electrolytes: In operando high-resolution x-ray diffraction and electron tomography-based micromechanical computer simulations**, Manuel Brinker et.al., Paper: [http://arxiv.org/abs/2211.15496v1](http://arxiv.org/abs/2211.15496v1)
 - 2022-11-28, **Shoupa: An AI System for Early Diagnosis of Parkinson's Disease**, Jingwei Li et.al., Paper: [http://arxiv.org/abs/2211.15234v1](http://arxiv.org/abs/2211.15234v1)
 - 2022-11-24, **Hard to Track Objects with Irregular Motions and Similar Appearances? Make It Easier by Buffering the Matching Space**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2211.14317v1](http://arxiv.org/abs/2211.14317v1)
@@ -631,6 +633,16 @@
 
 ## Object Tracking
 
+- 2022-11-29, **Reusable Self-Attention-based Recommender System for Fashion**, Marjan Celikik et.al., Paper: [http://arxiv.org/abs/2211.16366v1](http://arxiv.org/abs/2211.16366v1)
+- 2022-11-29, **Mechano-lithography: stress anisotropy driven nematic order in growing three-dimensional bacterial biofilms**, Changhao Li et.al., Paper: [http://arxiv.org/abs/2211.16354v1](http://arxiv.org/abs/2211.16354v1)
+- 2022-11-29, **NCTV: Neural Clamping Toolkit and Visualization for Neural Network Calibration**, Lei Hsiung et.al., Paper: [http://arxiv.org/abs/2211.16274v1](http://arxiv.org/abs/2211.16274v1)
+- 2022-11-29, **Homogenization of some periodic Hamilton-Jacobi equations with defects**, Yves Achdou et.al., Paper: [http://arxiv.org/abs/2211.16157v1](http://arxiv.org/abs/2211.16157v1)
+- 2022-11-29, **Forming equal mass planetary binaries by pebble accretion**, T. J. Konijn et.al., Paper: [http://arxiv.org/abs/2211.16083v1](http://arxiv.org/abs/2211.16083v1)
+- 2022-11-29, **MmWave Mapping and SLAM for 5G and Beyond**, Yu Ge et.al., Paper: [http://arxiv.org/abs/2211.16024v1](http://arxiv.org/abs/2211.16024v1)
+- 2022-11-29, **Shadow-Oriented Tracking Method for Multi-Target Tracking in Video-SAR**, Xiaochuan Ni et.al., Paper: [http://arxiv.org/abs/2211.15995v1](http://arxiv.org/abs/2211.15995v1)
+- 2022-11-29, **The human digital twin brain in the resting state and in action**, Wenlian Lu et.al., Paper: [http://arxiv.org/abs/2211.15963v1](http://arxiv.org/abs/2211.15963v1)
+- 2022-11-29, **Robustness Disparities in Face Detection**, Samuel Dooley et.al., Paper: [http://arxiv.org/abs/2211.15937v1](http://arxiv.org/abs/2211.15937v1), Code: **[https://github.com/dooleys/robustness](https://github.com/dooleys/robustness)**
+- 2022-11-29, **ExpNet: A unified network for Expert-Level Classification**, Junde Wu et.al., Paper: [http://arxiv.org/abs/2211.15672v1](http://arxiv.org/abs/2211.15672v1)
 - 2022-11-28, **Satlas: A Large-Scale, Multi-Task Dataset for Remote Sensing Image Understanding**, Favyen Bastani et.al., Paper: [http://arxiv.org/abs/2211.15660v1](http://arxiv.org/abs/2211.15660v1)
 - 2022-11-28, **Machine Learning for Health symposium 2022 -- Extended Abstract track**, Antonio Parziale et.al., Paper: [http://arxiv.org/abs/2211.15564v1](http://arxiv.org/abs/2211.15564v1)
 - 2022-11-28, **Graph Convolutional Network for Multi-Target Multi-Camera Vehicle Tracking**, Elena Luna et.al., Paper: [http://arxiv.org/abs/2211.15538v1](http://arxiv.org/abs/2211.15538v1)
