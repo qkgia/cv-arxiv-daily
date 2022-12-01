@@ -577,6 +577,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-29**|**Holonomic Control of Arbitrary Configurations of Docked Modboats**|Zhijie Qiao et.al.|[2211.16611v1](http://arxiv.org/abs/2211.16611v1)|null|
 |**2022-11-29**|**Robust design optimization taking into account manufacturing uncertainties of a permanent magnet assisted synchronous reluctance motor**|Adán Reyes et.al.|[2211.16136v1](http://arxiv.org/abs/2211.16136v1)|null|
 |**2022-11-29**|**Improving estimation of entropy production rate for run-and-tumble particle systems by high-order thermodynamic uncertainty relation**|Ruicheng Bao et.al.|[2211.15973v1](http://arxiv.org/abs/2211.15973v1)|null|
 |**2022-11-28**|**How nanoporous silicon-polypyrrole hybrids flex their muscles in aqueous electrolytes: In operando high-resolution x-ray diffraction and electron tomography-based micromechanical computer simulations**|Manuel Brinker et.al.|[2211.15496v1](http://arxiv.org/abs/2211.15496v1)|null|
@@ -748,6 +749,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-30**|**Stochastic particle advection velocimetry (SPAV): theory, simulations, and proof-of-concept experiments**|Ke Zhou et.al.|[2211.17236v1](http://arxiv.org/abs/2211.17236v1)|null|
+|**2022-11-30**|**Canal: A Flexible Interconnect Generator for Coarse-Grained Reconfigurable Arrays**|Jackson Melchert et.al.|[2211.17207v1](http://arxiv.org/abs/2211.17207v1)|null|
+|**2022-11-30**|**Partial crystallization in a Zr-based bulk metallic glass in selective laser melting**|R. S. Khmyrov et.al.|[2211.17140v1](http://arxiv.org/abs/2211.17140v1)|null|
+|**2022-11-30**|**Self-Supervised Continual Graph Learning in Adaptive Riemannian Spaces**|Li Sun et.al.|[2211.17068v1](http://arxiv.org/abs/2211.17068v1)|null|
+|**2022-11-30**|**Evaluating Digital Agriculture Recommendations with Causal Inference**|Ilias Tsoumas et.al.|[2211.16938v1](http://arxiv.org/abs/2211.16938v1)|null|
+|**2022-11-30**|**ATASI-Net: An Efficient Sparse Reconstruction Network for Tomographic SAR Imaging with Adaptive Threshold**|Muhan Wang et.al.|[2211.16855v1](http://arxiv.org/abs/2211.16855v1)|null|
+|**2022-11-30**|**Kinematic Orienteering Problem With Time-Optimal Trajectories for Multirotor UAVs**|Fabian Meyer et.al.|[2211.16837v1](http://arxiv.org/abs/2211.16837v1)|null|
+|**2022-11-30**|**A new experimental set-up for aerosol stability investigations in microgravity conditions**|Charles Graziani et.al.|[2211.16813v1](http://arxiv.org/abs/2211.16813v1)|null|
+|**2022-11-30**|**Dr.3D: Adapting 3D GANs to Artistic Drawings**|Wonjoon Jin et.al.|[2211.16798v1](http://arxiv.org/abs/2211.16798v1)|null|
+|**2022-11-30**|**Quadratic Programming for Continuous Control of Safety-Critical Multi-Agent Systems Under Uncertainty**|Si Wu et.al.|[2211.16720v1](http://arxiv.org/abs/2211.16720v1)|null|
 |**2022-11-29**|**Reusable Self-Attention-based Recommender System for Fashion**|Marjan Celikik et.al.|[2211.16366v1](http://arxiv.org/abs/2211.16366v1)|null|
 |**2022-11-29**|**Mechano-lithography: stress anisotropy driven nematic order in growing three-dimensional bacterial biofilms**|Changhao Li et.al.|[2211.16354v1](http://arxiv.org/abs/2211.16354v1)|null|
 |**2022-11-29**|**NCTV: Neural Clamping Toolkit and Visualization for Neural Network Calibration**|Lei Hsiung et.al.|[2211.16274v1](http://arxiv.org/abs/2211.16274v1)|null|
