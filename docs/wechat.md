@@ -464,6 +464,7 @@
 
 ## MOT
 
+- 2022-11-29, **Transformer-based Hand Gesture Recognition via High-Density EMG Signals: From Instantaneous Recognition to Fusion of Motor Unit Spike Trains**, Mansooreh Montazerin et.al., Paper: [http://arxiv.org/abs/2212.00743v1](http://arxiv.org/abs/2212.00743v1)
 - 2022-11-29, **Holonomic Control of Arbitrary Configurations of Docked Modboats**, Zhijie Qiao et.al., Paper: [http://arxiv.org/abs/2211.16611v1](http://arxiv.org/abs/2211.16611v1)
 - 2022-11-29, **Robust design optimization taking into account manufacturing uncertainties of a permanent magnet assisted synchronous reluctance motor**, Adán Reyes et.al., Paper: [http://arxiv.org/abs/2211.16136v1](http://arxiv.org/abs/2211.16136v1)
 - 2022-11-29, **Improving estimation of entropy production rate for run-and-tumble particle systems by high-order thermodynamic uncertainty relation**, Ruicheng Bao et.al., Paper: [http://arxiv.org/abs/2211.15973v1](http://arxiv.org/abs/2211.15973v1)
@@ -634,6 +635,16 @@
 
 ## Object Tracking
 
+- 2022-12-01, **Learning Transition Operators From Sparse Space-Time Samples**, Christian Kümmerle et.al., Paper: [http://arxiv.org/abs/2212.00746v1](http://arxiv.org/abs/2212.00746v1)
+- 2022-12-01, **What do you MEME? Generating Explanations for Visual Semantic Role Labelling in Memes**, Shivam Sharma et.al., Paper: [http://arxiv.org/abs/2212.00715v1](http://arxiv.org/abs/2212.00715v1), Code: **[https://github.com/LCS2-IIITD/LUMEN-Explaining-Memes](https://github.com/LCS2-IIITD/LUMEN-Explaining-Memes)**
+- 2022-12-01, **CliMedBERT: A Pre-trained Language Model for Climate and Health-related Text**, B. Jalalzadeh Fard et.al., Paper: [http://arxiv.org/abs/2212.00689v1](http://arxiv.org/abs/2212.00689v1)
+- 2022-12-01, **Safe Control Design for Unknown Nonlinear Systems with Koopman-based Fixed-Time Identification**, Mitchell Black et.al., Paper: [http://arxiv.org/abs/2212.00624v1](http://arxiv.org/abs/2212.00624v1)
+- 2022-12-01, **Real-time Trust Prediction in Conditionally Automated Driving Using Physiological Measures**, Jackie Ayoub et.al., Paper: [http://arxiv.org/abs/2212.00607v1](http://arxiv.org/abs/2212.00607v1)
+- 2022-12-01, **Duplicate Bug Report Detection: How Far Are We?**, Ting Zhang et.al., Paper: [http://arxiv.org/abs/2212.00548v1](http://arxiv.org/abs/2212.00548v1)
+- 2022-12-01, **Principled Multi-Aspect Evaluation Measures of Rankings**, Maria Maistro et.al., Paper: [http://arxiv.org/abs/2212.00492v1](http://arxiv.org/abs/2212.00492v1), Code: **[https://github.com/lcschv/toma](https://github.com/lcschv/toma)**
+- 2022-12-01, **GrannGAN: Graph annotation generative adversarial networks**, Yoann Boget et.al., Paper: [http://arxiv.org/abs/2212.00449v1](http://arxiv.org/abs/2212.00449v1), Code: **[https://github.com/yoboget/granngan](https://github.com/yoboget/granngan)**
+- 2022-12-01, **Multi-view Tracking, Re-ID, and Social Network Analysis of a Flock of Visually Similar Birds in an Outdoor Aviary**, Shiting Xiao et.al., Paper: [http://arxiv.org/abs/2212.00266v1](http://arxiv.org/abs/2212.00266v1)
+- 2022-12-01, **Microdomains and Stress Distributions in Bacterial Monolayers on Curved Interfaces**, Blake Langeslay et.al., Paper: [http://arxiv.org/abs/2212.00233v1](http://arxiv.org/abs/2212.00233v1)
 - 2022-11-30, **Stochastic particle advection velocimetry (SPAV): theory, simulations, and proof-of-concept experiments**, Ke Zhou et.al., Paper: [http://arxiv.org/abs/2211.17236v1](http://arxiv.org/abs/2211.17236v1)
 - 2022-11-30, **Canal: A Flexible Interconnect Generator for Coarse-Grained Reconfigurable Arrays**, Jackson Melchert et.al., Paper: [http://arxiv.org/abs/2211.17207v1](http://arxiv.org/abs/2211.17207v1)
 - 2022-11-30, **Partial crystallization in a Zr-based bulk metallic glass in selective laser melting**, R. S. Khmyrov et.al., Paper: [http://arxiv.org/abs/2211.17140v1](http://arxiv.org/abs/2211.17140v1)
@@ -1405,6 +1416,8 @@
 
 ## Multi-camera
 
+- 2022-12-01, **Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation**, Haochen Wang et.al., Paper: [http://arxiv.org/abs/2212.00774v1](http://arxiv.org/abs/2212.00774v1), Code: **[https://github.com/pals-ttic/sjc](https://github.com/pals-ttic/sjc)**
+- 2022-12-01, **Motion Informed Object Detection of Small Insects in Time-lapse Camera Recordings**, Kim Bjerge et.al., Paper: [http://arxiv.org/abs/2212.00423v1](http://arxiv.org/abs/2212.00423v1)
 - 2022-11-21, **Hyperspectral Demosaicing of Snapshot Camera Images Using Deep Learning**, Eric L. Wisotzky et.al., Paper: [http://arxiv.org/abs/2211.15435v1](http://arxiv.org/abs/2211.15435v1)
 - 2022-11-15, **StereoISP: Rethinking Image Signal Processing for Dual Camera Systems**, Ahmad Bin Rabiah et.al., Paper: [http://arxiv.org/abs/2211.07390v2](http://arxiv.org/abs/2211.07390v2)
 - 2022-11-03, **Graph-Based Multi-Camera Soccer Player Tracker**, Jacek Komorowski et.al., Paper: [http://arxiv.org/abs/2211.02125v1](http://arxiv.org/abs/2211.02125v1)
